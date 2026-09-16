@@ -1,6 +1,6 @@
 [build]
   publish = "dist"
-  command = "python3 build.py"
+  command = "python3 -m pip install --quiet -r requirements.txt && python3 build.py"
 
 [[headers]]
   for = "/*"
