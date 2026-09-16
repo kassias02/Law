@@ -108,7 +108,11 @@ def layout(page, pages, all_pages):
     updated = page.get("updated") or page.get("date") or datetime.date.today().isoformat()
     date = page.get("date") or updated
 
-    nav_guides = "".join(f'<li><a href="{p["url"]}"{" aria-current=\"page\"" if p["slug"]==page["slug"] else ""}>{esc(p.get("nav") or p["title"])}</a></li>' for p in guides(pages))
+    def nav_item(p):
+        cur = ' aria-current="page"' if p["slug"] == page["slug"] else ""
+        label = esc(p.get("nav") or p["title"])
+        return '<li><a href="' + p["url"] + '"' + cur + '>' + label + '</a></li>'
+    nav_guides = "".join(nav_item(p) for p in guides(pages))
 
     # JSON-LD
     ld = [{
@@ -249,7 +253,8 @@ def build():
                   f'<xhtml:link rel="alternate" hreflang="{UI[p["lang"]]["other"]}" href="{SITE}{alt}"/></url>')
     sm.append("</urlset>")
     open(os.path.join(DIST, "sitemap.xml"), "w").write("\n".join(sm))
-    open(os.path.join(DIST, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\nSitemap: {SITE}/sitemap.xml\n")
+    robots = "User-agent: *\nAllow: /\nSitemap: " + SITE + "/sitemap.xml\n"
+    open(os.path.join(DIST, "robots.txt"), "w").write(robots)
     print(f"built {len(urls)} pages → {DIST}")
 
 if __name__ == "__main__":
