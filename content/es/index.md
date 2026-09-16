@@ -44,6 +44,10 @@ Si no puede pagar, existen organizaciones que ofrecen abogados gratuitos o de ba
 
 En Estados Unidos un notario público **no** es abogado. Personas que se presentan como "notarios", "consultores de inmigración" o "preparadores" y cobran por llevar casos de deportación han causado la deportación de miles de familias. Solo un abogado con licencia o un representante acreditado por el Departamento de Justicia puede representarle ante la corte. Puede verificar a un abogado en la barra de abogados de su estado.
 
+## Preguntas frecuentes
+
+{{ARTICLE_LIST}}
+
 ## Sobre este sitio
 
 Deportation Defense Law es un recurso informativo editado por [Hassan Benmouloud](/sobre/). No es un bufete de abogados. La información viene de fuentes oficiales (EOIR, USCIS, ICE y el Código de Regulaciones Federales) y se revisa periódicamente. Cuando nos escribe, le ponemos en contacto con abogados de inmigración con licencia que atienden en español.

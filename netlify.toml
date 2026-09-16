@@ -1,6 +1,9 @@
 [build]
   publish = "dist"
-  command = "python3 -m pip install --quiet -r requirements.txt && python3 build.py"
+  command = "pip install -r requirements.txt && python3 build.py"
+
+[build.environment]
+  PYTHON_VERSION = "3.11"
 
 [[headers]]
   for = "/*"
@@ -13,8 +16,3 @@
   for = "/style.css"
   [headers.values]
     Cache-Control = "public, max-age=604800"
-
-[[redirects]]
-  from = "/index.html"
-  to = "/"
-  status = 301

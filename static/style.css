@@ -122,3 +122,8 @@ form .btn { margin-top: 1.25rem; width: 100%; }
 .hp { position: absolute; left: -5000px; }
 
 @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
+
+.article-list { list-style: none; padding: 0; max-width: var(--measure); }
+.article-list li { border-bottom: 1px solid var(--line); margin: 0; }
+.article-list a { display: block; padding: .8rem 0; text-decoration: none; font-weight: 700; }
+.article-list a:hover { color: var(--action); }

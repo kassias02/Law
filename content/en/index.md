@@ -44,6 +44,10 @@ If you cannot afford a lawyer, free and low-cost organizations exist. The court 
 
 In the United States a notary public is **not** a lawyer. People who present themselves as "notarios", "immigration consultants" or "preparers" and charge to handle removal cases have caused thousands of families to be deported. Only a licensed attorney or a DOJ-accredited representative can represent you in court. Verify any attorney through your state bar.
 
+## Common questions
+
+{{ARTICLE_LIST}}
+
 ## About this site
 
 Deportation Defense Law is an informational resource edited by [Hassan Benmouloud](/en/about/). It is not a law firm. The content is built from official sources (EOIR, USCIS, ICE and the Code of Federal Regulations) and reviewed periodically. When you contact us, we pass your case to licensed immigration attorneys.

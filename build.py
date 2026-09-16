@@ -77,8 +77,14 @@ def load_lang(lang):
     return pages
 
 def guides(pages):
-    g = [p for p in pages if p.get("type", "guide") == "guide" and p["slug"] != "index"]
-    return sorted(g, key=lambda p: int(p.get("order", 99)))
+    """Pages shown in the nav: pillar guides only, i.e. those with an explicit order."""
+    g = [p for p in pages if p.get("type", "guide") == "guide" and p.get("order")]
+    return sorted(g, key=lambda p: int(p["order"]))
+
+def articles(pages):
+    """Long-tail articles: guides without an order, newest first."""
+    a = [p for p in pages if p.get("type", "guide") == "guide" and not p.get("order") and p["slug"] != "index"]
+    return sorted(a, key=lambda p: p.get("date", ""), reverse=True)
 
 def contact_buttons(ui, big=False):
     out = []
@@ -127,6 +133,12 @@ def layout(page, pages, all_pages):
     body_html = md(page["body"])
     body_html = body_html.replace("{{CONTACT_BUTTONS}}", contact_buttons(ui))
     body_html = body_html.replace("{{EMAIL}}", EMAIL)
+    body_html = body_html.replace("<p>{{ARTICLE_LIST}}</p>", "{{ARTICLE_LIST}}")
+    if "{{ARTICLE_LIST}}" in body_html:
+        items = "".join(
+            f'<li><a href="{a["url"]}">{esc(a.get("nav") or a["title"])}</a></li>'
+            for a in articles(pages))
+        body_html = body_html.replace("{{ARTICLE_LIST}}", f'<ul class="article-list">{items}</ul>')
 
     essentials = ""
     if page.get("summary"):
