@@ -1,7 +1,7 @@
 ---
 title: Qué hacer si ICE llega a su casa o a su trabajo
 nav: Si ICE llega a su puerta
-description: Sus derechos si agentes de ICE tocan a su puerta o aparecen en su trabajo: la diferencia entre una orden judicial y una orden administrativa, qué decir y qué no firmar.
+description: Sus derechos si ICE llega a su casa o su trabajo: orden judicial vs. orden administrativa, qué decir y qué no firmar.
 slug: que-hacer-si-ice-llega-a-mi-casa
 mirror: what-to-do-if-ice-comes
 date: 2026-09-16

@@ -31,11 +31,11 @@ Puede pedir en cualquier momento que borremos su información escribiendo a <a h
 
 ## Exactitud del contenido
 
-La ley de inmigración cambia con frecuencia. Cada página lleva la fecha de su última revisión. Hacemos un esfuerzo razonable por mantener el contenido correcto y citar fuentes oficiales, pero no garantizamos que esté actualizado en todo momento. Si detecta un error, escríbanos.
+La ley de inmigración cambia con frecuencia. Cada página lleva la fecha de su última revisión; el método editorial se explica en [Sobre este sitio](/sobre/). Hacemos un esfuerzo razonable por mantener el contenido correcto y citar fuentes oficiales, pero no garantizamos que esté actualizado en todo momento. Si detecta un error, escríbanos.
 
 ## Enlaces externos
 
-Enlazamos a fuentes oficiales y a organizaciones independientes. No controlamos esos sitios ni respondemos por su contenido.
+Enlazamos a fuentes oficiales y a organizaciones independientes (por ejemplo, en la guía sobre la [corte de inmigración](/corte-de-inmigracion/)). No controlamos esos sitios ni respondemos por su contenido.
 
 ## Contacto
 

@@ -1,7 +1,8 @@
 ---
 title: Detenido por ICE: cómo localizarlo y pedir una fianza de inmigración
+seo_title: Detenido por ICE: cómo localizarlo y pedir fianza
 nav: Detención y fianza
-description: Qué hacer si un familiar fue detenido por ICE: cómo encontrarlo con el localizador, quién puede pedir fianza, cómo se paga y qué cambió con las reglas de detención obligatoria.
+description: Familiar detenido por ICE: cómo encontrarlo, quién puede pedir fianza, cómo se paga y qué cambió con la detención obligatoria.
 slug: fianza-de-inmigracion
 mirror: immigration-bond
 order: 2
@@ -56,7 +57,7 @@ En la audiencia el juez evalúa dos cosas:
 
 La carga de demostrar que no hay riesgo recae en la persona detenida. Por eso conviene llegar con cartas de apoyo, pruebas de domicilio y, si es posible, una petición familiar o solicitud de alivio ya iniciada.
 
-El mínimo legal es de **$1,500**. Si el juez niega la fianza o fija una cantidad muy alta, se puede apelar a la BIA en 30 días.
+El mínimo legal es de **$1,500** (vea [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/)). Si el juez niega la fianza o fija una cantidad muy alta, se puede apelar a la BIA en 30 días.
 
 ## Cómo se paga
 

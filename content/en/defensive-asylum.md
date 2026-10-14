@@ -1,7 +1,7 @@
 ---
 title: Defensive asylum, withholding of removal and CAT protection
 nav: Asylum and protection
-description: The differences between defensive asylum, withholding of removal and Convention Against Torture protection — the one-year filing deadline, Form I-589, and work authorization.
+description: Defensive asylum vs. withholding of removal vs. CAT protection: the one-year deadline, Form I-589 and work authorization.
 slug: defensive-asylum
 mirror: asilo-defensivo
 order: 5
@@ -81,7 +81,7 @@ Filing an application the judge finds **knowingly false** can bar you permanentl
 Affirmative is filed with USCIS outside proceedings; defensive before the judge inside them. Same form.
 
 **Can I work while waiting?**
-You can apply for work authorization once the application has been pending the required period; confirm the current rule before filing.
+You can apply for [work authorization](/en/work-permit-pending-asylum/) once the application has been pending the required period; confirm the current rule before filing.
 
 **What if it has been more than a year?**
 Changed or extraordinary circumstances may excuse it, and withholding and CAT have no deadline.

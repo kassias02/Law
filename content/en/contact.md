@@ -51,3 +51,5 @@ Tell us the basics and we pass your case to a licensed immigration attorney cove
 </form>
 
 <p style="margin-top:2rem"><strong>Do not put sensitive details here</strong> (document numbers, full criminal history). Save those for your conversation with the attorney.</p>
+
+<p>In the meantime, you can read <a href="/en/notice-to-appear/">what to do after a Notice to Appear</a>, <a href="/en/find-someone-detained-by-ice/">how to find a relative detained by ICE</a> or <a href="/en/immigration-court/">how immigration court works</a>.</p>

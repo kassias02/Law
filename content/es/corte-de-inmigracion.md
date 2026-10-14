@@ -1,5 +1,6 @@
 ---
 title: Cómo funciona la corte de inmigración: audiencias, plazos y qué esperar
+seo_title: Cómo funciona la corte de inmigración: audiencias y plazos
 nav: Corte de inmigración
 description: Qué pasa en una audiencia de la corte de inmigración (EOIR), la diferencia entre master calendar e individual hearing, sus derechos ante el juez y cómo apelar.
 slug: corte-de-inmigracion

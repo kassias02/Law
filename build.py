@@ -6,7 +6,8 @@ Add an article: drop a .md file in content/es/ (and its mirror in content/en/)
 with front matter: title, description, slug, date, updated, mirror (slug of the
 other-language page), summary (list), sources (list), order (nav order, optional),
 faq (list "Q|A"), byline (true: author line on index/pages), schema (e.g. AboutPage),
-noindex (true: robots noindex, no hreflang, left out of the sitemap).
+noindex (true: robots noindex, no hreflang, left out of the sitemap),
+seo_title (optional shorter <title>; the H1 keeps title).
 """
 import os, re, shutil, json, datetime, html
 import markdown
@@ -19,6 +20,8 @@ AUTHOR = "Hassan Benmouloud"
 PHONE = os.environ.get("DDL_PHONE", "")        # e.g. "+1 713 555 0100" (empty = hidden)
 WHATSAPP = os.environ.get("DDL_WHATSAPP", "")  # e.g. "17135550100" (digits, empty = hidden)
 EMAIL = "contact@deportationdefenselaw.com"
+OG_ALT = {"es": "Deportation Defense Law: guía clara sobre la corte de inmigración, la detención por ICE y sus defensas",
+          "en": "Deportation Defense Law: plain-language guides to U.S. removal proceedings"}
 
 UI = {
     "es": dict(lang="es", dir="/", other="en", other_label="English", nav_home="Inicio",
@@ -188,19 +191,27 @@ def layout(page, pages, all_pages):
     hreflang = "" if noindex else (f'<link rel="alternate" hreflang="{lang}" href="{canonical}">\n'
         f'<link rel="alternate" hreflang="{ui["other"]}" href="{SITE}{mirror_url}">\n'
         f'<link rel="alternate" hreflang="x-default" href="{SITE}{url_for("es", mirror if lang=="en" else page["slug"])}">\n')
+    seo = page.get("seo_title") or title
+    suffix = " | Deportation Defense Law"
+    page_title = seo if is_index or len(seo + suffix) > 65 else seo + suffix
+    canonical_tag = "" if page["slug"] == "404" else f'<link rel="canonical" href="{canonical}">\n'
     return f'''<!doctype html>
 <html lang="{lang}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-{robots_meta}<title>{esc(title)}{"" if is_index else " | Deportation Defense Law"}</title>
+{robots_meta}<title>{esc(page_title)}</title>
 <meta name="description" content="{esc(desc)}">
-<link rel="canonical" href="{canonical}">
-{hreflang}<meta property="og:title" content="{esc(title)}">
+{canonical_tag}{hreflang}<meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:type" content="{"website" if is_index else "article"}">
 <meta property="og:locale" content="{"es_US" if lang=="es" else "en_US"}">
+<meta property="og:image" content="{SITE}/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="{OG_ALT[lang]}">
+<meta name="twitter:card" content="summary_large_image">
 <meta name="author" content="{AUTHOR}">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -253,7 +264,7 @@ def build():
             urls.append((p["url"], p.get("updated") or p.get("date") or datetime.date.today().isoformat(), p))
     # 404
     ui = UI["es"]
-    p404 = dict(title=ui["not_found"], description="", slug="404", lang="es", type="page", url="/404/",
+    p404 = dict(title=ui["not_found"], description="", slug="404", mirror="index", noindex="true", lang="es", type="page", url="/404/",
                 body=f'<p>{ui["not_found_text"]}</p><p><a href="/">Inicio</a> · <a href="/en/">English</a></p>')
     open(os.path.join(DIST, "404.html"), "w", encoding="utf-8").write(layout(p404, all_pages["es"], all_pages))
     # sitemap

@@ -1,7 +1,7 @@
 ---
 title: ¿Cuánto tarda un caso en la corte de inmigración?
 nav: Cuánto tarda un caso
-description: Tiempos reales de un caso de deportación: diferencia entre detenido y no detenido, cuánto se espera entre audiencias, qué alarga el proceso y cómo consultar su fecha.
+description: Tiempos reales de un caso de deportación: detenido o no, espera entre audiencias, qué alarga el proceso y cómo consultar su fecha.
 slug: cuanto-tarda-un-caso-en-la-corte-de-inmigracion
 mirror: how-long-immigration-court-takes
 date: 2026-09-16

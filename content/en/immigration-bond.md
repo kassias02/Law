@@ -1,7 +1,8 @@
 ---
 title: Detained by ICE: how to find someone and request an immigration bond
+seo_title: Detained by ICE: find someone and request a bond
 nav: Detention and bond
-description: What to do when a relative is detained by ICE — the online detainee locator, who qualifies for bond, how a bond hearing works, and how the money is paid and returned.
+description: A relative detained by ICE: the detainee locator, who qualifies for bond, how a bond hearing works, and how bond is paid and returned.
 slug: immigration-bond
 mirror: fianza-de-inmigracion
 order: 2
@@ -54,7 +55,7 @@ The judge weighs two things:
 
 The burden is on the detained person. Come prepared with support letters, proof of residence and, if possible, a pending family petition or application for relief.
 
-The statutory minimum is **$1,500**. A denial or an excessive amount can be appealed to the BIA within 30 days.
+The statutory minimum is **$1,500** (see [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/)). A denial or an excessive amount can be appealed to the BIA within 30 days.
 
 ## How bond is paid
 

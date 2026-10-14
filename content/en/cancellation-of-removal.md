@@ -1,7 +1,8 @@
 ---
 title: Cancellation of removal: the ten-year rule and the hardship standard
+seo_title: Cancellation of removal: the 10-year rule and hardship
 nav: Cancellation of removal
-description: Requirements for cancellation of removal for non-permanent residents (ten years, good moral character, exceptional and extremely unusual hardship) and for lawful permanent residents — Forms EOIR-42B and 42A.
+description: Cancellation of removal requirements: ten years of presence, good moral character, exceptional hardship, and Forms EOIR-42B and EOIR-42A.
 slug: cancellation-of-removal
 mirror: cancelacion-de-deportacion
 order: 4
@@ -14,10 +15,10 @@ summary:
   - Only 4,000 grants are available per fiscal year. If granted, you receive lawful permanent residence.
 sources:
   - INA § 240A (8 U.S.C. § 1229b) – Cancellation of removal|https://www.law.cornell.edu/uscode/text/8/1229b
-  - EOIR – Form EOIR-42B (non-permanent residents)|https://www.justice.gov/eoir/page/file/eoir42b/dl
-  - EOIR – Form EOIR-42A (lawful permanent residents)|https://www.justice.gov/eoir/page/file/eoir42a/dl
+  - EOIR – Form EOIR-42B (non-permanent residents)|https://www.justice.gov/media/1191856/dl
+  - EOIR – Form EOIR-42A (lawful permanent residents)|https://www.justice.gov/media/1191956/dl
   - Supreme Court – Niz-Chavez v. Garland (2021)|https://www.supremecourt.gov/opinions/20pdf/19-863_6jgm.pdf
-  - Supreme Court – Wilkinson v. Garland (2024)|https://www.supremecourt.gov/opinions/23pdf/22-666_ihdj.pdf
+  - Supreme Court – Wilkinson v. Garland (2024)|https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf
 faq:
   - Can I apply for cancellation if I am not in proceedings?|No. It exists only as relief inside removal proceedings before a judge. Deliberately triggering proceedings to apply is an extremely risky strategy no serious attorney recommends without detailed analysis.
   - Do my adult children count as qualifying relatives?|For non-resident cancellation, a child must be unmarried and under 21 at the time of the decision. A spouse or parent also qualifies if they are a citizen or lawful permanent resident.

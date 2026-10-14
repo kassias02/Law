@@ -1,5 +1,6 @@
 ---
 title: Falté a mi corte de inmigración: qué es una orden en ausencia y cómo reabrir el caso
+seo_title: Falté a mi corte de inmigración: orden en ausencia y reapertura
 nav: Falté a mi audiencia
 description: Qué pasa si no se presenta a una audiencia de inmigración, qué es una orden de deportación en ausencia y en qué casos se puede pedir la reapertura del caso.
 slug: orden-de-deportacion-en-ausencia

@@ -1,7 +1,7 @@
 ---
 title: Permiso de trabajo con una solicitud de asilo pendiente
 nav: Permiso de trabajo y asilo
-description: Cómo funciona el permiso de trabajo (EAD) cuando hay una solicitud de asilo pendiente: el reloj de asilo, el Formulario I-765, el código C08 y los retrasos que detienen el conteo.
+description: Permiso de trabajo (EAD) con asilo pendiente: el reloj de asilo, el Formulario I-765, la categoría C08 y los retrasos que detienen el conteo.
 slug: permiso-de-trabajo-con-asilo-pendiente
 mirror: work-permit-pending-asylum
 date: 2026-09-16
@@ -13,7 +13,7 @@ summary:
   - Presentar el I-765 antes de tiempo lleva al rechazo y le hace perder tiempo, no solo la tarifa.
 sources:
   - USCIS – Formulario I-765, Solicitud de autorización de empleo|https://www.uscis.gov/i-765
-  - USCIS – Autorización de empleo para solicitantes de asilo|https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum/asylum-based-employment-authorization-document-ead
+  - USCIS – Formulario I-765, solicitud de autorización de empleo (categoría (c)(8))|https://www.uscis.gov/es/i-765
   - INA § 208(d)(2) (8 U.S.C. § 1158) – Autorización de empleo|https://www.law.cornell.edu/uscode/text/8/1158
   - 8 C.F.R. § 208.7 – Autorización de empleo para solicitantes de asilo|https://www.law.cornell.edu/cfr/text/8/208.7
 faq:

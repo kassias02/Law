@@ -31,11 +31,11 @@ You can ask us to delete your information at any time by writing to <a href="mai
 
 ## Accuracy
 
-Immigration law changes frequently. Each page carries its last-reviewed date. We make a reasonable effort to keep the content accurate and to cite official sources, but we do not warrant that it is current at all times. If you spot an error, tell us.
+Immigration law changes frequently. Each page carries its last-reviewed date; our editorial method is described in [About this site](/en/about/). We make a reasonable effort to keep the content accurate and to cite official sources, but we do not warrant that it is current at all times. If you spot an error, tell us.
 
 ## External links
 
-We link to official sources and independent organizations. We do not control those sites or answer for their content.
+We link to official sources and independent organizations (for example, in the guide to [immigration court](/en/immigration-court/)). We do not control those sites or answer for their content.
 
 ## Contact
 

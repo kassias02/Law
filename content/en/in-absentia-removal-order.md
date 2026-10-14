@@ -1,5 +1,6 @@
 ---
 title: I missed my immigration court hearing: in absentia orders and reopening
+seo_title: Missed immigration court: in absentia orders and reopening
 nav: I missed my hearing
 description: What happens when you miss an immigration hearing, what an in absentia removal order means, and the limited grounds and deadlines for reopening the case.
 slug: in-absentia-removal-order

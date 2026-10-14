@@ -33,7 +33,7 @@ Pages carry a last-reviewed date. Immigration law moves fast, especially on dete
 
 ## How the contact form works
 
-When you submit the form, your information goes to **a licensed immigration law firm** covering your area and case type, so they can contact you. We charge nothing to the people who write in. Firms that receive cases pay a flat advertising fee; that fee never depends on whether you hire the attorney or on what you pay them.
+When you submit the form, your information goes to **a licensed immigration law firm** covering your area and case type, so they can contact you. We charge nothing to the people who write in. Firms that receive cases pay a flat advertising fee (see the [legal notice](/en/legal-notice/)); that fee never depends on whether you hire the attorney or on what you pay them.
 
 We are not a comprehensive directory and this is not an endorsement. Compare firms, ask for fees in writing, and verify any attorney's license with the state bar before signing anything.
 

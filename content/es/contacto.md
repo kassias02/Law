@@ -3,7 +3,7 @@ title: Hablar con un abogado de inmigración
 slug: contacto
 mirror: contact
 type: page
-description: Formulario para que un abogado de inmigración con licencia le contacte sobre su caso de deportación. Gratis y sin compromiso. Este sitio no es un bufete de abogados.
+description: Formulario para que un abogado de inmigración con licencia le contacte sobre su caso. Gratis y sin compromiso. Este sitio no es un bufete.
 date: 2026-09-16
 updated: 2026-09-16
 ---
@@ -51,3 +51,5 @@ Cuéntenos lo básico y pasamos su caso a un abogado de inmigración con licenci
 </form>
 
 <p style="margin-top:2rem"><strong>No escriba aquí detalles sensibles</strong> (números de documentos, antecedentes penales completos). Guárdelos para su conversación con el abogado.</p>
+
+<p>Mientras tanto, puede leer <a href="/notice-to-appear/">qué hacer si recibió un Notice to Appear</a>, <a href="/como-saber-si-mi-familiar-esta-detenido/">cómo localizar a un familiar detenido por ICE</a> o <a href="/corte-de-inmigracion/">cómo funciona la corte de inmigración</a>.</p>

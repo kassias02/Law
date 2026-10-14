@@ -13,7 +13,7 @@ summary:
   - Filing the I-765 too early means rejection, and you lose time as well as the fee.
 sources:
   - USCIS – Form I-765, Application for Employment Authorization|https://www.uscis.gov/i-765
-  - USCIS – Asylum-based employment authorization|https://www.uscis.gov/humanitarian/refugees-and-asylum/asylum/asylum-based-employment-authorization-document-ead
+  - USCIS – Form I-765, Application for Employment Authorization (category (c)(8))|https://www.uscis.gov/i-765
   - INA § 208(d)(2) (8 U.S.C. § 1158) – Employment authorization|https://www.law.cornell.edu/uscode/text/8/1158
   - 8 C.F.R. § 208.7 – Employment authorization for asylum applicants|https://www.law.cornell.edu/cfr/text/8/208.7
 faq:
