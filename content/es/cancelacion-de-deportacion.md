@@ -6,7 +6,7 @@ slug: cancelacion-de-deportacion
 mirror: cancellation-of-removal
 order: 4
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - Es una defensa que solo se pide ante el juez de inmigración, dentro de un proceso de deportación. No se puede solicitar por adelantado ante USCIS.
   - Para no residentes exige 10 años de presencia continua, buen carácter moral, no tener ciertas condenas y demostrar sufrimiento "excepcional y extremadamente inusual" de un cónyuge, padre o hijo ciudadano o residente.
@@ -23,6 +23,9 @@ faq:
   - ¿Mis hijos cuentan como familiares calificados si ya son mayores?|Para la cancelación de no residentes, el hijo debe ser menor de 21 años y soltero en el momento de la decisión. Los padres y el cónyuge también califican si son ciudadanos o residentes.
   - ¿Qué es el sufrimiento "excepcional y extremadamente inusual"?|Es un estándar mucho más alto que el sufrimiento normal de una separación. Se examinan la salud, la edad, la educación, las condiciones del país y la situación económica del familiar calificado. Casos con un hijo con una enfermedad o discapacidad grave son los más típicos.
 ---
+<h2 id="quien-puede-pedir-la-cancelacion">¿Qué es la cancelación de deportación y quién puede pedirla?</h2>
+<p>Es una defensa que solo se pide ante el juez de inmigración, dentro de un proceso de deportación; no se puede solicitar por adelantado ante USCIS. Para no residentes exige 10 años de presencia continua, buen carácter moral, no tener ciertas condenas y demostrar sufrimiento "excepcional y extremadamente inusual" de un cónyuge, padre o hijo ciudadano o residente. Si el juez la concede, la persona obtiene la residencia permanente.</p>
+
 ## Qué es y por qué es tan buscada
 
 La **cancelación de remoción** (*cancellation of removal*), conocida popularmente como "la ley de los 10 años", permite al juez de inmigración detener una deportación y conceder la residencia permanente a personas que llevan muchos años en el país. Existen dos versiones, con requisitos distintos.

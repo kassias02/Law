@@ -6,7 +6,7 @@ slug: immigration-bond
 mirror: fianza-de-inmigracion
 order: 2
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - Find the person through the ICE detainee locator (locator.ice.gov) using the A-Number, or name, date of birth and country.
   - Not everyone can request bond. Certain convictions — and, under recent decisions, certain manners of entry — trigger mandatory detention.
@@ -23,6 +23,9 @@ faq:
   - Who can pay the bond?|An adult with lawful status in the U.S. (citizen or lawful permanent resident) with valid ID, at an ICE ERO office, usually by cashier's check or online through CeBONDS.
   - How long does a bond hearing take to schedule?|It varies. Many courts schedule within one or two weeks of a written request, but crowded detention facilities can take longer.
 ---
+<h2 id="what-is-an-immigration-bond">What is an immigration bond, and who can request one?</h2>
+<p>It is money posted so ICE releases a detained person while the case continues; it is returned at the end if the person attends every hearing. Anyone not subject to mandatory detention can ask the immigration judge for a bond hearing — certain convictions and, under recent decisions, certain manners of entry rule it out. The statutory minimum is $1,500.</p>
+
 ## The first 48 hours
 
 1. **Locate the person.** Use the [ICE detainee locator](https://locator.ice.gov/). You need the A-Number, or the full name, date of birth and country of birth. Records can take up to 48 hours to appear, and detainees are frequently transferred.

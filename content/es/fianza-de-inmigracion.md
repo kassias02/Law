@@ -6,7 +6,7 @@ slug: fianza-de-inmigracion
 mirror: immigration-bond
 order: 2
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - Localice a la persona en el localizador de ICE (locator.ice.gov) con su A-Number o nombre, fecha de nacimiento y país.
   - No todos pueden pedir fianza. Ciertas condenas y, según decisiones recientes, ciertas formas de entrada llevan a detención obligatoria.
@@ -23,6 +23,9 @@ faq:
   - ¿Quién puede pagar la fianza?|Una persona mayor de edad con estatus legal en Estados Unidos (ciudadano o residente) que presente identificación válida. Se paga en una oficina de ICE ERO, normalmente con cheque de caja o en línea a través de CeBONDS.
   - ¿Cuánto tarda una audiencia de fianza?|Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
 ---
+<h2 id="que-es-una-fianza-de-inmigracion">¿Qué es una fianza de inmigración y quién puede pedirla?</h2>
+<p>Es el dinero que se deposita para que ICE libere a una persona detenida mientras sigue su caso; se devuelve al final si la persona cumple con todas las citas. Puede pedirla al juez de inmigración quien no esté sujeto a detención obligatoria: ciertas condenas y, según decisiones recientes, ciertas formas de entrada la impiden. El mínimo legal es de $1,500.</p>
+
 ## Las primeras 48 horas
 
 Cuando ICE detiene a alguien, la familia suele enterarse por una llamada de la propia persona o por un vecino. Los primeros pasos, en orden:

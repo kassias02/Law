@@ -5,7 +5,9 @@ mirror: about
 type: page
 description: Quién edita Deportation Defense Law, de dónde viene la información, cómo se revisa y qué relación tenemos con los abogados a los que le conectamos.
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
+byline: true
+schema: AboutPage
 ---
 ## Quién edita este sitio
 
@@ -24,6 +26,10 @@ Cada guía se escribe a partir de fuentes primarias, que se citan al final de la
 - Investigación de organizaciones reconocidas, como el American Immigration Council.
 
 Las páginas llevan la fecha de la última revisión. El derecho migratorio cambia con rapidez, sobre todo en materia de detención y fianza: si una página lleva meses sin revisarse, tómela como punto de partida y confirme con un abogado.
+
+<h2 id="metodo-editorial">Método editorial e identidad legal</h2>
+<p>Basamos el contenido en fuentes oficiales: la Oficina Ejecutiva de Revisión de Inmigración (<a href="https://www.justice.gov/eoir" rel="noopener nofollow">EOIR, justice.gov/eoir</a>), el Servicio de Ciudadanía e Inmigración (<a href="https://www.uscis.gov/" rel="noopener nofollow">USCIS, uscis.gov</a>), el Servicio de Inmigración y Control de Aduanas (<a href="https://www.ice.gov/" rel="noopener nofollow">ICE, ice.gov</a>) y el Título 8 del Código de Regulaciones Federales (<a href="https://www.ecfr.gov/current/title-8" rel="noopener nofollow">8 C.F.R., ecfr.gov</a>). Cada guía enlaza sus fuentes al final y muestra la fecha de su última revisión.</p>
+<p>Este sitio es publicado por <strong>Loom Digital LLC</strong>. No es un bufete de abogados.</p>
 
 ## Cómo funciona el contacto
 

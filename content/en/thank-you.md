@@ -6,6 +6,7 @@ type: page
 description: Form submission confirmation.
 date: 2026-09-16
 updated: 2026-09-16
+noindex: true
 ---
 Thank you. Your information is on its way to a licensed immigration attorney covering your area.
 

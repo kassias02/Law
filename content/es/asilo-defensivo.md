@@ -6,7 +6,7 @@ slug: asilo-defensivo
 mirror: defensive-asylum
 order: 5
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - El asilo defensivo se pide ante el juez de inmigración como defensa dentro del proceso de deportación, con el Formulario I-589.
   - Regla del año: en general debe pedir asilo dentro del primer año tras su última entrada, salvo excepciones por circunstancias cambiantes o extraordinarias.
@@ -23,6 +23,9 @@ faq:
   - ¿Puedo trabajar mientras espera mi caso de asilo?|Puede solicitar el permiso de trabajo (Formulario I-765) después de que su solicitud de asilo lleve un tiempo pendiente. Los plazos y requisitos han cambiado varias veces; confirme el plazo vigente con un abogado o en el sitio de USCIS antes de presentar.
   - ¿Qué pasa si pasó más de un año desde que entré?|Puede seguir siendo elegible si demuestra circunstancias cambiantes (por ejemplo, un cambio de condiciones en su país) o circunstancias extraordinarias (enfermedad, ser menor no acompañado) que justifiquen el retraso. Aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.
 ---
+<h2 id="que-es-el-asilo-defensivo">¿Qué es el asilo defensivo y quién puede pedirlo?</h2>
+<p>Es la solicitud de asilo que se presenta ante el juez de inmigración, con el Formulario I-589, como defensa dentro de un proceso de deportación. En general debe pedirse dentro del primer año tras su última entrada, salvo excepciones por circunstancias cambiantes o extraordinarias. Si no califica para asilo, todavía puede calificar para retención de expulsión o para protección bajo la CAT, que no tienen ese plazo de un año.</p>
+
 ## Las tres protecciones
 
 Si teme volver a su país, existen tres formas de protección. Se piden con el mismo formulario, el **I-589**, y el juez las analiza en orden.

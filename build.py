@@ -4,7 +4,9 @@
 Usage: python3 build.py
 Add an article: drop a .md file in content/es/ (and its mirror in content/en/)
 with front matter: title, description, slug, date, updated, mirror (slug of the
-other-language page), summary (list), sources (list), order (nav order, optional).
+other-language page), summary (list), sources (list), order (nav order, optional),
+faq (list "Q|A"), byline (true: author line on index/pages), schema (e.g. AboutPage),
+noindex (true: robots noindex, no hreflang, left out of the sitemap).
 """
 import os, re, shutil, json, datetime, html
 import markdown
@@ -129,7 +131,15 @@ def layout(page, pages, all_pages):
             "publisher": {"@type": "Organization", "name": "Deportation Defense Law", "url": SITE},
             "mainEntityOfPage": canonical
         })
-        if page.get("faq"):
+    about_url = SITE + ("/sobre/" if lang=="es" else "/en/about/")
+    if page.get("byline") and (is_index or page.get("type") == "page"):
+        pub = {"@type": "Organization", "name": "Deportation Defense Law", "url": SITE}
+        if page.get("schema") == "AboutPage":
+            pub = {"@type": "Organization", "name": "Deportation Defense Law", "legalName": "Loom Digital LLC", "url": SITE}
+        ld.append({"@context": "https://schema.org", "@type": page.get("schema") or "WebPage", "url": canonical,
+                   "inLanguage": lang, "dateModified": updated,
+                   "author": {"@type": "Person", "name": AUTHOR, "url": about_url}, "publisher": pub})
+    if page.get("faq"):
             ld.append({"@context": "https://schema.org", "@type": "FAQPage",
                        "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
                                       for q, a in [x.split("|", 1) for x in page["faq"]]]})
@@ -156,10 +166,12 @@ def layout(page, pages, all_pages):
             items.append(f'<li><a href="{esc(link.strip())}" rel="noopener nofollow">{esc(name.strip())}</a></li>' if link else f"<li>{esc(name)}</li>")
         sources = f'<section class="sources"><h2>{ui["sources"]}</h2><ul>{"".join(items)}</ul></section>'
 
+    meta_line = f'<p class="meta">{ui["by"]} <a href="{"/sobre/" if lang=="es" else "/en/about/"}">{AUTHOR}</a> · {ui["updated"]}: <time datetime="{updated}">{updated}</time></p>'
+    byline = meta_line if page.get("byline") else ""
     if is_index:
-        main = body_html
+        main = body_html.replace("</h1>", "</h1>\n" + byline, 1) if byline else body_html
     elif page.get("type") == "page":
-        main = f'<article class="page"><h1>{esc(title)}</h1>{body_html}</article>'
+        main = f'<article class="page"><h1>{esc(title)}</h1>{byline}{body_html}</article>'
     else:
         meta_line = f'<p class="meta">{ui["by"]} <a href="{"/sobre/" if lang=="es" else "/en/about/"}">{AUTHOR}</a> · {ui["updated"]}: <time datetime="{updated}">{updated}</time></p>'
         main = f'<article class="guide"><header><h1>{esc(title)}</h1>{meta_line}</header>{essentials}{body_html}{sources}</article>'
@@ -171,18 +183,20 @@ def layout(page, pages, all_pages):
   <div class="btn-row">{contact_buttons(ui, big=True)}</div>
 </section>'''
 
+    noindex = str(page.get("noindex", "")).lower() == "true"
+    robots_meta = '<meta name="robots" content="noindex, follow">\n' if noindex else ""
+    hreflang = "" if noindex else (f'<link rel="alternate" hreflang="{lang}" href="{canonical}">\n'
+        f'<link rel="alternate" hreflang="{ui["other"]}" href="{SITE}{mirror_url}">\n'
+        f'<link rel="alternate" hreflang="x-default" href="{SITE}{url_for("es", mirror if lang=="en" else page["slug"])}">\n')
     return f'''<!doctype html>
 <html lang="{lang}">
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{esc(title)}{"" if is_index else " | Deportation Defense Law"}</title>
+{robots_meta}<title>{esc(title)}{"" if is_index else " | Deportation Defense Law"}</title>
 <meta name="description" content="{esc(desc)}">
 <link rel="canonical" href="{canonical}">
-<link rel="alternate" hreflang="{lang}" href="{canonical}">
-<link rel="alternate" hreflang="{ui["other"]}" href="{SITE}{mirror_url}">
-<link rel="alternate" hreflang="x-default" href="{SITE}{url_for("es", mirror if lang=="en" else page["slug"])}">
-<meta property="og:title" content="{esc(title)}">
+{hreflang}<meta property="og:title" content="{esc(title)}">
 <meta property="og:description" content="{esc(desc)}">
 <meta property="og:url" content="{canonical}">
 <meta property="og:type" content="{"website" if is_index else "article"}">
@@ -246,6 +260,8 @@ def build():
     sm = ['<?xml version="1.0" encoding="UTF-8"?>',
           '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">']
     for url, lastmod, p in urls:
+        if str(p.get("noindex", "")).lower() == "true":
+            continue
         mirror = p.get("mirror") or p["slug"]
         alt = url_for(UI[p["lang"]]["other"], mirror)
         sm.append(f'<url><loc>{SITE}{url}</loc><lastmod>{lastmod}</lastmod>'
