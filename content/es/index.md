@@ -5,7 +5,13 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
+byline: true
+faq:
+  - ¿Qué pasa si falto a mi audiencia?|El juez puede ordenar su deportación en ausencia ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: 1-800-898-7180 o acis.eoir.justice.gov con su número A.
+  - ¿El gobierno me da un abogado gratis?|No. Usted tiene derecho a un abogado, pero el gobierno no se lo paga. Existen organizaciones que ofrecen abogados gratuitos o de bajo costo, y la corte le entrega una lista al inicio del proceso.
+  - ¿Un notario puede llevar mi caso de deportación?|No. En Estados Unidos un notario público no es abogado. Solo un abogado con licencia o un representante acreditado por el Departamento de Justicia puede representarle ante la corte.
+  - ¿Qué defensas existen en la corte de inmigración?|Las más comunes son la cancelación de deportación, el asilo defensivo con retención de expulsión y CAT, el ajuste de estatus y la salida voluntaria. Cada una tiene requisitos estrictos y plazos.
 ---
 <div class="hero">
 <h1>Está en proceso de deportación. Esto es lo que puede hacer hoy.</h1>
@@ -47,6 +53,18 @@ En Estados Unidos un notario público **no** es abogado. Personas que se present
 ## Preguntas frecuentes
 
 {{ARTICLE_LIST}}
+
+**¿Qué pasa si falto a mi audiencia?**
+El juez puede ordenar su deportación en ausencia ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: 1-800-898-7180 o acis.eoir.justice.gov con su número A.
+
+**¿El gobierno me da un abogado gratis?**
+No. Usted tiene derecho a un abogado, pero el gobierno no se lo paga. Existen organizaciones que ofrecen abogados gratuitos o de bajo costo, y la corte le entrega una lista al inicio del proceso.
+
+**¿Un notario puede llevar mi caso de deportación?**
+No. En Estados Unidos un notario público no es abogado. Solo un abogado con licencia o un representante acreditado por el Departamento de Justicia puede representarle ante la corte.
+
+**¿Qué defensas existen en la corte de inmigración?**
+Las más comunes son la cancelación de deportación, el asilo defensivo con retención de expulsión y CAT, el ajuste de estatus y la salida voluntaria. Cada una tiene requisitos estrictos y plazos.
 
 ## Sobre este sitio
 

@@ -6,7 +6,7 @@ slug: notice-to-appear
 mirror: notice-to-appear
 order: 1
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - The NTA opens your case in immigration court. It is not a removal order.
   - Confirm the date, time and location through the EOIR system (1-800-898-7180). Many NTAs are issued incomplete.
@@ -23,6 +23,9 @@ faq:
   - What if my NTA has no date or time?|That is common. The court mails a hearing notice later. This is why your address must be current and why you should check your case in the EOIR system.
   - Can I ask for more time to find a lawyer?|Yes. At the first hearing you can ask the judge for a continuance to find counsel. It is usually granted once.
 ---
+<h2 id="what-is-a-notice-to-appear">What is a Notice to Appear, and what should I do when I get one?</h2>
+<p>The Notice to Appear (NTA) is the document that opens your case in immigration court; it is not a removal order. Confirm the date, time and location of your hearing through the EOIR system (1-800-898-7180), because many NTAs are issued incomplete. And do not miss it: if you fail to appear, the judge can order you removed in absentia.</p>
+
 ## What the Notice to Appear is
 
 The **Notice to Appear** (Form I-862, often called the "NTA") is the charging document the Department of Homeland Security uses to start removal proceedings. It is issued by ICE, CBP or USCIS and filed with the immigration court (EOIR), which sits inside the Department of Justice.

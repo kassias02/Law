@@ -5,7 +5,7 @@ description: Qué pasa si no se presenta a una audiencia de inmigración, qué e
 slug: orden-de-deportacion-en-ausencia
 mirror: in-absentia-removal-order
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - Si no se presenta, el juez puede ordenar su deportación ese mismo día sin escuchar su defensa.
   - Se puede pedir reabrir el caso con una moción, pero los plazos son cortos y los motivos son limitados.
@@ -21,6 +21,9 @@ faq:
   - ¿Cuánto tiempo tengo para reabrir por circunstancias excepcionales?|180 días desde la orden. Cuentan situaciones como una enfermedad grave suya o la muerte de un familiar inmediato, no un simple olvido o un problema de transporte.
   - ¿Presentar una moción detiene mi deportación?|No automáticamente. Hay que pedir por separado una suspensión (stay of removal). Mientras tanto, ICE puede ejecutar la orden.
 ---
+<h2 id="que-pasa-si-falto-a-la-corte">¿Qué pasa si falto a mi corte de inmigración y se puede reabrir el caso?</h2>
+<p>Si no se presenta, el juez puede ordenar su deportación ese mismo día sin escuchar su defensa. Se puede pedir reabrir el caso con una moción: sin plazo si no recibió una notificación adecuada, y dentro de 180 días si hubo circunstancias excepcionales. Actúe de inmediato.</p>
+
 ## Lo que pasó en la sala
 
 Si usted no se presentó y el gobierno demostró que fue notificado correctamente, el juez pudo dictar una **orden de deportación en ausencia** (*in absentia*). Se dicta el mismo día, sin escuchar su versión y sin examinar ninguna defensa que usted hubiera podido presentar.

@@ -5,7 +5,7 @@ description: What happens when you miss an immigration hearing, what an in absen
 slug: in-absentia-removal-order
 mirror: orden-de-deportacion-en-ausencia
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - If you fail to appear, the judge can order removal that same day without hearing your defense.
   - Reopening is possible by motion, but the grounds are narrow and the deadlines are short.
@@ -21,6 +21,9 @@ faq:
   - How long do I have under exceptional circumstances?|180 days from the order. Serious illness or the death of an immediate relative qualify; forgetting the date or transport problems do not.
   - Does filing a motion stop my deportation?|Not automatically. You must separately request a stay of removal. Until then ICE can execute the order.
 ---
+<h2 id="what-happens-if-i-miss-court">What happens if I miss immigration court, and can the case be reopened?</h2>
+<p>If you fail to appear, the judge can order removal that same day without hearing your defense. You can ask to reopen by motion: with no time limit for lack of proper notice, and within 180 days for exceptional circumstances. Act immediately.</p>
+
 ## What happened in the courtroom
 
 If you did not appear and the government showed you were properly served, the judge could enter an **in absentia removal order**. It is entered the same day, without hearing your side and without considering any defense you might have raised.

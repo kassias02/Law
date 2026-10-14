@@ -6,6 +6,7 @@ type: page
 description: Confirmación de envío del formulario.
 date: 2026-09-16
 updated: 2026-09-16
+noindex: true
 ---
 Gracias. Su información ya está en camino a un abogado de inmigración con licencia que atiende su zona.
 

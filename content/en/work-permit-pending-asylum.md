@@ -5,7 +5,7 @@ description: How employment authorization works with a pending asylum case — t
 slug: work-permit-pending-asylum
 mirror: permiso-de-trabajo-con-asilo-pendiente
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - The work permit for pending asylum is requested on Form I-765, category C08.
   - A waiting period runs from the date your asylum application is properly filed. The rules have changed repeatedly, so confirm the current period before filing.
@@ -21,6 +21,9 @@ faq:
   - What stops the asylum clock?|Delays attributable to you: requesting a continuance, declining the first available hearing date, failing to file documents on time. Government delays should not stop it.
   - How much does the asylum work permit cost?|I-765 fees have changed several times and depend on category and fee waiver eligibility. Check the USCIS fee page before filing, because an incorrect payment gets the whole package rejected.
 ---
+<h2 id="can-i-work-with-pending-asylum">Can I get a work permit while my asylum case is pending?</h2>
+<p>Yes, on Form I-765 under category C08, but only after a waiting period that runs from the date your asylum application is properly filed. That asylum clock stops for delays you cause, such as requesting a continuance. Filing the I-765 too early means rejection, and you lose time as well as the fee.</p>
+
 ## First: file the asylum application properly
 
 The clock does not start when you decide to seek asylum. It starts when your **Form I-589 is properly filed**. If your case is in court, that means filing it with the immigration judge, not USCIS, and having it entered in the record. Ask for the stamped receipt and keep it: it proves the date that counts.

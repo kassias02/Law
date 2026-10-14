@@ -6,7 +6,7 @@ slug: cancellation-of-removal
 mirror: cancelacion-de-deportacion
 order: 4
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - Cancellation is requested only before an immigration judge, inside removal proceedings. There is no way to apply for it with USCIS in advance.
   - For non-residents it requires ten years of continuous physical presence, good moral character, no disqualifying convictions, and exceptional and extremely unusual hardship to a U.S. citizen or LPR spouse, parent or child.
@@ -23,6 +23,9 @@ faq:
   - Do my adult children count as qualifying relatives?|For non-resident cancellation, a child must be unmarried and under 21 at the time of the decision. A spouse or parent also qualifies if they are a citizen or lawful permanent resident.
   - What counts as exceptional and extremely unusual hardship?|A standard far above the ordinary hardship of separation. Judges weigh the qualifying relative's health, age, education, country conditions and finances. Cases involving a child with a serious medical condition or disability are the most common successes.
 ---
+<h2 id="who-qualifies-for-cancellation">What is cancellation of removal, and who qualifies?</h2>
+<p>It is a defense requested only before an immigration judge, inside removal proceedings; you cannot apply for it with USCIS in advance. For non-residents it requires ten years of continuous physical presence, good moral character, no disqualifying convictions, and exceptional and extremely unusual hardship to a U.S. citizen or LPR spouse, parent or child. If granted, you receive lawful permanent residence.</p>
+
 ## What it is
 
 **Cancellation of removal** — often called "the ten-year law" — allows an immigration judge to stop a deportation and grant lawful permanent residence to someone with long-standing ties to the United States. There are two versions with different requirements. It exists **only in court**: there is no USCIS application for it outside removal proceedings.

@@ -6,7 +6,7 @@ slug: defensive-asylum
 mirror: asilo-defensivo
 order: 5
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - Defensive asylum is requested before the immigration judge as a defense within removal proceedings, using Form I-589.
   - The one-year rule: asylum generally must be filed within one year of your last entry, subject to changed or extraordinary circumstances exceptions.
@@ -23,6 +23,9 @@ faq:
   - Can I work while my asylum case is pending?|You can apply for work authorization (Form I-765) once your asylum application has been pending for a required period. Those rules have changed several times; confirm the current waiting period with an attorney or on the USCIS site before filing.
   - What if more than a year has passed since I entered?|You may still qualify through changed circumstances (such as conditions in your country) or extraordinary circumstances (serious illness, being an unaccompanied minor). Even if asylum is time-barred, withholding and CAT remain available.
 ---
+<h2 id="what-is-defensive-asylum">What is defensive asylum, and who can apply?</h2>
+<p>It is an asylum application made before the immigration judge, on Form I-589, as a defense within removal proceedings. It generally must be filed within one year of your last entry, subject to changed or extraordinary circumstances exceptions. If you do not qualify for asylum, you may still qualify for withholding of removal or CAT protection, which have no one-year deadline.</p>
+
 ## Three forms of protection
 
 If you fear returning to your country, three protections exist. All are requested on **Form I-589**, and the judge considers them in order.

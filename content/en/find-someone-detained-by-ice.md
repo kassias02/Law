@@ -5,7 +5,7 @@ description: How to use the ICE detainee locator, what to do when someone does n
 slug: find-someone-detained-by-ice
 mirror: como-saber-si-mi-familiar-esta-detenido
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - Use the official locator at locator.ice.gov, with the A-Number, or full name, date of birth and country of birth.
   - Records can take up to 48 hours to appear, and people are transferred between facilities often.
@@ -25,9 +25,9 @@ faq:
 
 ICE runs a public search at **[locator.ice.gov](https://locator.ice.gov/)**, with two ways to search.
 
-**By A-Number.** The most reliable: the nine-digit number starting with "A", plus country of birth.
+**By A-Number.** This is the most reliable option. You need the nine-digit number that starts with "A", plus the country of birth.
 
-**By name.** First name, last name, country of birth and exact date of birth. The system is unforgiving about spelling.
+**By name.** First name, last name, country of birth and exact date of birth. The system is strict: it does not tolerate typos or misplaced accents.
 
 Tips that resolve most failed searches:
 
@@ -46,7 +46,7 @@ Absence from the system does not mean the person is not detained. Common causes:
 - **Under 18.** Minors do not appear. Unaccompanied minors go to the Office of Refugee Resettlement, which has a dedicated line for family members.
 - **Misspelled records**, which are frequent.
 
-After 72 hours with no result, call the **ERO field office** for the area where the arrest happened.
+After 72 hours with no result, call the **ERO field office** for the area where the arrest happened. The directory of field offices is on the ICE website.
 
 ## What to write down immediately
 
@@ -64,7 +64,7 @@ You generally **cannot call in**. The person calls out, collect or from a prepai
 - Open an account with whichever phone provider that facility uses — listed on its page in the ICE directory.
 - Write down everything the person tells you: dates, officer names, papers they were asked to sign.
 
-Each facility lists the system it uses for commissary deposits.
+To deposit money into the person's commissary account, check the facility's page in the ICE directory: each facility lists the system it uses.
 
 ## What to do in parallel
 
@@ -74,15 +74,26 @@ Each facility lists the system it uses for commissary deposits.
 
 If you cannot afford a lawyer, the [EOIR list of free providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) is organized by state.
 
+## Step-by-step summary {#step-by-step-summary}
+
+1. Search [locator.ice.gov](https://locator.ice.gov/) by A-Number, or by full name, date of birth and country of birth, trying spelling variants.
+2. If there is no result, retry every few hours during the first 48 hours, and consider CBP custody, a county jail, or the Office of Refugee Resettlement for minors.
+3. After 72 hours with no result, call the ICE ERO field office for the area of the arrest.
+4. Once found, write down the A-Number, the facility name, city and state, its phone number and visiting hours.
+5. Check the court case with the A-Number at 1-800-898-7180 or acis.eoir.justice.gov.
+6. Set up a phone account with the facility's provider and keep credit available.
+7. Gather documents for a possible bond hearing, and find out whether there is a prior removal order.
+8. Get a licensed attorney before the person signs anything.
+
 ## Frequently asked questions
 
-**Why no result?**
-Under 48 hours, CBP or local jail custody, under 18, or misspelled details.
+**Why does my relative not show up in the ICE locator?**
+They may have been detained less than 48 hours ago, still be in CBP custody or a local jail, be under 18, or their details may be misspelled in the record. Try name variants and confirm the country of birth.
 
-**Can I call them?**
-Rarely inbound. Keep credit and accept unknown numbers.
+**Can I call someone detained by ICE?**
+Usually not inbound. The detained person calls out, collect or from a prepaid account. Keep credit on your phone and accept unknown numbers.
 
-**Which court has the case?**
-Check the EOIR system with the A-Number.
+**How do I find which immigration court has the case?**
+With the A-Number, check the EOIR system at 1-800-898-7180 or acis.eoir.justice.gov.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

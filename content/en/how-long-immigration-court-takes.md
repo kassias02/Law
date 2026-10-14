@@ -5,7 +5,7 @@ description: Realistic timelines for a removal case — detained versus non-deta
 slug: how-long-immigration-court-takes
 mirror: cuanto-tarda-un-caso-en-la-corte-de-inmigracion
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - If the person is detained, the case moves fast: weeks to a few months from start to finish.
   - If not detained, expect years between the first hearing and a final decision.
@@ -23,20 +23,20 @@ faq:
 ---
 ## It comes down to one thing: detention
 
-This matters more than the court, the case type or the judge.
+Whether the person is detained matters more than the court, the type of case or the judge assigned.
 
-**Detained.** Courts serving detention facilities run accelerated calendars. From first hearing to final decision is often a few weeks to a few months, because someone's liberty is at stake.
+**Detained.** Courts serving detention facilities run accelerated calendars. From first hearing to final decision is often a few weeks to a few months, because someone's liberty is at stake: the law pushes for a fast resolution when a person is held in custody.
 
 **Not detained.** Here the backlog governs. Months can pass between the filing of the [Notice to Appear](/en/notice-to-appear/) and the first hearing, and often years between the first hearing and the individual hearing. Two to five years for a full case is ordinary, longer in some courts.
 
 ## Why it takes so long
 
-Millions of pending cases against a limited number of judges, plus:
+The system carries millions of pending cases with a limited number of judges. On top of that:
 
-- **Rescheduling.** A judge who retires or is reassigned can move your date on its own.
-- **Continuances.** Every time you or the government ask for time, the case goes back into the calendar queue.
-- **Policy shifts.** Priorities change with each administration and reshuffle calendars.
-- **Venue changes.** Moving states and requesting a new court restarts you in that court's queue.
+- **Rescheduling.** A judge who retires, changes assignment or is reassigned can cause your date to move on its own.
+- **Continuances.** Every time you or the government ask for time, the case goes back to the end of the calendar queue.
+- **Policy shifts.** Instructions on which cases to prioritize change with each administration and reshuffle the calendars.
+- **Venue changes.** If you move to another state and ask to change courts (a *motion to change venue*), the case restarts on the new court's calendar.
 
 ## Timelines within the process
 
@@ -52,7 +52,7 @@ Observed ranges, not guarantees. Always check your actual date in the EOIR syste
 
 ## How to track your case
 
-Call **1-800-898-7180** or use [acis.eoir.justice.gov](https://acis.eoir.justice.gov/) with your A-Number. Do it at least monthly: **dates move and the court does not always reach you**.
+Call **1-800-898-7180** or use [acis.eoir.justice.gov](https://acis.eoir.justice.gov/) with your A-Number. You will see the next date, the assigned court and the status of the case. Do it at least monthly: **dates move and the court does not always reach you**.
 
 If you change address, file Form EOIR-33 within five days. It is the leading cause of [in absentia removal orders](/en/in-absentia-removal-order/).
 
@@ -67,15 +67,23 @@ The wait is draining, but it has practical effects in your favor:
 
 What you should not do is wait passively. The record is built over those years, not in the month before the hearing.
 
+## A checklist while you wait {#checklist-while-you-wait}
+
+- Check your next date in the EOIR system (1-800-898-7180 or acis.eoir.justice.gov) at least once a month, and again a few days before any hearing.
+- File Form EOIR-33 with the court within five days of any change of address, so notices reach you.
+- Build the evidence file as you go: medical records, school records, tax returns and letters of support.
+- Ask a licensed attorney whether the passage of time affects your options, such as cancellation of removal, a pending family petition, or asylum based on changed circumstances.
+- If the person is detained, expect a much faster calendar and start preparing from the first day.
+
 ## Frequently asked questions
 
-**Why is my hearing two years out?**
-The court's calendar is saturated.
+**Why is my hearing scheduled two years out?**
+Because that court's calendar is full. The backlog is severe and some courts schedule individual hearings years ahead.
 
-**Can I move it up?**
-A motion to advance exists but is rarely granted without a concrete reason.
+**Can I ask for an earlier date?**
+Yes, with a motion to advance, but it is rarely granted without a concrete reason, such as already meeting every requirement for relief.
 
-**Does detention speed it up?**
-Yes, at the cost of preparation time.
+**Does being detained speed things up?**
+Yes, substantially. Detained courts resolve cases in weeks or months — which also means far less time to prepare.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

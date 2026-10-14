@@ -5,7 +5,7 @@ description: Cómo funciona el permiso de trabajo (EAD) cuando hay una solicitud
 slug: permiso-de-trabajo-con-asilo-pendiente
 mirror: work-permit-pending-asylum
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-13
 summary:
   - El permiso de trabajo por asilo pendiente se pide con el Formulario I-765, categoría C08.
   - Existe un periodo de espera desde que su solicitud de asilo queda debidamente presentada. Las reglas han cambiado varias veces, así que confirme el plazo vigente antes de enviar nada.
@@ -21,6 +21,9 @@ faq:
   - ¿Qué detiene el reloj de asilo?|Los retrasos atribuibles a usted: pedir una prórroga, rechazar la primera fecha de audiencia disponible, no presentar documentos a tiempo. Los retrasos del gobierno no deberían detenerlo.
   - ¿Cuesta dinero el permiso de trabajo por asilo?|Las tarifas del I-765 han cambiado varias veces y dependen de la categoría y de si solicita exención. Consulte la página de tarifas de USCIS antes de enviar, porque un pago incorrecto provoca el rechazo del paquete.
 ---
+<h2 id="puedo-trabajar-con-asilo-pendiente">¿Puedo obtener un permiso de trabajo si mi asilo está pendiente?</h2>
+<p>Sí, con el Formulario I-765 en la categoría C08, pero solo después de un periodo de espera que corre desde que su solicitud de asilo queda debidamente presentada. Ese "reloj de asilo" se detiene si el retraso lo causa usted, por ejemplo al pedir una prórroga. Presentar el I-765 antes de tiempo lleva al rechazo y le hace perder tiempo.</p>
+
 ## Lo primero: presentar bien el asilo
 
 El reloj no empieza cuando usted decide pedir asilo, sino cuando su **Formulario I-589 queda debidamente presentado**. Si su caso está en la corte, eso significa entregarlo ante el juez de inmigración, no ante USCIS, y que quede registrado en el expediente. Pida el comprobante con el sello de recepción y guárdelo: es la prueba de la fecha que cuenta.
