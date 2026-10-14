@@ -1,5 +1,6 @@
 ---
 title: I received a Notice to Appear (NTA): what to do, step by step
+seo_title: Notice to Appear (NTA): what to do, step by step
 nav: Notice to Appear
 description: What the Notice to Appear (Form I-862) is, what deadlines it starts, how to confirm your hearing with EOIR, and how to avoid an in absentia removal order.
 slug: notice-to-appear
@@ -14,7 +15,7 @@ summary:
   - If you move, file Form EOIR-33/IC with the court within 5 days.
 sources:
   - EOIR – Automated Case Information System|https://acis.eoir.justice.gov/
-  - EOIR – Form EOIR-33/IC, change of address|https://www.justice.gov/eoir/form-eoir-33-ic
+  - EOIR – Form EOIR-33/IC, change of address|https://www.justice.gov/eoir/media/1341856/dl
   - EOIR – List of pro bono legal service providers|https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
   - INA § 239 (8 U.S.C. § 1229) – Notice to Appear|https://www.law.cornell.edu/uscode/text/8/1229
   - INA § 240(b)(5) (8 U.S.C. § 1229a) – In absentia orders|https://www.law.cornell.edu/uscode/text/8/1229a

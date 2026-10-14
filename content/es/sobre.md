@@ -33,7 +33,7 @@ Las páginas llevan la fecha de la última revisión. El derecho migratorio camb
 
 ## Cómo funciona el contacto
 
-Cuando usted envía el formulario, su información se transmite a **un bufete de inmigración con licencia** que atiende su zona y su tipo de caso, para que le contacte. No cobramos nada a las personas que escriben. Los bufetes que reciben los casos pagan una tarifa fija por publicidad; esa tarifa nunca depende de que usted contrate al abogado ni de lo que pague.
+Cuando usted envía el formulario, su información se transmite a **un bufete de inmigración con licencia** que atiende su zona y su tipo de caso, para que le contacte. No cobramos nada a las personas que escriben. Los bufetes que reciben los casos pagan una tarifa fija por publicidad (vea el [aviso legal](/aviso-legal/)); esa tarifa nunca depende de que usted contrate al abogado ni de lo que pague.
 
 No somos un directorio exhaustivo ni una recomendación: que un bufete trabaje con nosotros no significa que sea el mejor para su caso. Compare, pregunte precios por escrito y verifique la licencia del abogado en la barra de su estado antes de firmar nada.
 

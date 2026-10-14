@@ -1,5 +1,6 @@
 ---
 title: How immigration court works: hearings, deadlines and what to expect
+seo_title: How immigration court works: hearings and deadlines
 nav: Immigration court
 description: What happens at an EOIR hearing, the difference between a master calendar and an individual hearing, your rights before the judge, and how to appeal to the BIA.
 slug: immigration-court

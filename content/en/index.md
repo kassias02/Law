@@ -1,6 +1,6 @@
 ---
 title: Deportation defense in the United States: what to do today
-description: Plain-language guides to removal proceedings: the Notice to Appear, ICE detention and bond, immigration court, cancellation of removal and asylum — plus help finding a licensed attorney.
+description: Plain-language guides to removal proceedings: Notice to Appear, ICE detention and bond, immigration court, cancellation of removal and asylum.
 slug: index
 mirror: index
 type: index

@@ -1,7 +1,8 @@
 ---
 title: Asilo defensivo, retención de expulsión y CAT: las tres protecciones por miedo
+seo_title: Asilo defensivo, retención de expulsión y CAT
 nav: Asilo y protección
-description: Diferencias entre asilo defensivo, retención de expulsión (withholding) y protección bajo la Convención contra la Tortura, plazo de un año, Formulario I-589 y permiso de trabajo.
+description: Asilo defensivo, retención de expulsión y protección bajo la Convención contra la Tortura: plazo de un año, Formulario I-589 y permiso de trabajo.
 slug: asilo-defensivo
 mirror: defensive-asylum
 order: 5
@@ -81,7 +82,7 @@ Presentar una solicitud de asilo que el juez considere **deliberadamente falsa**
 El afirmativo se pide ante USCIS fuera de un proceso; el defensivo ante el juez, dentro del proceso. Mismo formulario, el I-589.
 
 **¿Puedo trabajar mientras espero?**
-Puede solicitar el permiso de trabajo (I-765) después de que la solicitud lleve cierto tiempo pendiente. Los plazos han cambiado varias veces; confirme el vigente antes de presentar.
+Puede solicitar el [permiso de trabajo](/permiso-de-trabajo-con-asilo-pendiente/) (I-765) después de que la solicitud lleve cierto tiempo pendiente. Los plazos han cambiado varias veces; confirme el vigente antes de presentar.
 
 **¿Y si pasó más de un año?**
 Puede seguir siendo elegible con circunstancias cambiantes o extraordinarias. Y aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.

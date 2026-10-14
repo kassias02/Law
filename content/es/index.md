@@ -1,6 +1,6 @@
 ---
 title: Defensa contra la deportación en Estados Unidos: qué hacer hoy
-description: Guía en español para personas en proceso de deportación: Notice to Appear, detención por ICE, fianza, corte de inmigración y cómo encontrar un abogado con licencia.
+description: Guía en español sobre el proceso de deportación: Notice to Appear, detención por ICE, fianza, corte de inmigración y abogados con licencia.
 slug: index
 mirror: index
 type: index

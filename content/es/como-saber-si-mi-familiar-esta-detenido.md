@@ -1,7 +1,7 @@
 ---
 title: Cómo saber si mi familiar está detenido por ICE
 nav: Localizar a un detenido
-description: Cómo usar el localizador de detenidos de ICE, qué hacer si la persona no aparece, cómo llamarla, cómo enviarle dinero y qué información reunir en las primeras horas.
+description: Cómo usar el localizador de ICE, qué hacer si la persona no aparece, cómo comunicarse y qué información reunir en las primeras horas.
 slug: como-saber-si-mi-familiar-esta-detenido
 mirror: find-someone-detained-by-ice
 date: 2026-09-16

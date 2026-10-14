@@ -1,7 +1,8 @@
 ---
 title: Cancelación de deportación: requisitos, la regla de los 10 años y el "sufrimiento extremo"
+seo_title: Cancelación de deportación: requisitos y regla de 10 años
 nav: Cancelación de deportación
-description: Requisitos de la cancelación de remoción para no residentes (10 años, buen carácter moral, sufrimiento excepcional de un familiar) y para residentes permanentes (Formularios EOIR-42B y 42A).
+description: Requisitos de la cancelación de deportación: 10 años, buen carácter moral, sufrimiento excepcional y Formularios EOIR-42B y EOIR-42A.
 slug: cancelacion-de-deportacion
 mirror: cancellation-of-removal
 order: 4
@@ -14,10 +15,10 @@ summary:
   - Solo se conceden 4,000 al año. Si el juez la concede, obtiene la residencia permanente.
 sources:
   - INA § 240A (8 U.S.C. § 1229b) – Cancelación de remoción|https://www.law.cornell.edu/uscode/text/8/1229b
-  - EOIR – Formulario EOIR-42B (no residentes)|https://www.justice.gov/eoir/page/file/eoir42b/dl
-  - EOIR – Formulario EOIR-42A (residentes permanentes)|https://www.justice.gov/eoir/page/file/eoir42a/dl
+  - EOIR – Formulario EOIR-42B (no residentes)|https://www.justice.gov/media/1191856/dl
+  - EOIR – Formulario EOIR-42A (residentes permanentes)|https://www.justice.gov/media/1191956/dl
   - Corte Suprema – Pereira v. Sessions (2018) y Niz-Chavez v. Garland (2021)|https://www.supremecourt.gov/opinions/20pdf/19-863_6jgm.pdf
-  - Corte Suprema – Wilkinson v. Garland (2024), revisión del criterio de sufrimiento|https://www.supremecourt.gov/opinions/23pdf/22-666_ihdj.pdf
+  - Corte Suprema – Wilkinson v. Garland (2024), revisión del criterio de sufrimiento|https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf
 faq:
   - ¿Puedo pedir la cancelación de deportación si no estoy en proceso?|No. Es un alivio que solo existe dentro de un proceso de remoción ante el juez. Provocar un proceso a propósito para pedirla es una estrategia muy arriesgada que ningún abogado serio recomienda sin un análisis detallado.
   - ¿Mis hijos cuentan como familiares calificados si ya son mayores?|Para la cancelación de no residentes, el hijo debe ser menor de 21 años y soltero en el momento de la decisión. Los padres y el cónyuge también califican si son ciudadanos o residentes.

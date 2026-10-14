@@ -1,7 +1,7 @@
 ---
 title: Recibí un Notice to Appear (NTA): qué hacer paso a paso
 nav: Notice to Appear
-description: Qué es el Notice to Appear (Formulario I-862), qué plazos corren desde que lo recibe, cómo confirmar su audiencia y cómo evitar una orden de deportación en ausencia.
+description: Qué es el Notice to Appear (I-862), qué plazos corren, cómo confirmar su audiencia y cómo evitar una orden de deportación en ausencia.
 slug: notice-to-appear
 mirror: notice-to-appear
 order: 1
@@ -14,7 +14,7 @@ summary:
   - Si cambia de dirección, avise a la corte con el formulario EOIR-33 dentro de 5 días.
 sources:
   - EOIR – Sistema automatizado de información de casos|https://acis.eoir.justice.gov/
-  - EOIR – Formulario EOIR-33/IC (cambio de dirección)|https://www.justice.gov/eoir/form-eoir-33-ic
+  - EOIR – Formulario EOIR-33/IC (cambio de dirección)|https://www.justice.gov/eoir/media/1341886/dl
   - EOIR – Lista de proveedores de servicios legales gratuitos|https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
   - INA § 239 (8 U.S.C. § 1229) – Contenido del Notice to Appear|https://www.law.cornell.edu/uscode/text/8/1229
   - INA § 240(b)(5) (8 U.S.C. § 1229a) – Órdenes en ausencia|https://www.law.cornell.edu/uscode/text/8/1229a
