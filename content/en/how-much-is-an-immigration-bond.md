@@ -5,21 +5,24 @@ description: What an immigration bond costs, why judges set one amount over anot
 slug: how-much-is-an-immigration-bond
 mirror: cuanto-cuesta-una-fianza-de-inmigracion
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-22
 summary:
   - The statutory minimum is $1,500. There is no statutory maximum.
   - Typical amounts run from $1,500 to over $20,000, based on flight risk and history.
   - It is not a criminal bond: you do not pay 10% to a bondsman, you deposit the full amount with ICE.
-  - The money is returned to the obligor when the case ends, if the person attended every hearing.
+  - The money is returned to the obligor when ICE cancels the bond (Form I-391), if the person complied with every condition.
 sources:
   - INA § 236 (8 U.S.C. § 1226) – Detention and bond|https://www.law.cornell.edu/uscode/text/8/1226
-  - ICE – Bond information and CeBONDS|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Bonds and CeBONDS (updated 07/01/2026)|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Form I-352, Immigration Bond|https://www.ice.gov/doclib/forms/i352.pdf
+  - 8 C.F.R. § 103.6 – Immigration bonds (eCFR)|https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-103/subpart-A/section-103.6
+  - Federal Register – Immigration Bond Notifications, 01/06/2025|https://www.federalregister.gov/documents/2025/01/06/2024-31358/immigration-bond-notifications
   - 8 C.F.R. § 1003.19 – Custody redetermination|https://www.law.cornell.edu/cfr/text/8/1003.19
-  - EOIR – Practice Manual, chapter 9|https://www.justice.gov/eoir/reference-materials/ic/chapter-9
+  - EOIR – Immigration Court Practice Manual, ch. 8.3 (bond)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3
 faq:
   - What is the minimum immigration bond?|$1,500 by statute. No judge can set a lower amount.
   - Can an immigration bond be paid in installments?|Not to ICE, which requires the full amount. Private bond companies offer payment plans but charge a non-refundable premium and usually require collateral.
-  - When is the bond money returned?|After the case concludes, if the person complied with all hearings. The refund process often takes months.
+  - When is the bond money returned?|When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a refund timeframe.
 ---
 There is no single price. The law sets a **$1,500 minimum** and no maximum: the rest is decided case by case by ICE or an immigration judge.
 
@@ -55,16 +58,17 @@ If the family cannot raise the full amount, private immigration bond companies e
 
 ## How it is paid
 
-- An adult with **lawful status** (citizen or LPR) and valid ID pays. That person is the **obligor**.
-- Payment is made at an ICE ERO office by cashier's check or money order, or online through **CeBONDS**. No cash, no credit cards.
-- The obligor signs **Form I-352**. Keep the original — refunds are much harder without it.
-- The obligor must keep their address current with ICE, or the refund check goes astray.
+- According to [ICE](https://www.ice.gov/detain/detention-management/bonds) (page updated July 1, 2026), a U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization can pay, with a document from ICE's list. That person is the **obligor**.
+- Payment is made mainly online through **CeBONDS**, by Fedwire or ACH transfer only, Monday to Friday, 9 a.m. to 3 p.m. in the detention location's time zone. Paying at an ICE office is handled case by case: call the [field office](https://www.ice.gov/contact/field-offices) first.
+- The regulation and [Form I-352](https://www.ice.gov/doclib/forms/i352.pdf) still mention postal money orders and cashier's checks, but ICE's current page only mentions Fedwire and ACH. Confirm with the office before you go.
+- **Form I-352** is the bond contract. Keep a copy.
+- The obligor must keep their address current with ICE (Form I-333): the refund is sent to the address on file.
 
 ## When the money comes back
 
-When the case ends and the person attended every hearing and complied with any order. ICE then sends the obligor instructions to claim the deposit. In practice this takes months, sometimes over a year.
+When ICE cancels the bond on Form I-391. For a delivery bond, ICE cancels it if it takes the person back into custody, removes the person, or the person dies. ICE then refunds the deposit and interest to the obligor. ICE does not publish a refund timeframe; questions go to ICE's Financial Service Center Burlington (BondRefund.HelpDesk@ice.dhs.gov, 877-491-6521, option 1).
 
-If the person misses a hearing or fails to comply with a removal order, the bond is **forfeited entirely**.
+If the person fails to appear when ICE demands it or breaks the bond's conditions, ICE declares the bond breached and the deposit is **forfeited**. According to ICE, it still refunds the accrued interest.
 
 ## If the amount is impossible
 
@@ -74,13 +78,16 @@ If the person misses a hearing or fails to comply with a removal order, the bond
 
 ## Frequently asked questions
 
-**What is the minimum?**
-$1,500.
+### What is the minimum immigration bond?
 
-**Can it be paid in installments?**
-Not to ICE. Private companies offer plans with a non-refundable premium.
+$1,500 by statute. No judge can set a lower amount.
 
-**When does the money come back?**
-At the end of the case, if the person complied. It takes months.
+### Can an immigration bond be paid in installments?
+
+Not to ICE, which requires the full amount. Private bond companies offer payment plans but charge a non-refundable premium and usually require collateral.
+
+### When is the bond money returned?
+
+When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a refund timeframe.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

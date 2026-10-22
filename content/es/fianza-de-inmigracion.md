@@ -13,10 +13,13 @@ summary:
   - Para saber si tiene fianza, pregunte a ICE (la oficina de ERO o el oficial de deportación del caso) si fijó una cantidad. Si no la fijó, pida una audiencia de fianza al juez.
   - No todos pueden pedir fianza. Ciertas condenas y, según decisiones recientes, ciertas formas de entrada llevan a detención obligatoria.
   - Si es elegible, puede pedir al juez de inmigración una audiencia de fianza (bond hearing). El mínimo legal es de $1,500.
-  - La fianza la paga una persona con estatus legal en una oficina de ICE. El dinero se devuelve al final del caso si la persona cumple con todas las citas.
+  - La fianza se paga sobre todo en línea por CeBONDS (Fedwire o ACH). La paga un ciudadano o residente, y se devuelve cuando ICE la cancela con el Formulario I-391.
 sources:
   - ICE – Localizador de detenidos en línea|https://locator.ice.gov/
-  - ICE – Cómo pagar una fianza de inmigración|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Fianzas y CeBONDS (actualizada el 01/07/2026)|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Formulario I-352, Immigration Bond|https://www.ice.gov/doclib/forms/i352.pdf
+  - 8 C.F.R. § 103.6 – Fianzas de inmigración (eCFR)|https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-103/subpart-A/section-103.6
+  - Federal Register – Immigration Bond Notifications, 06/01/2025|https://www.federalregister.gov/documents/2025/01/06/2024-31358/immigration-bond-notifications
   - INA § 236 (8 U.S.C. § 1226) – Detención y fianza|https://www.law.cornell.edu/uscode/text/8/1226
   - 8 C.F.R. § 1003.19 – Audiencias de redeterminación de custodia|https://www.law.cornell.edu/cfr/text/8/1003.19
   - EOIR – Manual de práctica, cap. 8.3 (audiencias de fianza)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3
@@ -27,8 +30,10 @@ faq:
   - ¿Cómo saber si un detenido de ICE tiene fianza?|Pregunte a ICE si fijó una fianza y de cuánto: llame al centro de detención o a la oficina de ERO que lleva el caso, con el nombre y el A-Number. Si ICE no fijó fianza o la cantidad es muy alta, el detenido puede pedir una audiencia de fianza al juez.
   - ¿Cómo encuentro a un familiar detenido por ICE?|Use el localizador de detenidos de ICE (locator.ice.gov) con el A-Number y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. No muestra a menores de 18 años ni a personas que llevan menos de 48 horas bajo custodia de CBP.
   - ¿Cómo se pide una audiencia de fianza?|Normalmente por escrito ante la corte de inmigración con jurisdicción sobre el centro de detención, y también se puede pedir de forma oral. No tiene costo; la solicitud debe indicar el nombre, el A-Number, la cantidad fijada por ICE y el centro de detención.
-  - ¿Cuánto cuesta una fianza de inmigración?|El mínimo legal es de $1,500. En la práctica los jueces fijan cantidades de entre $1,500 y más de $20,000 según el riesgo de fuga y el peligro para la comunidad. El dinero se devuelve al final del caso si la persona asiste a todas sus citas.
-  - ¿Quién puede pagar la fianza?|Una persona mayor de edad con estatus legal en Estados Unidos (ciudadano o residente) que presente identificación válida. Se paga en una oficina de ICE ERO, normalmente con cheque de caja o en línea a través de CeBONDS.
+  - ¿Cuánto cuesta una fianza de inmigración?|El mínimo legal es de $1,500. En la práctica los jueces fijan cantidades de entre $1,500 y más de $20,000 según el riesgo de fuga y el peligro para la comunidad. El dinero se devuelve cuando ICE cancela la fianza, si la persona cumplió con todas las condiciones.
+  - ¿Quién puede pagar la fianza?|Un ciudadano estadounidense, un residente permanente, un bufete de abogados o una organización sin fines de lucro, con un documento aceptado por ICE. La persona detenida solo puede pagar por sí misma una fianza de salida voluntaria o de orden de supervisión.
+  - ¿Cómo se paga una fianza de ICE?|Según ICE, en línea por el sistema CeBONDS, con transferencia Fedwire o ACH, de lunes a viernes de 9 a. m. a 3 p. m. (hora del lugar de detención). El pago en una oficina de ICE se atiende caso por caso: llame antes a la oficina de campo.
+  - ¿Cuándo devuelven el dinero de la fianza?|Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depósito y los intereses al obligor en la dirección registrada. ICE no publica un plazo. Si la persona incumple, el depósito se pierde.
   - ¿Cuánto tarda una audiencia de fianza?|Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
 ---
 <h2 id="que-es-una-fianza-de-inmigracion">¿Qué es una fianza de inmigración y quién puede pedirla?</h2>
@@ -80,10 +85,22 @@ El mínimo legal es de **$1,500** (vea [cuánto cuesta una fianza de inmigració
 
 ## Cómo se paga
 
-- La paga una persona (el *obligor*) con estatus legal en EE. UU. y una identificación válida.
-- Se paga en una oficina de ICE ERO (Enforcement and Removal Operations) mediante cheque de caja, giro postal o en línea por el sistema CeBONDS. No se acepta efectivo ni tarjeta.
-- Se firma el **Formulario I-352**. Guarde una copia: es la prueba de que se depositó el dinero.
-- Al terminar el caso, si la persona asistió a todas sus audiencias y cumplió con cualquier orden, el obligor puede solicitar la devolución del dinero. Si la persona no se presenta, la fianza se pierde.
+Según la [página de fianzas de ICE](https://www.ice.gov/detain/detention-management/bonds) (actualizada el 1 de julio de 2026), la fianza en efectivo se paga hoy sobre todo en línea, por el sistema **CeBONDS** (*Cash Electronic Bonds*). El monto completo se deposita en el momento de pagar.
+
+- **Quién puede pagarla (el *obligor*).** Un ciudadano estadounidense, un residente permanente, un bufete de abogados o una organización sin fines de lucro, desde dentro de EE. UU. La persona extranjera solo puede pagar por sí misma una fianza de salida voluntaria o de orden de supervisión.
+- **Qué documento necesita.** Al menos uno de la lista de ICE. Un ciudadano: pasaporte, acta de nacimiento o certificado de naturalización de EE. UU., licencia o identificación estatal (solo REAL ID) o identificación militar. Un residente: la tarjeta de residente (*green card*) o una identificación militar.
+- **Qué datos del detenido.** El nombre y el A-Number, escritos sin errores. Si CeBONDS no encuentra a la persona, ICE indica contactar con la oficina de campo más cercana.
+- **Cómo se paga en CeBONDS.** Solo por transferencia **Fedwire** o **ACH** desde una cuenta bancaria, después de crear una cuenta en CeBONDS.
+- **En una oficina de ICE.** Desde el 20 de abril de 2023, ICE usa CeBONDS para procesar los pagos y el Formulario I-352, y atiende "caso por caso" a quien quiera pagar en persona. Llame antes a la [oficina de campo de ERO](https://www.ice.gov/contact/field-offices). ICE advierte que incluso en la oficina se necesita acceso a servicios bancarios.
+- **Horario.** De lunes a viernes, de 9 a. m. a 3 p. m. en la zona horaria del lugar de detención, salvo feriados federales. La verificación suele tardar de 1 a 2 horas; lo que no se completa en ese horario pasa al siguiente día hábil. La liberación suele ocurrir antes del final del día en que se aprueba la fianza, aunque depende del centro.
+- **Sin cuenta bancaria.** ICE remite a una compañía de fianzas certificada por el Departamento del Tesoro (*surety bond*) o a organizaciones comunitarias que ayudan con fianzas.
+- **Formulario I-352.** Es el contrato entre el obligor e ICE y el único documento que fija las condiciones de la fianza. Guarde una copia.
+
+**¿Cheque de caja o giro postal?** El reglamento ([8 C.F.R. § 103.6(b)(1)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-103/subpart-A/section-103.6)) y el [Formulario I-352](https://www.ice.gov/doclib/forms/i352.pdf) siguen mencionando giros postales, cheques certificados y cheques de caja. En enero de 2025, el DHS escribió en el [Federal Register](https://www.federalregister.gov/documents/2025/01/06/2024-31358/immigration-bond-notifications) que en una oficina de ICE no se acepta efectivo, pero sí cheque de caja o giro. La página de ICE, más reciente, solo menciona Fedwire y ACH: confirme con la oficina de campo antes de ir.
+
+**Devolución del dinero.** La fianza sigue vigente hasta que ICE emite el Formulario I-391 (*Notice – Immigration Bond Cancelled*). En una fianza de entrega (*delivery bond*), ICE la cancela si vuelve a tomar a la persona bajo custodia, si la expulsa del país o si la persona fallece. Entonces ICE devuelve el depósito y los intereses al obligor en la dirección registrada; avise de cualquier mudanza con el Formulario I-333. ICE no publica un plazo para la devolución.
+
+Si la persona no cumple, por ejemplo si no se presenta cuando ICE se lo pide con el Formulario I-340, ICE declara la fianza incumplida (Formulario I-323): el depósito se pierde, aunque ICE devuelve los intereses. Para preguntar por una fianza abierta, contacte con la oficina de campo; si ya recibió el aviso de cancelación o incumplimiento, con el Financial Service Center Burlington de ICE: BondRefund.HelpDesk@ice.dhs.gov o 877-491-6521, opción 1.
 
 Desconfíe de cualquiera que ofrezca "pagar la fianza por usted" a cambio de una comisión sin un contrato claro. Existen empresas de fianzas de inmigración legítimas, pero también fraudes.
 
@@ -107,11 +124,19 @@ Normalmente por escrito ante la corte de inmigración con jurisdicción sobre el
 
 ### ¿Cuánto cuesta una fianza de inmigración?
 
-El mínimo legal es de $1,500. En la práctica los jueces fijan cantidades de entre $1,500 y más de $20,000 según el riesgo de fuga y el peligro para la comunidad. El dinero se devuelve al final del caso si la persona asiste a todas sus citas.
+El mínimo legal es de $1,500. En la práctica los jueces fijan cantidades de entre $1,500 y más de $20,000 según el riesgo de fuga y el peligro para la comunidad. El dinero se devuelve cuando ICE cancela la fianza, si la persona cumplió con todas las condiciones.
 
 ### ¿Quién puede pagar la fianza?
 
-Una persona mayor de edad con estatus legal en Estados Unidos (ciudadano o residente) que presente identificación válida. Se paga en una oficina de ICE ERO, normalmente con cheque de caja o en línea a través de CeBONDS.
+Un ciudadano estadounidense, un residente permanente, un bufete de abogados o una organización sin fines de lucro, con un documento aceptado por ICE. La persona detenida solo puede pagar por sí misma una fianza de salida voluntaria o de orden de supervisión.
+
+### ¿Cómo se paga una fianza de ICE?
+
+Según ICE, en línea por el sistema CeBONDS, con transferencia Fedwire o ACH, de lunes a viernes de 9 a. m. a 3 p. m. (hora del lugar de detención). El pago en una oficina de ICE se atiende caso por caso: llame antes a la oficina de campo.
+
+### ¿Cuándo devuelven el dinero de la fianza?
+
+Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depósito y los intereses al obligor en la dirección registrada. ICE no publica un plazo. Si la persona incumple, el depósito se pierde.
 
 ### ¿Cuánto tarda una audiencia de fianza?
 
