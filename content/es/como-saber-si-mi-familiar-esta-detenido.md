@@ -7,9 +7,9 @@ mirror: find-someone-detained-by-ice
 date: 2026-09-16
 updated: 2026-10-22
 summary:
-  - Use el localizador oficial en locator.ice.gov. Funciona con el número A, o con nombre completo, fecha de nacimiento y país de nacimiento.
-  - Los registros pueden tardar hasta 48 horas en aparecer, y las personas se trasladan entre centros con frecuencia.
-  - Si no aparece, puede estar bajo custodia de CBP, de una cárcel local o del Servicio de Alguaciles, que no salen en ese sistema.
+  - Use el localizador oficial en locator.ice.gov: con el número A y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional.
+  - Según ICE, los datos pueden tener hasta ocho horas de retraso y el localizador no muestra los traslados en curso.
+  - Si no aparece, puede llevar menos de 48 horas bajo custodia de CBP, o estar en una cárcel local o con el Servicio de Alguaciles, que no salen en ese sistema.
   - Los menores de 18 años no aparecen en el localizador. Se gestionan por otra vía.
 sources:
   - ICE – Sistema localizador de detenidos en línea|https://locator.ice.gov/
@@ -17,7 +17,7 @@ sources:
   - ICE – Oficinas locales de ERO|https://www.ice.gov/contact/field-offices
   - EOIR – Lista de proveedores de servicios legales gratuitos|https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
 faq:
-  - ¿Por qué mi familiar no aparece en el localizador de ICE?|Puede llevar menos de 48 horas detenido, estar aún bajo custodia de CBP o de una cárcel local, ser menor de 18 años, o haber datos mal escritos. Pruebe variantes del nombre y el país de nacimiento.
+  - ¿Por qué mi familiar no aparece en el localizador de ICE?|Puede llevar menos de 48 horas bajo custodia de CBP, estar en una cárcel local, ser menor de 18 años o tener los datos escritos de otra forma. Pruebe variantes del nombre, revise el país de nacimiento o busque por número A.
   - ¿Puedo llamar a un detenido por ICE?|Normalmente no se puede llamar hacia dentro. La persona llama hacia fuera, por cobrar o con una cuenta prepagada. Acepte llamadas de números desconocidos y deje siempre saldo en su teléfono.
   - ¿Cómo sé a qué corte de inmigración fue asignado?|Con su número A, consulte el sistema de EOIR en el 1-800-898-7180 o en acis.eoir.justice.gov.
 ---
@@ -25,28 +25,29 @@ faq:
 
 ICE mantiene un buscador público en **[locator.ice.gov](https://locator.ice.gov/)**. Hay dos formas de buscar:
 
-**Por número A.** Es lo más fiable. Necesita el número de nueve dígitos que empieza por "A" y el país de nacimiento.
+**Por número A.** ICE la recomienda porque da mejores resultados. Se escriben los nueve dígitos, sin la "A"; si el número tiene menos, se agregan ceros al principio (por ejemplo, 012345678). También es obligatorio elegir el país de nacimiento correcto.
 
-**Por nombre.** Necesita nombre, apellido, país de nacimiento y fecha de nacimiento exacta. El sistema es estricto: no tolera errores de escritura ni acentos mal puestos.
+**Por nombre.** Son obligatorios el nombre, el apellido y el país de nacimiento; la fecha de nacimiento (mes, día y año) es opcional. El nombre y el apellido deben coincidir exactamente: ICE avisa que "John Doe" no encuentra a "Jon Doe" ni a "John Doe-Smith". Los apellidos con guion se escriben con el guion. El formulario solo acepta letras sin acentos, números, espacios y guiones.
 
 Consejos que resuelven la mayoría de las búsquedas fallidas:
 
 - Pruebe con uno y con dos apellidos, por separado y juntos.
-- Pruebe sin acentos y sin la letra ñ.
+- Escriba sin acentos ni ñ: el formulario no los acepta.
 - Si usa nombre compuesto ("José Luis"), pruebe también solo el primero.
-- Verifique la fecha de nacimiento con un documento, no de memoria.
+- Si añade la fecha de nacimiento, verifíquela con un documento; es un campo opcional.
+- Revise el país de nacimiento: ICE advierte que sin el país correcto no encontrará a la persona.
 
 ## Si no aparece
 
 Que no salga no significa que no esté detenido. Las causas más comunes:
 
-- **Menos de 48 horas.** El registro tarda en propagarse. Reintente cada pocas horas.
-- **Sigue bajo custodia de CBP**, no de ICE. Ocurre con detenciones cerca de la frontera. CBP no tiene localizador público.
+- **Datos aún no actualizados.** ICE indica que la información puede tener hasta ocho horas de retraso. Reintente más tarde.
+- **Lleva menos de 48 horas bajo custodia de CBP.** El localizador solo muestra a quienes llevan más de 48 horas bajo custodia de CBP. Ocurre con detenciones cerca de la frontera.
 - **Está en una cárcel local o del condado** bajo un acuerdo con ICE. Busque en el sistema de reclusos del condado donde fue detenido.
 - **Es menor de 18 años.** Los menores no figuran en el localizador. Los menores no acompañados pasan a la Oficina de Reasentamiento de Refugiados (ORR), que tiene una línea específica para familiares.
 - **Datos mal escritos** en el registro de ICE, lo que es frecuente.
 
-Si tras 72 horas sigue sin aparecer, llame a la **oficina de ERO** del área donde fue detenido. El directorio está en el sitio de ICE.
+Si tras 72 horas sigue sin aparecer, llame a la **oficina de ERO** del área donde fue detenido. El directorio está en el sitio de ICE. ICE también remite a su línea DRIL, 1-888-351-4024, de lunes a viernes de 8 a. m. a 8 p. m. (hora del Este), con operadores en español.
 
 ## Qué anotar en cuanto lo encuentre
 
@@ -76,13 +77,16 @@ Si no puede pagar un abogado, la [lista de proveedores gratuitos de EOIR](https:
 
 ## Preguntas frecuentes
 
-**¿Por qué no aparece?**
-Puede llevar menos de 48 horas, estar con CBP o en una cárcel local, ser menor de 18, o haber errores en sus datos.
+### ¿Por qué mi familiar no aparece en el localizador de ICE?
 
-**¿Puedo llamarlo?**
-Casi nunca hacia dentro. Él llama hacia fuera; mantenga saldo y acepte números desconocidos.
+Puede llevar menos de 48 horas bajo custodia de CBP, estar en una cárcel local, ser menor de 18 años o tener los datos escritos de otra forma. Pruebe variantes del nombre, revise el país de nacimiento o busque por número A.
 
-**¿A qué corte fue asignado?**
-Con el número A, consulte el sistema de EOIR.
+### ¿Puedo llamar a un detenido por ICE?
+
+Normalmente no se puede llamar hacia dentro. La persona llama hacia fuera, por cobrar o con una cuenta prepagada. Acepte llamadas de números desconocidos y deje siempre saldo en su teléfono.
+
+### ¿Cómo sé a qué corte de inmigración fue asignado?
+
+Con su número A, consulte el sistema de EOIR en el 1-800-898-7180 o en acis.eoir.justice.gov.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

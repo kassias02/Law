@@ -1,5 +1,5 @@
 ---
-title: Detained by ICE: how to find someone and request an immigration bond
+title: Detained by ICE: find someone and request an immigration bond
 seo_title: Detained by ICE: find someone and request a bond
 nav: Detention and bond
 description: A relative detained by ICE: the detainee locator, who qualifies for bond, how a bond hearing works, and how bond is paid and returned.
@@ -9,7 +9,7 @@ order: 2
 date: 2026-09-16
 updated: 2026-10-22
 summary:
-  - Find the person through the ICE detainee locator (locator.ice.gov) using the A-Number, or name, date of birth and country.
+  - Find the person through the ICE detainee locator (locator.ice.gov) with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional.
   - Not everyone can request bond. Certain convictions — and, under recent decisions, certain manners of entry — trigger mandatory detention.
   - If eligible, you can ask the immigration judge for a bond hearing. The statutory minimum is $1,500.
   - Bond is paid mainly online through CeBONDS (Fedwire or ACH) by a citizen or permanent resident, and returned when ICE cancels it on Form I-391.
@@ -34,7 +34,7 @@ faq:
 
 ## The first 48 hours
 
-1. **Locate the person.** Use the [ICE detainee locator](https://locator.ice.gov/). You need the A-Number, or the full name, date of birth and country of birth. Records can take up to 48 hours to appear, and detainees are frequently transferred.
+1. **Locate the person.** Use the [ICE detainee locator](https://locator.ice.gov/) with the A-Number (nine digits; if it has fewer, add zeros at the beginning) and country of birth, or the exact first and last name and country of birth. Date of birth is optional. ICE says the data may be up to eight hours old and that the locator does not show transfers in progress, people under 18, or people in CBP custody for less than 48 hours.
 2. **Write down the A-Number.** You will need it for everything.
 3. **Gather documents:** passport, children's birth certificates, proof of address and employment, tax returns, support letters. These show community ties.
 4. **Get a lawyer before anything is signed.** ICE may offer "voluntary departure" or a stipulated order that ends the case without a hearing.
