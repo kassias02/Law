@@ -6,7 +6,7 @@ slug: notice-to-appear
 mirror: notice-to-appear
 order: 1
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-22
 summary:
   - El NTA es el documento que abre su caso en la corte de inmigración. No es una orden de deportación.
   - Confirme la fecha, hora y lugar de su audiencia en el sistema de EOIR (1-800-898-7180). El NTA puede tener datos incompletos.
@@ -24,7 +24,7 @@ faq:
   - ¿Puedo pedir más tiempo para conseguir abogado?|Sí. En la primera audiencia puede pedir al juez una prórroga (continuance) para buscar representación. Normalmente se concede una vez.
 ---
 <h2 id="que-es-un-notice-to-appear">¿Qué es un Notice to Appear y qué debo hacer al recibirlo?</h2>
-<p>El Notice to Appear (NTA) es el documento que abre su caso en la corte de inmigración; no es una orden de deportación. Confirme la fecha, hora y lugar de su audiencia en el sistema de EOIR (1-800-898-7180), porque el NTA puede tener datos incompletos. Y no falte: si no se presenta, el juez puede ordenar su deportación en ausencia.</p>
+<p>El Notice to Appear (NTA) es el documento que abre su caso en la <a href="/corte-de-inmigracion/">corte de inmigración</a>; no es una orden de deportación. Confirme la fecha, hora y lugar de su audiencia en el sistema de EOIR (1-800-898-7180), porque el NTA puede tener datos incompletos. Y no falte: si no se presenta, el juez puede ordenar su deportación en ausencia.</p>
 
 ## Qué es el Notice to Appear
 

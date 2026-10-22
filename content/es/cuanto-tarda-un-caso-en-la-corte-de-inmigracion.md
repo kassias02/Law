@@ -5,7 +5,7 @@ description: Tiempos reales de un caso de deportación: detenido o no, espera en
 slug: cuanto-tarda-un-caso-en-la-corte-de-inmigracion
 mirror: how-long-immigration-court-takes
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-22
 summary:
   - Si la persona está detenida, el caso va rápido: semanas o pocos meses de principio a fin.
   - Si no está detenida, lo normal es esperar años entre la primera audiencia y la decisión final.
@@ -27,7 +27,7 @@ Es el factor que más pesa, por encima de la corte, del tipo de caso y del juez.
 
 **Detenida.** Las cortes que atienden centros de detención funcionan con calendarios acelerados. Entre la primera audiencia y la decisión final suelen pasar de unas semanas a unos pocos meses. La ley empuja a resolver rápido porque hay una persona privada de libertad.
 
-**No detenida.** Aquí manda el atasco. Entre la presentación del [Notice to Appear](/notice-to-appear/) y la primera audiencia pueden pasar meses. Entre la primera audiencia y la audiencia individual, con frecuencia años. Un caso completo de dos a cinco años es corriente, y en algunas cortes más.
+**No detenida.** Aquí manda el atasco. Entre la presentación del [Notice to Appear](/notice-to-appear/) y la primera audiencia pueden pasar meses. Entre la primera audiencia y la audiencia individual, con frecuencia años. Un caso completo de dos a cinco años es corriente, y en algunas cortes más. Mientras espera, puede consultar su próxima fecha como explicamos en la guía de la [corte de inmigración](/corte-de-inmigracion/).
 
 ## Por qué tarda tanto
 

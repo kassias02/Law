@@ -1,29 +1,50 @@
 ---
-title: How immigration court works: hearings, deadlines and what to expect
-seo_title: How immigration court works: hearings and deadlines
+title: Immigration court date: how to check it and what to expect
+seo_title: Immigration court date: how to check it, hearings, deadlines
 nav: Immigration court
-description: What happens at an EOIR hearing, the difference between a master calendar and an individual hearing, your rights before the judge, and how to appeal to the BIA.
+description: How to check your immigration court date online (EOIR ACIS) or at 1-800-898-7180, what happens at hearings, missing court and changing your address.
 slug: immigration-court
 mirror: corte-de-inmigracion
 order: 3
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-22
 summary:
   - Immigration court (EOIR) sits inside the Department of Justice, separate from USCIS and ICE. The judge is independent of the government attorney.
+  - Check your next court date with your A-Number on EOIR's ACIS portal or the free 1-800-898-7180 hotline (24/7, English and Spanish).
   - There are two hearing types: the master calendar (short, procedural) and the individual or merits hearing (long, where the case is decided).
-  - You have the right to a free interpreter, to counsel at your own expense, and to present evidence and witnesses.
+  - Missing court can lead to an in absentia removal order. If you move, file Form EOIR-33 with the court within 5 days.
   - A judge's decision can be appealed to the BIA within 30 days.
 sources:
-  - EOIR – Immigration Court Practice Manual|https://www.justice.gov/eoir/reference-materials/ic
+  - EOIR – Case information (ACIS)|https://www.justice.gov/eoir/eoir-case-information
   - EOIR – Automated Case Information System|https://acis.eoir.justice.gov/
+  - EOIR – Case information hotline 1-800-898-7180|https://www.justice.gov/eoir/customer-service-initiatives
+  - EOIR – Policy Manual, ch. 1.5 (public inquiries)|https://www.justice.gov/eoir/policy-manual-eoir/part-I/chapter-1-5
+  - EOIR – Form EOIR-33/IC (change of address)|https://www.justice.gov/eoir/media/1341856/dl
   - INA § 240 (8 U.S.C. § 1229a) – Removal proceedings|https://www.law.cornell.edu/uscode/text/8/1229a
+  - 8 C.F.R. § 1003.15 – Address reporting|https://www.law.cornell.edu/cfr/text/8/1003.15
+  - 8 C.F.R. § 1003.23 – Reopening in absentia orders|https://www.law.cornell.edu/cfr/text/8/1003.23
   - 8 C.F.R. Part 1240 – Proceedings before immigration judges|https://www.law.cornell.edu/cfr/text/8/part-1240
   - American Immigration Council – "Access to Counsel in Immigration Court" (Eagly and Shafer)|https://www.americanimmigrationcouncil.org/research/access-counsel-immigration-court
 faq:
-  - How long does an immigration court case take?|It varies enormously. Detained cases are often heard within weeks or a few months. Non-detained cases can run from one to several years between the first hearing and a final decision, depending on the court.
-  - Can my family attend the hearing?|Yes. Hearings are generally open to the public, though asylum hearings can be closed. Having U.S. citizen or resident relatives present can be relevant as evidence of ties.
+  - How do I check my immigration court date?|Enter your A-Number on EOIR's ACIS portal (acis.eoir.justice.gov) or call the free EOIR hotline at 1-800-898-7180, available 24 hours a day in English and Spanish. If no case is found, your case may not be filed with the court yet.
+  - What do I need to look up my court date?|Only your A-Number, the alien registration number that starts with the letter A. It appears on your Notice to Appear and on DHS and EOIR mail. On the phone, enter the 9 digits without the A; for an 8-digit number, add a 0 first.
+  - What happens if I miss my immigration court date?|The judge can order you removed in absentia if the government shows written notice was sent to the last address you gave the court. If you were warned of the consequences, you also become ineligible for 10 years for relief such as cancellation of removal, voluntary departure and adjustment of status.
+  - How do I update my address with immigration court?|File Form EOIR-33/IC with the court handling your case within 5 days of moving. Otherwise, hearing notices go to your old address, and a missed hearing can end in an in absentia order.
+  - How long does an immigration court case take?|It varies enormously by court. Detained cases are often heard within weeks or a few months; non-detained cases can run from one to several years between the first hearing and a final decision.
   - What happens if the judge orders me removed?|You have 30 days to appeal to the Board of Immigration Appeals. While the appeal is pending, the order is not executed.
 ---
+<h2 id="how-to-check-your-immigration-court-date">How to check your immigration court date</h2>
+<p>Enter your A-Number on EOIR's online ACIS portal or call EOIR's free hotline at 1-800-898-7180. Both show your next hearing date, time and court location, and both are run by the immigration court system itself (EOIR, part of the Department of Justice).</p>
+
+## Two official ways to check your court date
+
+Both require your **A-Number**, the alien registration number that starts with the letter A and appears on your [Notice to Appear](/en/notice-to-appear/) and on all DHS and EOIR correspondence.
+
+1. **Online: the ACIS portal.** Go to [acis.eoir.justice.gov](https://acis.eoir.justice.gov/), accept the disclaimer, enter your A-Number and submit. ACIS shows basic information on the most recent primary case, including the next hearing. It does not show bond hearing information; for that, contact the immigration court.
+2. **By phone: 1-800-898-7180.** EOIR's automated hotline is toll-free, available 24 hours a day, 7 days a week, with menus in English and Spanish. It gives the next hearing date, time and location, the judge's decision, and BIA appeal information. Enter the 9 digits of your A-Number without the letter A; if your number has 8 digits, enter a 0 first.
+
+If the system finds no case for your A-Number, check that you typed it correctly. Your case may not have been filed with the court yet; keep checking regularly, because a hearing can be scheduled or moved at any time.
+
 ## Who is in the room
 
 Immigration court is part of the **Executive Office for Immigration Review (EOIR)**, within the Department of Justice — not ICE, not USCIS. In the hearing you will find:
@@ -65,7 +86,15 @@ You do not have the right to a jury or to appointed counsel, unlike in a crimina
 
 ## If you do not appear
 
-The judge can enter an **in absentia removal order**. Reopening requires showing lack of notice, exceptional circumstances (serious illness, death of an immediate relative) or being in custody. Deadlines are short: 180 days for exceptional circumstances.
+If you miss your hearing, the judge must order you removed **in absentia** when the government shows, by clear, unequivocal and convincing evidence, that written notice was provided and that you are removable (INA § 240(b)(5)). Notice sent to the most recent address you gave the court is enough. If you never provided an address, no notice is required.
+
+If you were orally warned, in a language you understand, of the consequences of not appearing, you also become **ineligible for 10 years** for cancellation of removal, voluntary departure, adjustment of status and other relief (INA § 240(b)(7)).
+
+The order can only be rescinded through a **motion to reopen** (8 C.F.R. § 1003.23(b)(4)(ii)): within **180 days** if you missed court because of exceptional circumstances, such as your serious illness or the serious illness or death of an immediate relative; or **at any time** if you did not receive notice, or were in federal or state custody through no fault of your own. Filing the motion stays removal while the judge decides, and only one such motion is allowed. See [in absentia removal orders](/en/in-absentia-removal-order/).
+
+## Changing your address: Form EOIR-33
+
+Within **5 days** of any move, you must give the court handling your case written notice of your new address on **[Form EOIR-33/IC](https://www.justice.gov/eoir/media/1341856/dl)** (8 C.F.R. § 1003.15(d)). Updating your address with USCIS or the post office does not update it with the court. If you report to ICE, update your address with ICE as well.
 
 ## After the decision
 
@@ -79,13 +108,28 @@ A study by Ingrid Eagly and Steven Shafer, published by the American Immigration
 
 ## Frequently asked questions
 
-**How long does a case take?**
-Detained cases in weeks or months; non-detained cases often one to several years.
+### How do I check my immigration court date?
 
-**Can my family attend?**
-Generally yes, except closed asylum hearings.
+Enter your A-Number on EOIR's ACIS portal (acis.eoir.justice.gov) or call the free EOIR hotline at 1-800-898-7180, available 24 hours a day in English and Spanish. If no case is found, your case may not be filed with the court yet.
 
-**What if I am ordered removed?**
-30 days to appeal to the BIA; the order is not executed while the appeal is pending.
+### What do I need to look up my court date?
+
+Only your A-Number, the alien registration number that starts with the letter A. It appears on your Notice to Appear and on DHS and EOIR mail. On the phone, enter the 9 digits without the A; for an 8-digit number, add a 0 first.
+
+### What happens if I miss my immigration court date?
+
+The judge can order you removed in absentia if the government shows written notice was sent to the last address you gave the court. If you were warned of the consequences, you also become ineligible for 10 years for relief such as cancellation of removal, voluntary departure and adjustment of status.
+
+### How do I update my address with immigration court?
+
+File Form EOIR-33/IC with the court handling your case within 5 days of moving. Otherwise, hearing notices go to your old address, and a missed hearing can end in an in absentia order.
+
+### How long does an immigration court case take?
+
+It varies enormously by court. Detained cases are often heard within weeks or a few months; non-detained cases can run from one to several years between the first hearing and a final decision.
+
+### What happens if the judge orders me removed?
+
+You have 30 days to appeal to the Board of Immigration Appeals. While the appeal is pending, the order is not executed.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

@@ -7,21 +7,26 @@ slug: immigration-bond
 mirror: fianza-de-inmigracion
 order: 2
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-22
 summary:
   - Find the person through the ICE detainee locator (locator.ice.gov) using the A-Number, or name, date of birth and country.
   - Not everyone can request bond. Certain convictions — and, under recent decisions, certain manners of entry — trigger mandatory detention.
   - If eligible, you can ask the immigration judge for a bond hearing. The statutory minimum is $1,500.
-  - Bond is paid by someone with lawful status at an ICE office. The money is returned at the end of the case if the person attends every hearing.
+  - Bond is paid mainly online through CeBONDS (Fedwire or ACH) by a citizen or permanent resident, and returned when ICE cancels it on Form I-391.
 sources:
   - ICE – Online Detainee Locator System|https://locator.ice.gov/
-  - ICE – Paying an immigration bond|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Bonds and CeBONDS (updated 07/01/2026)|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Form I-352, Immigration Bond|https://www.ice.gov/doclib/forms/i352.pdf
+  - 8 C.F.R. § 103.6 – Immigration bonds (eCFR)|https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-103/subpart-A/section-103.6
+  - Federal Register – Immigration Bond Notifications, 01/06/2025|https://www.federalregister.gov/documents/2025/01/06/2024-31358/immigration-bond-notifications
   - INA § 236 (8 U.S.C. § 1226) – Apprehension and detention|https://www.law.cornell.edu/uscode/text/8/1226
   - 8 C.F.R. § 1003.19 – Custody redetermination hearings|https://www.law.cornell.edu/cfr/text/8/1003.19
-  - EOIR – Immigration Court Practice Manual, ch. 9 (bond)|https://www.justice.gov/eoir/reference-materials/ic/chapter-9
+  - EOIR – Immigration Court Practice Manual, ch. 8.3 (bond)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3
 faq:
-  - How much does an immigration bond cost?|The statutory minimum is $1,500. In practice judges set amounts from $1,500 to over $20,000 depending on flight risk and danger to the community. The money is returned at the end of the case if the person complies.
-  - Who can pay the bond?|An adult with lawful status in the U.S. (citizen or lawful permanent resident) with valid ID, at an ICE ERO office, usually by cashier's check or online through CeBONDS.
+  - How much does an immigration bond cost?|The statutory minimum is $1,500. In practice judges set amounts from $1,500 to over $20,000 depending on flight risk and danger to the community. The money is returned when ICE cancels the bond, if the person complied with every condition.
+  - Who can pay the bond?|A U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization, with a document ICE accepts. The detained person can only post a voluntary departure or order of supervision bond on their own behalf.
+  - How is an ICE bond paid?|According to ICE, online through the CeBONDS system by Fedwire or ACH transfer, Monday to Friday, 9 a.m. to 3 p.m. in the detention location's time zone. Paying at an ICE office is handled case by case: call the field office first.
+  - When is the bond money returned?|When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a timeframe. If the person breaches the bond, the deposit is forfeited.
   - How long does a bond hearing take to schedule?|It varies. Many courts schedule within one or two weeks of a written request, but crowded detention facilities can take longer.
 ---
 <h2 id="what-is-an-immigration-bond">What is an immigration bond, and who can request one?</h2>
@@ -59,10 +64,22 @@ The statutory minimum is **$1,500** (see [how much an immigration bond costs](/e
 
 ## How bond is paid
 
-- It is paid by an **obligor** with lawful status and valid ID.
-- Payment is made at an ICE ERO office by cashier's check or money order, or online through CeBONDS. Cash and credit cards are not accepted.
-- The obligor signs **Form I-352**. Keep a copy — it is the proof of deposit.
-- When the case ends, if the person attended all hearings and complied with any order, the obligor can request the money back. If the person absconds, the bond is forfeited.
+According to [ICE's bonds page](https://www.ice.gov/detain/detention-management/bonds) (updated July 1, 2026), a cash bond is now paid mainly online, through the **CeBONDS** system (*Cash Electronic Bonds*). The full amount is deposited when the bond is posted.
+
+- **Who can pay (the *obligor*).** A U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization, from within the United States. The noncitizen can only post a voluntary departure or order of supervision bond on their own behalf.
+- **Which ID.** At least one document from ICE's list. A citizen: U.S. passport, U.S. birth certificate or naturalization certificate, state driver's license or ID (REAL ID only), or military ID. A permanent resident: the green card or a military ID.
+- **Detainee details.** The name and A-Number, entered exactly. If CeBONDS cannot find the person, ICE says to contact the nearest field office.
+- **How CeBONDS is paid.** Only by **Fedwire** or **ACH** transfer from a bank account, after registering a CeBONDS account.
+- **At an ICE office.** Since April 20, 2023, ICE has used CeBONDS to process bond payments and Form I-352, and it works "on a case-by-case basis" with obligors who want to pay in person. Call the [ERO field office](https://www.ice.gov/contact/field-offices) first. ICE warns that even obligors at an office need access to banking services.
+- **Hours.** Monday to Friday, 9 a.m. to 3 p.m. in the time zone where the person is detained, excluding federal holidays. Verification typically takes 1–2 hours; anything not completed within those hours is processed the next business day. Release usually happens by the end of the day the bond is approved, but it depends on the facility.
+- **No bank account.** ICE points to a Treasury-certified immigration bond company (*surety bond*) or to community organizations that help with bonds.
+- **Form I-352.** It is the contract between the obligor and ICE and the only document that sets the bond's terms. Keep a copy.
+
+**Cashier's check or money order?** The regulation ([8 C.F.R. § 103.6(b)(1)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-103/subpart-A/section-103.6)) and [Form I-352](https://www.ice.gov/doclib/forms/i352.pdf) still mention postal money orders, certified checks and cashier's checks. In January 2025, DHS wrote in the [Federal Register](https://www.federalregister.gov/documents/2025/01/06/2024-31358/immigration-bond-notifications) that cash is not accepted at an ICE office but a cashier's check or money order is. ICE's more recent bonds page only mentions Fedwire and ACH: confirm with the field office before you go.
+
+**Getting the money back.** The bond stays in effect until ICE issues Form I-391 (*Notice – Immigration Bond Cancelled*). For a delivery bond, ICE cancels it if it takes the person back into custody, removes the person, or the person dies. ICE then refunds the deposit and interest to the obligor at the address on file; report any move on Form I-333. ICE does not publish a refund timeframe.
+
+If the person does not comply, for example by failing to appear when ICE demands it on Form I-340, ICE declares the bond breached (Form I-323): the deposit is forfeited, although ICE still refunds the interest. For an open bond, contact the field office; once you have a cancellation or breach notice, contact ICE's Financial Service Center Burlington: BondRefund.HelpDesk@ice.dhs.gov or 877-491-6521, option 1.
 
 Be cautious with anyone offering to "pay the bond for you" for a fee without a written contract. Legitimate immigration bond companies exist, and so do scams.
 
@@ -72,13 +89,24 @@ ICE can release someone on parole or into an Alternatives to Detention program �
 
 ## Frequently asked questions
 
-**How much does a bond cost?**
-Minimum $1,500; in practice $1,500 to over $20,000 depending on flight risk and danger.
+### How much does an immigration bond cost?
 
-**Who can pay it?**
-An adult citizen or lawful permanent resident with valid ID, at an ICE ERO office.
+The statutory minimum is $1,500. In practice judges set amounts from $1,500 to over $20,000 depending on flight risk and danger to the community. The money is returned when ICE cancels the bond, if the person complied with every condition.
 
-**How long until a bond hearing?**
-Often one to two weeks after a written request, longer in crowded facilities.
+### Who can pay the bond?
+
+A U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization, with a document ICE accepts. The detained person can only post a voluntary departure or order of supervision bond on their own behalf.
+
+### How is an ICE bond paid?
+
+According to ICE, online through the CeBONDS system by Fedwire or ACH transfer, Monday to Friday, 9 a.m. to 3 p.m. in the detention location's time zone. Paying at an ICE office is handled case by case: call the field office first.
+
+### When is the bond money returned?
+
+When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a timeframe. If the person breaches the bond, the deposit is forfeited.
+
+### How long does a bond hearing take to schedule?
+
+It varies. Many courts schedule within one or two weeks of a written request, but crowded detention facilities can take longer.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

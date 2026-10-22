@@ -5,21 +5,24 @@ description: Cuánto cuesta una fianza de inmigración, por qué el juez fija un
 slug: cuanto-cuesta-una-fianza-de-inmigracion
 mirror: how-much-is-an-immigration-bond
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-22
 summary:
   - El mínimo que la ley permite es de $1,500. No existe un máximo fijado por ley.
   - Los montos habituales van de $1,500 a más de $20,000, según el riesgo de fuga y el historial de la persona.
   - No es como una fianza penal: no se paga un 10% a una afianzadora, se deposita el monto completo ante ICE.
-  - El dinero se devuelve al obligor cuando el caso termina, si la persona asistió a todas sus audiencias.
+  - El dinero se devuelve al obligor cuando ICE cancela la fianza (Formulario I-391), si la persona cumplió con todas las condiciones.
 sources:
   - INA § 236 (8 U.S.C. § 1226) – Detención y fianza|https://www.law.cornell.edu/uscode/text/8/1226
-  - ICE – Información sobre fianzas y el sistema CeBONDS|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Fianzas y CeBONDS (actualizada el 01/07/2026)|https://www.ice.gov/detain/detention-management/bonds
+  - ICE – Formulario I-352, Immigration Bond|https://www.ice.gov/doclib/forms/i352.pdf
+  - 8 C.F.R. § 103.6 – Fianzas de inmigración (eCFR)|https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-103/subpart-A/section-103.6
+  - Federal Register – Immigration Bond Notifications, 06/01/2025|https://www.federalregister.gov/documents/2025/01/06/2024-31358/immigration-bond-notifications
   - 8 C.F.R. § 1003.19 – Redeterminación de custodia|https://www.law.cornell.edu/cfr/text/8/1003.19
-  - EOIR – Manual de práctica, capítulo 9|https://www.justice.gov/eoir/reference-materials/ic/chapter-9
+  - EOIR – Manual de práctica, cap. 8.3 (audiencias de fianza)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3
 faq:
   - ¿Cuál es la fianza mínima de inmigración?|La ley fija un mínimo de $1,500. Un juez no puede conceder una fianza por debajo de esa cantidad.
   - ¿Se puede pagar una fianza de inmigración en pagos?|No a ICE. ICE exige el monto completo. Algunas afianzadoras privadas ofrecen planes de pago, pero cobran una comisión no reembolsable y suelen pedir una garantía.
-  - ¿Cuándo devuelven el dinero de la fianza?|Cuando el caso concluye y la persona cumplió con todas sus citas. El proceso de devolución puede tardar varios meses después del final del caso.
+  - ¿Cuándo devuelven el dinero de la fianza?|Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depósito y los intereses al obligor en la dirección registrada. ICE no publica un plazo para la devolución.
 ---
 No existe un precio único. La ley fija un **mínimo de $1,500** y no fija máximo: el resto lo decide ICE o un juez de inmigración caso por caso.
 
@@ -43,7 +46,7 @@ El juez evalúa dos cosas: el **riesgo de fuga** y el **peligro para la comunida
 - Muchos años de residencia continua en el país.
 - Familia inmediata ciudadana o residente, sobre todo hijos menores.
 - Trabajo estable, declaraciones de impuestos, contrato de arrendamiento a su nombre.
-- Historial de asistir a citas con inmigración o a la corte.
+- Historial de asistir a citas con inmigración o a la [corte de inmigración](/corte-de-inmigracion/).
 - Una solicitud de alivio ya presentada (asilo, [cancelación](/cancelacion-de-deportacion/), petición familiar): demuestra que tiene motivos para presentarse.
 - Cartas de apoyo de empleadores, iglesias, escuelas, vecinos.
 
@@ -57,16 +60,17 @@ Si no tiene el monto completo, existen afianzadoras privadas de inmigración. Co
 
 ## Cómo se paga
 
-- Paga una persona mayor de edad con **estatus legal** (ciudadano o residente) y una identificación válida. Esa persona es el **obligor**.
-- Se paga en una oficina de ICE ERO con cheque de caja o giro postal, o en línea por el sistema **CeBONDS**. No se acepta efectivo ni tarjeta de crédito.
-- Se firma el **Formulario I-352**. Guarde el original: sin él, la devolución se complica mucho.
-- El obligor debe mantener su dirección actualizada con ICE. Si se muda y no avisa, el cheque de devolución se pierde.
+- Según [ICE](https://www.ice.gov/detain/detention-management/bonds) (página actualizada el 1 de julio de 2026), pueden pagar un ciudadano estadounidense, un residente permanente, un bufete de abogados o una organización sin fines de lucro, con un documento de la lista de ICE. Esa persona es el **obligor**.
+- Se paga sobre todo en línea por el sistema **CeBONDS**, solo por transferencia Fedwire o ACH, de lunes a viernes de 9 a. m. a 3 p. m. (hora del lugar de detención). El pago en una oficina de ICE se atiende caso por caso: llame antes a la [oficina de campo](https://www.ice.gov/contact/field-offices).
+- El reglamento y el [Formulario I-352](https://www.ice.gov/doclib/forms/i352.pdf) aún mencionan giros postales y cheques de caja, pero la página actual de ICE solo menciona Fedwire y ACH. Confírmelo con la oficina antes de ir.
+- El **Formulario I-352** es el contrato de la fianza. Guarde una copia.
+- El obligor debe mantener su dirección actualizada con ICE (Formulario I-333): la devolución se envía a la dirección registrada.
 
 ## Cuándo se devuelve el dinero
 
-Cuando el caso termina de forma definitiva y la persona cumplió con todas sus audiencias y con cualquier orden. ICE envía entonces instrucciones al obligor para reclamar el depósito. En la práctica, el trámite tarda meses, a veces más de un año.
+Cuando ICE cancela la fianza con el Formulario I-391. En una fianza de entrega, ICE la cancela si vuelve a tomar a la persona bajo custodia, si la expulsa del país o si la persona fallece. ICE devuelve entonces el depósito y los intereses al obligor. ICE no publica un plazo para la devolución; las dudas se dirigen al Financial Service Center Burlington (BondRefund.HelpDesk@ice.dhs.gov, 877-491-6521, opción 1).
 
-Si la persona no se presenta a una audiencia o no cumple una orden de salida, la fianza se **pierde por completo**. El dinero no vuelve, ni siquiera en parte.
+Si la persona no se presenta cuando ICE se lo pide o no cumple las condiciones, ICE declara la fianza incumplida y el depósito se **pierde**. Según ICE, aun así devuelve los intereses acumulados.
 
 ## Si el monto es imposible de pagar
 
@@ -76,13 +80,16 @@ Si la persona no se presenta a una audiencia o no cumple una orden de salida, la
 
 ## Preguntas frecuentes
 
-**¿Cuál es la fianza mínima?**
-$1,500. Ningún juez puede bajar de ahí.
+### ¿Cuál es la fianza mínima de inmigración?
 
-**¿Se puede pagar en cuotas?**
-No a ICE, que exige el monto completo. Las afianzadoras privadas ofrecen planes, con comisión no reembolsable.
+La ley fija un mínimo de $1,500. Un juez no puede conceder una fianza por debajo de esa cantidad.
 
-**¿Cuándo devuelven el dinero?**
-Al final del caso, si la persona cumplió. El trámite tarda meses.
+### ¿Se puede pagar una fianza de inmigración en pagos?
+
+No a ICE. ICE exige el monto completo. Algunas afianzadoras privadas ofrecen planes de pago, pero cobran una comisión no reembolsable y suelen pedir una garantía.
+
+### ¿Cuándo devuelven el dinero de la fianza?
+
+Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depósito y los intereses al obligor en la dirección registrada. ICE no publica un plazo para la devolución.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>
