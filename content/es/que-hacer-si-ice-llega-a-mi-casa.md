@@ -5,7 +5,7 @@ description: Sus derechos si ICE llega a su casa o su trabajo: orden judicial vs
 slug: que-hacer-si-ice-llega-a-mi-casa
 mirror: what-to-do-if-ice-comes
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-22
 summary:
   - No tiene que abrir la puerta salvo que los agentes tengan una orden firmada por un juez, con su nombre y dirección.
   - Una orden administrativa de ICE (Formularios I-200 o I-205) no autoriza a entrar en su casa sin su permiso.
@@ -54,7 +54,7 @@ No está obligado a responder sobre:
 - Cómo o cuándo entró a Estados Unidos.
 - Su estatus migratorio.
 
-No firme **nada** sin que un abogado lo lea. Un documento puede ser una renuncia a su derecho a ver a un juez o una aceptación de salida voluntaria. Si le presionan diciendo que firmar "acelera las cosas", esa es exactamente la razón para no firmar.
+No firme **nada** sin que un abogado lo lea. Un documento puede ser una renuncia a su derecho a ver a un juez de la [corte de inmigración](/corte-de-inmigracion/) o una aceptación de salida voluntaria. Si le presionan diciendo que firmar "acelera las cosas", esa es exactamente la razón para no firmar.
 
 Si tiene documentos que acrediten su estatus (residencia, permiso de trabajo), puede mostrarlos. Nunca muestre documentos de otro país si eso revela información que prefiere no dar.
 

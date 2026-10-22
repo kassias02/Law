@@ -5,7 +5,7 @@ description: Cuánto cuesta una fianza de inmigración, por qué el juez fija un
 slug: cuanto-cuesta-una-fianza-de-inmigracion
 mirror: how-much-is-an-immigration-bond
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-22
 summary:
   - El mínimo que la ley permite es de $1,500. No existe un máximo fijado por ley.
   - Los montos habituales van de $1,500 a más de $20,000, según el riesgo de fuga y el historial de la persona.
@@ -43,7 +43,7 @@ El juez evalúa dos cosas: el **riesgo de fuga** y el **peligro para la comunida
 - Muchos años de residencia continua en el país.
 - Familia inmediata ciudadana o residente, sobre todo hijos menores.
 - Trabajo estable, declaraciones de impuestos, contrato de arrendamiento a su nombre.
-- Historial de asistir a citas con inmigración o a la corte.
+- Historial de asistir a citas con inmigración o a la [corte de inmigración](/corte-de-inmigracion/).
 - Una solicitud de alivio ya presentada (asilo, [cancelación](/cancelacion-de-deportacion/), petición familiar): demuestra que tiene motivos para presentarse.
 - Cartas de apoyo de empleadores, iglesias, escuelas, vecinos.
 

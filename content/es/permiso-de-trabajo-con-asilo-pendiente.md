@@ -5,7 +5,7 @@ description: Permiso de trabajo (EAD) con asilo pendiente: el reloj de asilo, el
 slug: permiso-de-trabajo-con-asilo-pendiente
 mirror: work-permit-pending-asylum
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-22
 summary:
   - El permiso de trabajo por asilo pendiente se pide con el Formulario I-765, categoría C08.
   - Existe un periodo de espera desde que su solicitud de asilo queda debidamente presentada. Las reglas han cambiado varias veces, así que confirme el plazo vigente antes de enviar nada.
@@ -26,7 +26,7 @@ faq:
 
 ## Lo primero: presentar bien el asilo
 
-El reloj no empieza cuando usted decide pedir asilo, sino cuando su **Formulario I-589 queda debidamente presentado**. Si su caso está en la corte, eso significa entregarlo ante el juez de inmigración, no ante USCIS, y que quede registrado en el expediente. Pida el comprobante con el sello de recepción y guárdelo: es la prueba de la fecha que cuenta.
+El reloj no empieza cuando usted decide pedir asilo, sino cuando su **Formulario I-589 queda debidamente presentado**. Si su caso está en la [corte de inmigración](/corte-de-inmigracion/), eso significa entregarlo ante el juez de inmigración, no ante USCIS, y que quede registrado en el expediente. Pida el comprobante con el sello de recepción y guárdelo: es la prueba de la fecha que cuenta.
 
 Si presentó el asilo de forma afirmativa ante USCIS y luego su caso pasó a la corte, la fecha original suele mantenerse, pero es exactamente el tipo de detalle que conviene verificar con un abogado.
 

@@ -7,7 +7,7 @@ slug: asilo-defensivo
 mirror: defensive-asylum
 order: 5
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-22
 summary:
   - El asilo defensivo se pide ante el juez de inmigración como defensa dentro del proceso de deportación, con el Formulario I-589.
   - Regla del año: en general debe pedir asilo dentro del primer año tras su última entrada, salvo excepciones por circunstancias cambiantes o extraordinarias.
@@ -70,7 +70,7 @@ La CAT protege a quien demuestre que es más probable que no que sería **tortur
 - **Pruebas del país**: informes del Departamento de Estado, de Human Rights Watch, de Amnistía Internacional, artículos de prensa, a veces un perito.
 - **Traducciones certificadas** de todo documento que no esté en inglés.
 
-Todo esto debe presentarse antes del plazo que fije el juez, normalmente semanas antes de la audiencia individual.
+Todo esto debe presentarse antes del plazo que fije el juez, normalmente semanas antes de la audiencia individual. Para saber cómo se desarrollan esas audiencias, lea la guía sobre la [corte de inmigración](/corte-de-inmigracion/).
 
 ## Una advertencia seria
 

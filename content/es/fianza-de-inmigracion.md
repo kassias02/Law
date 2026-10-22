@@ -1,15 +1,16 @@
 ---
-title: Detenido por ICE: cómo localizarlo y pedir una fianza de inmigración
-seo_title: Detenido por ICE: cómo localizarlo y pedir fianza
+title: Detenido por ICE: cómo saber si tiene fianza y cómo pedirla
+seo_title: Detenido de ICE: cómo saber si tiene fianza y pedirla
 nav: Detención y fianza
-description: Familiar detenido por ICE: cómo encontrarlo, quién puede pedir fianza, cómo se paga y qué cambió con la detención obligatoria.
+description: Cómo saber si un detenido de ICE tiene fianza: localizarlo, preguntar a ICE, pedir una audiencia de fianza al juez y cómo se paga.
 slug: fianza-de-inmigracion
 mirror: immigration-bond
 order: 2
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-22
 summary:
   - Localice a la persona en el localizador de ICE (locator.ice.gov) con su A-Number o nombre, fecha de nacimiento y país.
+  - Para saber si tiene fianza, pregunte a ICE (la oficina de ERO o el oficial de deportación del caso) si fijó una cantidad. Si no la fijó, pida una audiencia de fianza al juez.
   - No todos pueden pedir fianza. Ciertas condenas y, según decisiones recientes, ciertas formas de entrada llevan a detención obligatoria.
   - Si es elegible, puede pedir al juez de inmigración una audiencia de fianza (bond hearing). El mínimo legal es de $1,500.
   - La fianza la paga una persona con estatus legal en una oficina de ICE. El dinero se devuelve al final del caso si la persona cumple con todas las citas.
@@ -18,14 +19,32 @@ sources:
   - ICE – Cómo pagar una fianza de inmigración|https://www.ice.gov/detain/detention-management/bonds
   - INA § 236 (8 U.S.C. § 1226) – Detención y fianza|https://www.law.cornell.edu/uscode/text/8/1226
   - 8 C.F.R. § 1003.19 – Audiencias de redeterminación de custodia|https://www.law.cornell.edu/cfr/text/8/1003.19
-  - EOIR – Manual de práctica de la corte de inmigración, cap. 9 (fianzas)|https://www.justice.gov/eoir/reference-materials/ic/chapter-9
+  - EOIR – Manual de práctica, cap. 8.3 (audiencias de fianza)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3
+  - ICE – Oficinas de campo de ERO|https://www.ice.gov/contact/field-offices
+  - EOIR – Información de casos (ACIS no muestra fianzas)|https://www.justice.gov/eoir/eoir-case-information
+  - 8 C.F.R. § 1236.1 – Revisión de la custodia por el juez|https://www.law.cornell.edu/cfr/text/8/1236.1
 faq:
+  - ¿Cómo saber si un detenido de ICE tiene fianza?|Pregunte a ICE si fijó una fianza y de cuánto: llame al centro de detención o a la oficina de ERO que lleva el caso, con el nombre y el A-Number. Si ICE no fijó fianza o la cantidad es muy alta, el detenido puede pedir una audiencia de fianza al juez.
+  - ¿Cómo encuentro a un familiar detenido por ICE?|Use el localizador de detenidos de ICE (locator.ice.gov) con el A-Number y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. No muestra a menores de 18 años ni a personas que llevan menos de 48 horas bajo custodia de CBP.
+  - ¿Cómo se pide una audiencia de fianza?|Normalmente por escrito ante la corte de inmigración con jurisdicción sobre el centro de detención, y también se puede pedir de forma oral. No tiene costo; la solicitud debe indicar el nombre, el A-Number, la cantidad fijada por ICE y el centro de detención.
   - ¿Cuánto cuesta una fianza de inmigración?|El mínimo legal es de $1,500. En la práctica los jueces fijan cantidades de entre $1,500 y más de $20,000 según el riesgo de fuga y el peligro para la comunidad. El dinero se devuelve al final del caso si la persona asiste a todas sus citas.
   - ¿Quién puede pagar la fianza?|Una persona mayor de edad con estatus legal en Estados Unidos (ciudadano o residente) que presente identificación válida. Se paga en una oficina de ICE ERO, normalmente con cheque de caja o en línea a través de CeBONDS.
   - ¿Cuánto tarda una audiencia de fianza?|Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
 ---
 <h2 id="que-es-una-fianza-de-inmigracion">¿Qué es una fianza de inmigración y quién puede pedirla?</h2>
 <p>Es el dinero que se deposita para que ICE libere a una persona detenida mientras sigue su caso; se devuelve al final si la persona cumple con todas las citas. Puede pedirla al juez de inmigración quien no esté sujeto a detención obligatoria: ciertas condenas y, según decisiones recientes, ciertas formas de entrada la impiden. El mínimo legal es de $1,500.</p>
+
+<h2 id="como-saber-si-tiene-fianza">Cómo saber si un detenido de ICE tiene fianza</h2>
+<p>Pregunte directamente a ICE: la primera decisión sobre la custodia la toma ICE, que puede fijar una fianza, negarla o considerar que la persona está en detención obligatoria. Si ICE no fijó fianza, o la cantidad es muy alta, el detenido puede pedir al juez de inmigración una audiencia de fianza.</p>
+
+Los pasos, en orden:
+
+1. **Localice a la persona** en el [localizador de detenidos de ICE](https://locator.ice.gov/) con el A-Number y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. El resultado indica en qué centro de detención está.
+2. **Pregunte a ICE si fijó fianza y de cuánto.** Llame al centro de detención o a la [oficina de campo de ICE ERO](https://www.ice.gov/contact/field-offices) que corresponde a ese centro, con el nombre completo y el A-Number, y pida hablar con el oficial de deportación (*deportation officer*) asignado al caso. El propio detenido también puede preguntarlo a su oficial. ICE ofrece además el sistema en línea CeBONDS, que permite [verificar información de fianzas](https://www.ice.gov/detain/detention-management/bonds) y pagarlas.
+3. **Revise si hay una audiencia de fianza ante la corte.** El portal ACIS de EOIR no muestra información de fianzas; para eso hay que contactar con la [corte de inmigración](/corte-de-inmigracion/).
+4. **Si no hay fianza, pida una audiencia de fianza al juez.** La solicitud se hace normalmente por escrito, y también puede hacerse de forma oral; no tiene costo. Debe indicar el nombre completo, el A-Number, la cantidad fijada por ICE y el centro de detención, y se presenta ante la corte con jurisdicción sobre ese centro (8 C.F.R. § 1003.19(c)). Si tiene una copia del Notice to Appear, inclúyala.
+
+Hay personas a las que el juez no puede concederles fianza, por ejemplo por ciertas condenas o por cómo entraron al país (vea más abajo). Un abogado puede decirle si la detención obligatoria aplica en su caso.
 
 ## Las primeras 48 horas
 
@@ -74,13 +93,28 @@ ICE puede liberar a una persona bajo *parole* o bajo un programa de alternativas
 
 ## Preguntas frecuentes
 
-**¿Cuánto cuesta una fianza de inmigración?**
-El mínimo legal es de $1,500. En la práctica los jueces fijan entre $1,500 y más de $20,000 según el riesgo de fuga y el peligro para la comunidad.
+### ¿Cómo saber si un detenido de ICE tiene fianza?
 
-**¿Quién puede pagar la fianza?**
-Una persona mayor de edad con estatus legal (ciudadano o residente) con identificación válida, en una oficina de ICE ERO.
+Pregunte a ICE si fijó una fianza y de cuánto: llame al centro de detención o a la oficina de ERO que lleva el caso, con el nombre y el A-Number. Si ICE no fijó fianza o la cantidad es muy alta, el detenido puede pedir una audiencia de fianza al juez.
 
-**¿Cuánto tarda una audiencia de fianza?**
-Depende de la corte. Muchas la programan en una o dos semanas después de la solicitud escrita; en centros saturados puede tardar más.
+### ¿Cómo encuentro a un familiar detenido por ICE?
+
+Use el localizador de detenidos de ICE (locator.ice.gov) con el A-Number y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. No muestra a menores de 18 años ni a personas que llevan menos de 48 horas bajo custodia de CBP.
+
+### ¿Cómo se pide una audiencia de fianza?
+
+Normalmente por escrito ante la corte de inmigración con jurisdicción sobre el centro de detención, y también se puede pedir de forma oral. No tiene costo; la solicitud debe indicar el nombre, el A-Number, la cantidad fijada por ICE y el centro de detención.
+
+### ¿Cuánto cuesta una fianza de inmigración?
+
+El mínimo legal es de $1,500. En la práctica los jueces fijan cantidades de entre $1,500 y más de $20,000 según el riesgo de fuga y el peligro para la comunidad. El dinero se devuelve al final del caso si la persona asiste a todas sus citas.
+
+### ¿Quién puede pagar la fianza?
+
+Una persona mayor de edad con estatus legal en Estados Unidos (ciudadano o residente) que presente identificación válida. Se paga en una oficina de ICE ERO, normalmente con cheque de caja o en línea a través de CeBONDS.
+
+### ¿Cuánto tarda una audiencia de fianza?
+
+Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

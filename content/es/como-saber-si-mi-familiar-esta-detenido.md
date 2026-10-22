@@ -5,7 +5,7 @@ description: Cómo usar el localizador de ICE, qué hacer si la persona no apare
 slug: como-saber-si-mi-familiar-esta-detenido
 mirror: find-someone-detained-by-ice
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-22
 summary:
   - Use el localizador oficial en locator.ice.gov. Funciona con el número A, o con nombre completo, fecha de nacimiento y país de nacimiento.
   - Los registros pueden tardar hasta 48 horas en aparecer, y las personas se trasladan entre centros con frecuencia.
@@ -54,7 +54,7 @@ Si tras 72 horas sigue sin aparecer, llame a la **oficina de ERO** del área don
 - El **nombre exacto del centro** y su ciudad y estado.
 - El teléfono del centro y su horario de visitas.
 
-Con el número A puede además consultar su caso en la corte, en el **1-800-898-7180** o en [acis.eoir.justice.gov](https://acis.eoir.justice.gov/), y saber si ya tiene fecha de audiencia.
+Con el número A puede además consultar su caso en la [corte de inmigración](/corte-de-inmigracion/), en el **1-800-898-7180** o en [acis.eoir.justice.gov](https://acis.eoir.justice.gov/), y saber si ya tiene fecha de audiencia.
 
 ## Cómo comunicarse
 

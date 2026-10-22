@@ -6,7 +6,7 @@ description: Qué pasa si no se presenta a una audiencia de inmigración, qué e
 slug: orden-de-deportacion-en-ausencia
 mirror: in-absentia-removal-order
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-22
 summary:
   - Si no se presenta, el juez puede ordenar su deportación ese mismo día sin escuchar su defensa.
   - Se puede pedir reabrir el caso con una moción, pero los plazos son cortos y los motivos son limitados.
@@ -33,7 +33,7 @@ Esa orden es definitiva a efectos prácticos: ICE puede ejecutarla en cualquier 
 
 ## Paso 1: confirme qué dice su expediente
 
-Llame al **1-800-898-7180** o consulte [acis.eoir.justice.gov](https://acis.eoir.justice.gov/) con su número A. A veces la audiencia fue reprogramada, o el caso sigue abierto porque el juez concedió una prórroga en su ausencia. Antes de gastar dinero en una moción, sepa qué ocurrió.
+Llame al **1-800-898-7180** o consulte [acis.eoir.justice.gov](https://acis.eoir.justice.gov/) con su número A. A veces la audiencia fue reprogramada, o el caso sigue abierto porque el juez concedió una prórroga en su ausencia. Antes de gastar dinero en una moción, sepa qué ocurrió. Explicamos ambas vías en la guía sobre la [corte de inmigración](/corte-de-inmigracion/).
 
 ## Paso 2: identifique el motivo de reapertura
 
