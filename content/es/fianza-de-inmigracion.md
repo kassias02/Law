@@ -34,7 +34,7 @@ faq:
   - ¿Quién puede pagar la fianza?|Un ciudadano estadounidense, un residente permanente, un bufete de abogados o una organización sin fines de lucro, con un documento aceptado por ICE. La persona detenida solo puede pagar por sí misma una fianza de salida voluntaria o de orden de supervisión.
   - ¿Cómo se paga una fianza de ICE?|Según ICE, en línea por el sistema CeBONDS, con transferencia Fedwire o ACH, de lunes a viernes de 9 a. m. a 3 p. m. (hora del lugar de detención). El pago en una oficina de ICE se atiende caso por caso: llame antes a la oficina de campo.
   - ¿Cuándo devuelven el dinero de la fianza?|Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depósito y los intereses al obligor en la dirección registrada. ICE no publica un plazo. Si la persona incumple, el depósito se pierde.
-  - ¿Cuánto tarda una audiencia de fianza?|Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
+  - ¿Cuánto tarda una audiencia de fianza?|Depende de la corte. Según el manual de práctica de las cortes de inmigración (EOIR), al recibir la solicitud la corte programa la audiencia para la fecha más próxima posible, sin fijar un número de días.
 ---
 <h2 id="que-es-una-fianza-de-inmigracion">¿Qué es una fianza de inmigración y quién puede pedirla?</h2>
 <p>Es el dinero que se deposita para que ICE libere a una persona detenida mientras sigue su caso; se devuelve al final si la persona cumple con todas las citas. Puede pedirla al juez de inmigración quien no esté sujeto a detención obligatoria: ciertas condenas y, según decisiones recientes, ciertas formas de entrada la impiden. El mínimo legal es de $1,500.</p>
@@ -140,6 +140,6 @@ Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depó
 
 ### ¿Cuánto tarda una audiencia de fianza?
 
-Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
+Depende de la corte. Según el [manual de práctica de las cortes de inmigración (EOIR)](https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3), al recibir la solicitud la corte programa la audiencia para la fecha más próxima posible, sin fijar un número de días.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

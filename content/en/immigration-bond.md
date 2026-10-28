@@ -27,7 +27,7 @@ faq:
   - Who can pay the bond?|A U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization, with a document ICE accepts. The detained person can only post a voluntary departure or order of supervision bond on their own behalf.
   - How is an ICE bond paid?|According to ICE, online through the CeBONDS system by Fedwire or ACH transfer, Monday to Friday, 9 a.m. to 3 p.m. in the detention location's time zone. Paying at an ICE office is handled case by case: call the field office first.
   - When is the bond money returned?|When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a timeframe. If the person breaches the bond, the deposit is forfeited.
-  - How long does a bond hearing take to schedule?|It varies. Many courts schedule within one or two weeks of a written request, but crowded detention facilities can take longer.
+  - How long does a bond hearing take to schedule?|It varies. According to the Immigration Court Practice Manual (EOIR), after receiving the request the court schedules the hearing for the earliest possible date; it sets no number of days.
 ---
 <h2 id="what-is-an-immigration-bond">What is an immigration bond, and who can request one?</h2>
 <p>It is money posted so ICE releases a detained person while the case continues; it is returned at the end if the person attends every hearing. Anyone not subject to mandatory detention can ask the immigration judge for a bond hearing — certain convictions and, under recent decisions, certain manners of entry rule it out. The statutory minimum is $1,500.</p>
@@ -109,6 +109,6 @@ When ICE cancels the bond on Form I-391; it then refunds the deposit and interes
 
 ### How long does a bond hearing take to schedule?
 
-It varies. Many courts schedule within one or two weeks of a written request, but crowded detention facilities can take longer.
+It varies. According to the [Immigration Court Practice Manual (EOIR)](https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3), after receiving the request the court schedules the hearing for the earliest possible date; it sets no number of days.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>
