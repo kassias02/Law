@@ -47,7 +47,7 @@ Que no salga no significa que no esté detenido. Las causas más comunes:
 - **Es menor de 18 años.** Los menores no figuran en el localizador. Los menores no acompañados pasan a la Oficina de Reasentamiento de Refugiados (ORR), que tiene una línea específica para familiares.
 - **Datos mal escritos** en el registro de ICE, lo que es frecuente.
 
-Si tras 72 horas sigue sin aparecer, llame a la **oficina de ERO** del área donde fue detenido. El directorio está en el sitio de ICE. ICE también remite a su línea DRIL, 1-888-351-4024, de lunes a viernes de 8 a. m. a 8 p. m. (hora del Este), con operadores en español.
+Si tras 72 horas sigue sin aparecer, llame a la **oficina de ERO** del área donde fue detenido. El directorio está en el sitio de ICE. ICE también remite a su línea DRIL, 1-888-351-4024, de lunes a viernes de 8 a. m. a 8 p. m. (hora del Este), con operadores en español. Si el arresto fue un viernes o un fin de semana, vea [qué pasa después de un arresto de ICE](/que-pasa-despues-de-un-arresto-de-ice/) y qué hacer hasta el lunes.
 
 ## Qué anotar en cuanto lo encuentre
 
@@ -69,7 +69,7 @@ Para depositar dinero en su cuenta de comisaría, cada centro indica el sistema 
 
 ## Lo que debe hacer en paralelo
 
-1. **Reúna documentos**: pasaporte, actas de nacimiento de hijos ciudadanos, comprobantes de domicilio y de trabajo, impuestos, cartas de apoyo. Todo esto pesa en una audiencia de [fianza](/fianza-de-inmigracion/). Vea también [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/).
+1. **Reúna documentos**: pasaporte, actas de nacimiento de hijos ciudadanos, comprobantes de domicilio y de trabajo, impuestos, cartas de apoyo. Todo esto pesa en una audiencia de [fianza](/fianza-de-inmigracion/). Vea también [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/) y [cuánto tiempo puede ICE detener a un inmigrante](/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/).
 2. **Consiga un abogado antes de que firme nada.** ICE puede ofrecerle una salida voluntaria o una orden estipulada que cierran el caso sin pasar por un juez. Firmar eso sin asesoría es lo peor que puede pasar en esta etapa.
 3. **Averigüe si tiene una orden de deportación previa.** Si la tiene, ICE puede ejecutarla sin nueva audiencia, y el margen de acción es de días.
 4. **Prepare al resto de la familia.** Repase [qué hacer si ICE llega a su casa o a su trabajo](/que-hacer-si-ice-llega-a-mi-casa/) y tenga un plan para los niños.

@@ -69,10 +69,12 @@ To deposit money into the person's commissary account, check the facility's page
 
 ## What to do in parallel
 
-1. **Gather documents**: passport, children's birth certificates, proof of address and employment, tax returns, support letters. All of it matters at a [bond hearing](/en/immigration-bond/). See also [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/).
+1. **Gather documents**: passport, children's birth certificates, proof of address and employment, tax returns, support letters. All of it matters at a [bond hearing](/en/immigration-bond/). See also [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/) and [how long ICE can detain someone](/en/how-long-can-ice-detain-someone/).
 2. **Get a lawyer before anything is signed.** ICE may offer voluntary departure or a stipulated order that closes the case without a judge. Signing that unadvised is the worst outcome at this stage.
 3. **Find out whether there is a prior removal order.** If there is, ICE can execute it without a new hearing, and the window is days.
 4. **Prepare the rest of the family.** Review [what to do if ICE comes to your home or workplace](/en/what-to-do-if-ice-comes/) and make a plan for the children.
+
+If the arrest happened on a Friday or a weekend, see [what happens after an ICE arrest](/en/what-happens-after-an-ice-arrest/) and what to do until Monday.
 
 If you cannot afford a lawyer, the [EOIR list of free providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) is organized by state.
 

@@ -27,12 +27,14 @@ faq:
   - Who can pay the bond?|A U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization, with a document ICE accepts. The detained person can only post a voluntary departure or order of supervision bond on their own behalf.
   - How is an ICE bond paid?|According to ICE, online through the CeBONDS system by Fedwire or ACH transfer, Monday to Friday, 9 a.m. to 3 p.m. in the detention location's time zone. Paying at an ICE office is handled case by case: call the field office first.
   - When is the bond money returned?|When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a timeframe. If the person breaches the bond, the deposit is forfeited.
-  - How long does a bond hearing take to schedule?|It varies. Many courts schedule within one or two weeks of a written request, but crowded detention facilities can take longer.
+  - How long does a bond hearing take to schedule?|It varies. According to the Immigration Court Practice Manual (EOIR), after receiving the request the court schedules the hearing for the earliest possible date; it sets no number of days.
 ---
 <h2 id="what-is-an-immigration-bond">What is an immigration bond, and who can request one?</h2>
 <p>It is money posted so ICE releases a detained person while the case continues; it is returned at the end if the person attends every hearing. Anyone not subject to mandatory detention can ask the immigration judge for a bond hearing — certain convictions and, under recent decisions, certain manners of entry rule it out. The statutory minimum is $1,500.</p>
 
 ## The first 48 hours
+
+For what ICE does during those hours and what changes on a weekend, see [what happens after an ICE arrest](/en/what-happens-after-an-ice-arrest/).
 
 1. **Locate the person.** Use the [ICE detainee locator](https://locator.ice.gov/) with the A-Number (nine digits; if it has fewer, add zeros at the beginning) and country of birth, or the exact first and last name and country of birth. Date of birth is optional. ICE says the data may be up to eight hours old and that the locator does not show transfers in progress, people under 18, or people in CBP custody for less than 48 hours. If they do not appear, follow the guide on [how to find someone detained by ICE](/en/find-someone-detained-by-ice/).
 2. **Write down the A-Number.** You will need it for everything.
@@ -45,9 +47,9 @@ If the person already has a prior removal order, ICE may execute it without a ne
 
 The law separates people who **may** be released on bond under INA § 236(a) from those subject to **mandatory detention** under § 236(c), who generally cannot ask a judge for bond. Mandatory detention covers certain criminal convictions — controlled substances, aggravated felonies, crimes involving moral turpitude with a sentence of a year or more, among others.
 
-People classified as "arriving aliens" — for example, those stopped at the border or a port of entry — are generally outside the judge's bond authority and remain under ICE custody decisions.
+People classified as "arriving aliens" — for example, those stopped at the border or a port of entry — are generally outside the judge's bond authority and remain under ICE custody decisions. We explain each group, with sources, in [who is not eligible for immigration bond](/en/mandatory-detention-no-bond/).
 
-**A significant shift since 2025.** Board of Immigration Appeals decisions and DHS policy have extended mandatory detention to people who entered without inspection, on the theory that they are "applicants for admission". Several federal courts have rejected or narrowed that reading, and the outcome now depends on the judicial circuit where the person is held. This is among the most heavily litigated questions in immigration law in 2026, and only an attorney who knows the current case law in that district can tell you whether a bond hearing is available.
+**A significant shift since 2025.** Board of Immigration Appeals decisions and DHS policy have extended mandatory detention to people who entered without inspection, on the theory that they are "applicants for admission". Several federal courts have rejected or narrowed that reading, and the outcome now depends on the judicial circuit where the person is held. This is among the most heavily litigated questions in immigration law in 2026, and only an attorney who knows the current case law in that district can tell you whether a bond hearing is available. See also [how long ICE can detain someone](/en/how-long-can-ice-detain-someone/).
 
 ## Asking the judge for bond
 
@@ -107,6 +109,6 @@ When ICE cancels the bond on Form I-391; it then refunds the deposit and interes
 
 ### How long does a bond hearing take to schedule?
 
-It varies. Many courts schedule within one or two weeks of a written request, but crowded detention facilities can take longer.
+It varies. According to the [Immigration Court Practice Manual (EOIR)](https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3), after receiving the request the court schedules the hearing for the earliest possible date; it sets no number of days.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

@@ -34,7 +34,7 @@ faq:
   - ¿Quién puede pagar la fianza?|Un ciudadano estadounidense, un residente permanente, un bufete de abogados o una organización sin fines de lucro, con un documento aceptado por ICE. La persona detenida solo puede pagar por sí misma una fianza de salida voluntaria o de orden de supervisión.
   - ¿Cómo se paga una fianza de ICE?|Según ICE, en línea por el sistema CeBONDS, con transferencia Fedwire o ACH, de lunes a viernes de 9 a. m. a 3 p. m. (hora del lugar de detención). El pago en una oficina de ICE se atiende caso por caso: llame antes a la oficina de campo.
   - ¿Cuándo devuelven el dinero de la fianza?|Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depósito y los intereses al obligor en la dirección registrada. ICE no publica un plazo. Si la persona incumple, el depósito se pierde.
-  - ¿Cuánto tarda una audiencia de fianza?|Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
+  - ¿Cuánto tarda una audiencia de fianza?|Depende de la corte. Según el manual de práctica de las cortes de inmigración (EOIR), al recibir la solicitud la corte programa la audiencia para la fecha más próxima posible, sin fijar un número de días.
 ---
 <h2 id="que-es-una-fianza-de-inmigracion">¿Qué es una fianza de inmigración y quién puede pedirla?</h2>
 <p>Es el dinero que se deposita para que ICE libere a una persona detenida mientras sigue su caso; se devuelve al final si la persona cumple con todas las citas. Puede pedirla al juez de inmigración quien no esté sujeto a detención obligatoria: ciertas condenas y, según decisiones recientes, ciertas formas de entrada la impiden. El mínimo legal es de $1,500.</p>
@@ -53,7 +53,7 @@ Hay personas a las que el juez no puede concederles fianza, por ejemplo por cier
 
 ## Las primeras 48 horas
 
-Cuando ICE detiene a alguien, la familia suele enterarse por una llamada de la propia persona o por un vecino. Los primeros pasos, en orden:
+Cuando ICE detiene a alguien, la familia suele enterarse por una llamada de la propia persona o por un vecino. Para saber qué hace ICE en esas horas y qué cambia en fin de semana, vea [qué pasa después de un arresto de ICE](/que-pasa-despues-de-un-arresto-de-ice/). Los primeros pasos, en orden:
 
 1. **Localice a la persona.** Use el [localizador de detenidos de ICE](https://locator.ice.gov/) con el A-Number (9 dígitos; si tiene menos, agregue ceros al principio) y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional. ICE indica que los datos pueden tener hasta ocho horas de retraso y que el localizador no muestra los traslados en curso, ni a menores de 18 años, ni a quienes llevan menos de 48 horas bajo custodia de CBP. Si no aparece, siga la guía [cómo saber si un familiar está detenido por ICE](/como-saber-si-mi-familiar-esta-detenido/).
 2. **Anote el A-Number** en cuanto lo tenga. Lo necesitará para todo: la corte, la fianza, el abogado.
@@ -66,9 +66,9 @@ Si la persona tiene una orden de deportación previa, la situación es distinta:
 
 La ley distingue entre personas que **pueden** ser liberadas bajo fianza (INA § 236(a)) y personas sujetas a **detención obligatoria** (INA § 236(c)), que en principio no pueden pedir fianza a un juez. La detención obligatoria aplica, entre otros casos, a personas con ciertas condenas penales (drogas, delitos con agravantes, delitos de "vileza moral" con pena de al menos un año, etc.).
 
-Además, las personas consideradas "extranjeros que llegan" (por ejemplo, detenidas en la frontera o en un puerto de entrada) suelen quedar bajo control exclusivo de ICE en materia de fianza.
+Además, las personas consideradas "extranjeros que llegan" (por ejemplo, detenidas en la frontera o en un puerto de entrada) suelen quedar bajo control exclusivo de ICE en materia de fianza. Explicamos cada grupo, con sus fuentes, en [quién no tiene derecho a fianza de inmigración](/detencion-obligatoria-sin-fianza/).
 
-**Cambio importante desde 2025.** Decisiones de la Junta de Apelaciones de Inmigración (BIA) y políticas del DHS han ampliado la detención obligatoria a personas que entraron sin inspección, con el argumento de que deben tratarse como "solicitantes de admisión". Varios tribunales federales han rechazado o limitado esa interpretación, y el resultado depende del circuito judicial donde esté detenida la persona. En 2026 esta es una de las cuestiones más litigadas del derecho migratorio; solo un abogado que conozca la jurisprudencia de ese distrito puede decirle si una audiencia de fianza es posible.
+**Cambio importante desde 2025.** Decisiones de la Junta de Apelaciones de Inmigración (BIA) y políticas del DHS han ampliado la detención obligatoria a personas que entraron sin inspección, con el argumento de que deben tratarse como "solicitantes de admisión". Varios tribunales federales han rechazado o limitado esa interpretación, y el resultado depende del circuito judicial donde esté detenida la persona. En 2026 esta es una de las cuestiones más litigadas del derecho migratorio; solo un abogado que conozca la jurisprudencia de ese distrito puede decirle si una audiencia de fianza es posible. Vea también [cuánto tiempo puede ICE detener a un inmigrante](/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/).
 
 ## Cómo se pide la fianza al juez
 
@@ -140,6 +140,6 @@ Cuando ICE cancela la fianza con el Formulario I-391; entonces devuelve el depó
 
 ### ¿Cuánto tarda una audiencia de fianza?
 
-Depende de la corte. Después de presentar la solicitud por escrito, muchas cortes programan la audiencia en una o dos semanas, pero en centros de detención saturados puede tardar más.
+Depende de la corte. Según el [manual de práctica de las cortes de inmigración (EOIR)](https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3), al recibir la solicitud la corte programa la audiencia para la fecha más próxima posible, sin fijar un número de días.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

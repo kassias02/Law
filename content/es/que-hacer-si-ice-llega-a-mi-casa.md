@@ -78,7 +78,7 @@ Esto es lo que realmente cambia el resultado:
 - **Los números A** de cada miembro de la familia, anotados fuera de casa.
 - **Una carta poder** para decisiones sobre los hijos y las finanzas, preparada con un abogado.
 
-Si alguien de su familia es detenido, el siguiente paso es [localizarlo en el sistema de ICE](/como-saber-si-mi-familiar-esta-detenido/) y, si es posible, pedir una [fianza](/fianza-de-inmigracion/) (vea [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/)).
+Si alguien de su familia es detenido, vea [qué pasa después de un arresto de ICE](/que-pasa-despues-de-un-arresto-de-ice/). El siguiente paso es [localizarlo en el sistema de ICE](/como-saber-si-mi-familiar-esta-detenido/) y, si es posible, pedir una [fianza](/fianza-de-inmigracion/) (vea [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/)). No todos pueden obtenerla: vea [quién no tiene derecho a fianza](/detencion-obligatoria-sin-fianza/).
 
 ## Preguntas frecuentes
 
