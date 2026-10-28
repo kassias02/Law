@@ -1,12 +1,12 @@
 ---
-title: Falté a mi corte de inmigración: qué es una orden en ausencia y cómo reabrir el caso
+title: Falté a mi corte de inmigración: orden en ausencia y reapertura
 seo_title: Falté a mi corte de inmigración: orden en ausencia y reapertura
 nav: Falté a mi audiencia
 description: Qué pasa si no se presenta a una audiencia de inmigración, qué es una orden de deportación en ausencia y en qué casos se puede pedir la reapertura del caso.
 slug: orden-de-deportacion-en-ausencia
 mirror: in-absentia-removal-order
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - Si no se presenta, el juez puede ordenar su deportación ese mismo día sin escuchar su defensa.
   - Se puede pedir reabrir el caso con una moción, pero los plazos son cortos y los motivos son limitados.
@@ -15,7 +15,7 @@ summary:
 sources:
   - INA § 240(b)(5) (8 U.S.C. § 1229a) – Órdenes en ausencia y reapertura|https://www.law.cornell.edu/uscode/text/8/1229a
   - 8 C.F.R. § 1003.23 – Mociones para reabrir ante el juez de inmigración|https://www.law.cornell.edu/cfr/text/8/1003.23
-  - EOIR – Manual de práctica, capítulo 5 (mociones)|https://www.justice.gov/eoir/reference-materials/ic/chapter-5
+  - EOIR – Manual de práctica, capítulo 4 (mociones)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-4
   - EOIR – Sistema automatizado de información de casos|https://acis.eoir.justice.gov/
 faq:
   - ¿Puedo reabrir mi caso si nunca recibí el aviso de la corte?|Sí. Si demuestra que no recibió la notificación exigida por la ley, puede presentar una moción para reabrir sin límite de tiempo. Es el motivo más fuerte que existe.
@@ -71,7 +71,7 @@ Presentar la moción **no detiene** la deportación por sí sola. Hay que solici
 
 ## Riesgos mientras espera
 
-Con una orden en ausencia activa, usted figura en las bases de ICE como persona con orden final. Una parada de tráfico, una cita de inmigración o un chequeo rutinario pueden convertirse en una detención. Además, una orden en ausencia bloquea durante diez años ciertas formas de alivio, incluida la salida voluntaria y la cancelación.
+Con una orden en ausencia activa, usted figura en las bases de ICE como persona con orden final. Una parada de tráfico, una cita de inmigración o un chequeo rutinario pueden convertirse en una detención. Además, una orden en ausencia bloquea durante diez años ciertas formas de alivio, incluida la salida voluntaria y la cancelación. Para saber cómo actuar si llegan agentes, lea [qué hacer si ICE llega a su casa o a su trabajo](/que-hacer-si-ice-llega-a-mi-casa/).
 
 ## Qué hacer hoy
 
@@ -81,13 +81,16 @@ Con una orden en ausencia activa, usted figura en las bases de ICE como persona 
 
 ## Preguntas frecuentes
 
-**¿Puedo reabrir si nunca recibí el aviso?**
-Sí, y sin límite de tiempo. Es el motivo más fuerte.
+### ¿Puedo reabrir mi caso si nunca recibí el aviso de la corte?
 
-**¿Cuánto tiempo tengo por circunstancias excepcionales?**
-180 días desde la orden.
+Sí. Si demuestra que no recibió la notificación exigida por la ley, puede presentar una moción para reabrir sin límite de tiempo. Es el motivo más fuerte que existe.
 
-**¿La moción detiene la deportación?**
-No por sí sola. Hay que pedir una suspensión aparte.
+### ¿Cuánto tiempo tengo para reabrir por circunstancias excepcionales?
+
+180 días desde la orden. Cuentan situaciones como una enfermedad grave suya o la muerte de un familiar inmediato, no un simple olvido o un problema de transporte.
+
+### ¿Presentar una moción detiene mi deportación?
+
+No automáticamente. Hay que pedir por separado una suspensión (stay of removal). Mientras tanto, ICE puede ejecutar la orden.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

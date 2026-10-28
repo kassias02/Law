@@ -5,7 +5,7 @@ description: How employment authorization works with a pending asylum case — t
 slug: work-permit-pending-asylum
 mirror: permiso-de-trabajo-con-asilo-pendiente
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-28
 summary:
   - The work permit for pending asylum is requested on Form I-765, category C08.
   - A waiting period runs from the date your asylum application is properly filed. The rules have changed repeatedly, so confirm the current period before filing.
@@ -47,7 +47,7 @@ USCIS and EOIR keep an internal counter known as the **asylum clock**. It stops 
 
 System delays should not stop the count. In practice the clock is sometimes stopped in error, and you can ask the court to correct it — worth catching early.
 
-There is a real tension here: requesting a continuance may be right for your asylum case and simultaneously delay your work permit. That is a decision to make with a lawyer, not in the courthouse hallway.
+There is a real tension here: requesting a continuance may be right for your asylum case and simultaneously delay your work permit. That is a decision to make with a lawyer, not in the courthouse hallway. To estimate case timelines, see [how long an immigration court case takes](/en/how-long-immigration-court-takes/).
 
 ## The application: Form I-765
 
@@ -70,13 +70,16 @@ While a BIA appeal is pending, the permit may remain renewable. Once the order b
 
 ## Frequently asked questions
 
-**Can I work while waiting?**
-Not immediately. Wait the current period, then file the I-765 under C08.
+### Can I work while my asylum case is pending?
 
-**What stops the clock?**
-Delays you cause, such as a continuance or declining the first date offered.
+Not immediately. You must wait the period required by the current rule from the date your asylum application is properly filed, then apply with Form I-765 under category C08.
 
-**What does it cost?**
-Fees change; confirm the amount and waiver options with USCIS before filing.
+### What stops the asylum clock?
+
+Delays attributable to you: requesting a continuance, declining the first available hearing date, failing to file documents on time. Government delays should not stop it.
+
+### How much does the asylum work permit cost?
+
+I-765 fees have changed several times and depend on category and fee waiver eligibility. Check the USCIS fee page before filing, because an incorrect payment gets the whole package rejected.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

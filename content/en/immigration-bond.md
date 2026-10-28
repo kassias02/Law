@@ -7,7 +7,7 @@ slug: immigration-bond
 mirror: fianza-de-inmigracion
 order: 2
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - Find the person through the ICE detainee locator (locator.ice.gov) with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional.
   - Not everyone can request bond. Certain convictions — and, under recent decisions, certain manners of entry — trigger mandatory detention.
@@ -34,7 +34,7 @@ faq:
 
 ## The first 48 hours
 
-1. **Locate the person.** Use the [ICE detainee locator](https://locator.ice.gov/) with the A-Number (nine digits; if it has fewer, add zeros at the beginning) and country of birth, or the exact first and last name and country of birth. Date of birth is optional. ICE says the data may be up to eight hours old and that the locator does not show transfers in progress, people under 18, or people in CBP custody for less than 48 hours.
+1. **Locate the person.** Use the [ICE detainee locator](https://locator.ice.gov/) with the A-Number (nine digits; if it has fewer, add zeros at the beginning) and country of birth, or the exact first and last name and country of birth. Date of birth is optional. ICE says the data may be up to eight hours old and that the locator does not show transfers in progress, people under 18, or people in CBP custody for less than 48 hours. If they do not appear, follow the guide on [how to find someone detained by ICE](/en/find-someone-detained-by-ice/).
 2. **Write down the A-Number.** You will need it for everything.
 3. **Gather documents:** passport, children's birth certificates, proof of address and employment, tax returns, support letters. These show community ties.
 4. **Get a lawyer before anything is signed.** ICE may offer "voluntary departure" or a stipulated order that ends the case without a hearing.

@@ -1,5 +1,5 @@
 ---
-title: Asilo defensivo, retención de expulsión y CAT: las tres protecciones por miedo
+title: Asilo defensivo, retención de expulsión y CAT: cómo funcionan
 seo_title: Asilo defensivo, retención de expulsión y CAT
 nav: Asilo y protección
 description: Asilo defensivo, retención de expulsión y protección bajo la Convención contra la Tortura: plazo de un año, Formulario I-589 y permiso de trabajo.
@@ -7,7 +7,7 @@ slug: asilo-defensivo
 mirror: defensive-asylum
 order: 5
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - El asilo defensivo se pide ante el juez de inmigración como defensa dentro del proceso de deportación, con el Formulario I-589.
   - Regla del año: en general debe pedir asilo dentro del primer año tras su última entrada, salvo excepciones por circunstancias cambiantes o extraordinarias.
@@ -78,13 +78,16 @@ Presentar una solicitud de asilo que el juez considere **deliberadamente falsa**
 
 ## Preguntas frecuentes
 
-**¿Diferencia entre asilo afirmativo y defensivo?**
-El afirmativo se pide ante USCIS fuera de un proceso; el defensivo ante el juez, dentro del proceso. Mismo formulario, el I-589.
+### ¿Cuál es la diferencia entre asilo afirmativo y defensivo?
 
-**¿Puedo trabajar mientras espero?**
-Puede solicitar el [permiso de trabajo](/permiso-de-trabajo-con-asilo-pendiente/) (I-765) después de que la solicitud lleve cierto tiempo pendiente. Los plazos han cambiado varias veces; confirme el vigente antes de presentar.
+El afirmativo se pide ante USCIS cuando usted no está en proceso de deportación. El defensivo se pide ante el juez de inmigración como defensa dentro de un proceso ya abierto. El formulario es el mismo (I-589).
 
-**¿Y si pasó más de un año?**
-Puede seguir siendo elegible con circunstancias cambiantes o extraordinarias. Y aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.
+### ¿Puedo trabajar mientras espera mi caso de asilo?
+
+Puede solicitar el [permiso de trabajo](/permiso-de-trabajo-con-asilo-pendiente/) (Formulario I-765) después de que su solicitud de asilo lleve un tiempo pendiente. Los plazos y requisitos han cambiado varias veces; confirme el plazo vigente con un abogado o en el sitio de USCIS antes de presentar.
+
+### ¿Qué pasa si pasó más de un año desde que entré?
+
+Puede seguir siendo elegible si demuestra circunstancias cambiantes (por ejemplo, un cambio de condiciones en su país) o circunstancias extraordinarias (enfermedad, ser menor no acompañado) que justifiquen el retraso. Aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

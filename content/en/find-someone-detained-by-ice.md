@@ -5,7 +5,7 @@ description: How to use the ICE detainee locator, what to do when someone does n
 slug: find-someone-detained-by-ice
 mirror: como-saber-si-mi-familiar-esta-detenido
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - Use the official locator at locator.ice.gov: with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional.
   - According to ICE, the data may be up to eight hours old, and the locator does not show transfers in progress.
@@ -69,9 +69,10 @@ To deposit money into the person's commissary account, check the facility's page
 
 ## What to do in parallel
 
-1. **Gather documents**: passport, children's birth certificates, proof of address and employment, tax returns, support letters. All of it matters at a [bond hearing](/en/immigration-bond/).
+1. **Gather documents**: passport, children's birth certificates, proof of address and employment, tax returns, support letters. All of it matters at a [bond hearing](/en/immigration-bond/). See also [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/).
 2. **Get a lawyer before anything is signed.** ICE may offer voluntary departure or a stipulated order that closes the case without a judge. Signing that unadvised is the worst outcome at this stage.
 3. **Find out whether there is a prior removal order.** If there is, ICE can execute it without a new hearing, and the window is days.
+4. **Prepare the rest of the family.** Review [what to do if ICE comes to your home or workplace](/en/what-to-do-if-ice-comes/) and make a plan for the children.
 
 If you cannot afford a lawyer, the [EOIR list of free providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) is organized by state.
 

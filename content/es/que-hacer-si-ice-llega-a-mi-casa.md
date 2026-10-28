@@ -5,7 +5,7 @@ description: Sus derechos si ICE llega a su casa o su trabajo: orden judicial vs
 slug: que-hacer-si-ice-llega-a-mi-casa
 mirror: what-to-do-if-ice-comes
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - No tiene que abrir la puerta salvo que los agentes tengan una orden firmada por un juez, con su nombre y dirección.
   - Una orden administrativa de ICE (Formularios I-200 o I-205) no autoriza a entrar en su casa sin su permiso.
@@ -78,17 +78,20 @@ Esto es lo que realmente cambia el resultado:
 - **Los números A** de cada miembro de la familia, anotados fuera de casa.
 - **Una carta poder** para decisiones sobre los hijos y las finanzas, preparada con un abogado.
 
-Si alguien de su familia es detenido, el siguiente paso es [localizarlo en el sistema de ICE](/como-saber-si-mi-familiar-esta-detenido/) y, si es posible, pedir una [fianza](/fianza-de-inmigracion/).
+Si alguien de su familia es detenido, el siguiente paso es [localizarlo en el sistema de ICE](/como-saber-si-mi-familiar-esta-detenido/) y, si es posible, pedir una [fianza](/fianza-de-inmigracion/) (vea [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/)).
 
 ## Preguntas frecuentes
 
-**¿Tengo que abrir la puerta?**
-No, salvo orden de registro firmada por un juez con su nombre y dirección.
+### ¿Tengo que abrir la puerta a ICE?
 
-**¿Cómo distingo las dos órdenes?**
-La judicial lleva el nombre de una corte y la firma de un juez; la I-200 y la I-205 las firma un oficial de ICE.
+No, salvo que tengan una orden de registro firmada por un juez con su nombre y su dirección. Pídales que la pasen por debajo de la puerta o la muestren por la ventana antes de decidir.
 
-**¿Y si firmo sin abogado?**
-Puede renunciar a ver a un juez o aceptar una salida voluntaria, decisiones muy difíciles de deshacer.
+### ¿Cómo distingo una orden judicial de una administrativa?
+
+Una orden judicial lleva el nombre de una corte ("U.S. District Court") y la firma de un juez. Las órdenes administrativas de ICE (I-200, I-205) están firmadas por un oficial de inmigración y no autorizan la entrada a un domicilio.
+
+### ¿Qué pasa si firmo papeles sin abogado?
+
+Puede estar renunciando a su derecho a ver a un juez o aceptando una salida voluntaria. Algunos de esos documentos son muy difíciles de deshacer.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

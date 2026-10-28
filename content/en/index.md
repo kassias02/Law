@@ -5,7 +5,7 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-28
 byline: true
 faq:
   - What happens if I miss my hearing?|The judge can order you removed in absentia that same day. Confirm your date through the EOIR automated system: 1-800-898-7180 or acis.eoir.justice.gov with your A-Number.
@@ -54,16 +54,20 @@ In the United States a notary public is **not** a lawyer. People who present the
 
 {{ARTICLE_LIST}}
 
-**What happens if I miss my hearing?**
+### What happens if I miss my hearing?
+
 The judge can order you removed in absentia that same day. Confirm your date through the EOIR automated system: 1-800-898-7180 or acis.eoir.justice.gov with your A-Number.
 
-**Will the government give me a free lawyer?**
+### Will the government give me a free lawyer?
+
 No. You have the right to counsel, but the government will not pay for it. Free and low-cost organizations exist, and the court gives you a list at the start of your case.
 
-**Can a notario handle my removal case?**
+### Can a notario handle my removal case?
+
 No. In the United States a notary public is not a lawyer. Only a licensed attorney or a DOJ-accredited representative can represent you in court.
 
-**What defenses exist in immigration court?**
+### What defenses exist in immigration court?
+
 The most common are cancellation of removal, defensive asylum with withholding of removal and CAT, adjustment of status, and voluntary departure. Each has strict requirements and deadlines.
 
 ## About this site

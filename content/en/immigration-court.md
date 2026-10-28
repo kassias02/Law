@@ -7,7 +7,7 @@ slug: immigration-court
 mirror: corte-de-inmigracion
 order: 3
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - Immigration court (EOIR) sits inside the Department of Justice, separate from USCIS and ICE. The judge is independent of the government attorney.
   - Check your next court date with your A-Number on EOIR's ACIS portal or the free 1-800-898-7180 hotline (24/7, English and Spanish).
@@ -25,6 +25,9 @@ sources:
   - 8 C.F.R. § 1003.23 – Reopening in absentia orders|https://www.law.cornell.edu/cfr/text/8/1003.23
   - 8 C.F.R. Part 1240 – Proceedings before immigration judges|https://www.law.cornell.edu/cfr/text/8/part-1240
   - American Immigration Council – "Access to Counsel in Immigration Court" (Eagly and Shafer)|https://www.americanimmigrationcouncil.org/research/access-counsel-immigration-court
+  - EOIR – Immigration Court Practice Manual, ch. 3.2 (commencement of removal proceedings)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-3-2
+  - 8 C.F.R. § 1239.1 – Notice to appear (eCFR)|https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1239/section-1239.1
+  - INA § 240 (8 U.S.C. § 1229a) – Official text (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partIV-sec1229a.htm
 faq:
   - How do I check my immigration court date?|Enter your A-Number on EOIR's ACIS portal (acis.eoir.justice.gov) or call the free EOIR hotline at 1-800-898-7180, available 24 hours a day in English and Spanish. If no case is found, your case may not be filed with the court yet.
   - What do I need to look up my court date?|Only your A-Number, the alien registration number that starts with the letter A. It appears on your Notice to Appear and on DHS and EOIR mail. On the phone, enter the 9 digits without the A; for an 8-digit number, add a 0 first.
@@ -33,6 +36,10 @@ faq:
   - How long does an immigration court case take?|It varies enormously by court. Detained cases are often heard within weeks or a few months; non-detained cases can run from one to several years between the first hearing and a final decision.
   - What happens if the judge orders me removed?|You have 30 days to appeal to the Board of Immigration Appeals. While the appeal is pending, the order is not executed.
 ---
+<p class="meta"><a href="/corte-de-inmigracion/" hreflang="es" lang="es">Versión en español</a></p>
+<h2 id="what-are-immigration-proceedings">What are immigration proceedings?</h2>
+<p>Immigration proceedings, formally called removal proceedings, are the court case in which an immigration judge decides whether a noncitizen is inadmissible or deportable and whether they qualify for relief (INA § 240). They begin when DHS files a <a href="/en/notice-to-appear/">Notice to Appear</a> (Form I-862) with the immigration court (8 C.F.R. § 1239.1).</p>
+
 <h2 id="how-to-check-your-immigration-court-date">How to check your immigration court date</h2>
 <p>Enter your A-Number on EOIR's online ACIS portal or call EOIR's free hotline at 1-800-898-7180. Both show your next hearing date, time and court location, and both are run by the immigration court system itself (EOIR, part of the Department of Justice).</p>
 
@@ -54,7 +61,7 @@ Immigration court is part of the **Executive Office for Immigration Review (EOIR
 - **You** (the respondent) and your attorney, if you have one.
 - **An interpreter**, free of charge, if you are not fluent in English. Always ask for one.
 
-Many hearings, especially for detained people, are held by video (Webex).
+Many hearings, especially for detained people, are held by video (Webex). If you do not know where a relative is detained, see [how to find someone detained by ICE](/en/find-someone-detained-by-ice/).
 
 ## The master calendar hearing
 
@@ -66,7 +73,7 @@ This first hearing is short — often five to fifteen minutes, with many schedul
 4. Asks what relief you intend to seek and sets filing deadlines.
 5. Schedules the next hearing.
 
-This is not the moment to tell your whole story. It is procedural — but what you admit stays in the record, which is why having counsel first matters.
+This is not the moment to tell your whole story. It is procedural — but what you admit stays in the record, which is why having counsel first matters. The time between hearings varies widely by court: see [how long an immigration court case takes](/en/how-long-immigration-court-takes/).
 
 ## The individual (merits) hearing
 
