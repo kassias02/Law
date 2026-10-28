@@ -1,12 +1,12 @@
 ---
-title: I missed my immigration court hearing: in absentia orders and reopening
+title: Missed immigration court: in absentia orders and reopening
 seo_title: Missed immigration court: in absentia orders and reopening
 nav: I missed my hearing
 description: What happens when you miss an immigration hearing, what an in absentia removal order means, and the limited grounds and deadlines for reopening the case.
 slug: in-absentia-removal-order
 mirror: orden-de-deportacion-en-ausencia
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-28
 summary:
   - If you fail to appear, the judge can order removal that same day without hearing your defense.
   - Reopening is possible by motion, but the grounds are narrow and the deadlines are short.
@@ -15,7 +15,7 @@ summary:
 sources:
   - INA § 240(b)(5) (8 U.S.C. § 1229a) – In absentia orders and rescission|https://www.law.cornell.edu/uscode/text/8/1229a
   - 8 C.F.R. § 1003.23 – Motions to reopen before the immigration judge|https://www.law.cornell.edu/cfr/text/8/1003.23
-  - EOIR – Practice Manual, chapter 5 (motions)|https://www.justice.gov/eoir/reference-materials/ic/chapter-5
+  - EOIR – Practice Manual, chapter 4 (motions)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-4
   - EOIR – Automated Case Information System|https://acis.eoir.justice.gov/
 faq:
   - Can I reopen if I never received the hearing notice?|Yes. If you show you did not receive the notice the law requires, you can file a motion to reopen with no time limit. It is the strongest ground available.
@@ -71,7 +71,7 @@ Filing the motion does **not** stop removal by itself. You must separately reque
 
 ## Risks while you wait
 
-With an outstanding in absentia order you appear in ICE systems as having a final order. A traffic stop, an immigration appointment or a routine check-in can become an arrest. An in absentia order also bars certain relief for ten years, including voluntary departure and cancellation.
+With an outstanding in absentia order you appear in ICE systems as having a final order. A traffic stop, an immigration appointment or a routine check-in can become an arrest. An in absentia order also bars certain relief for ten years, including voluntary departure and cancellation. To know how to respond if agents come, read [what to do if ICE comes to your home or workplace](/en/what-to-do-if-ice-comes/).
 
 ## What to do this week
 
@@ -81,13 +81,16 @@ With an outstanding in absentia order you appear in ICE systems as having a fina
 
 ## Frequently asked questions
 
-**Can I reopen if I never got notice?**
-Yes, with no time limit. It is the strongest ground.
+### Can I reopen if I never received the hearing notice?
 
-**How long under exceptional circumstances?**
-180 days from the order.
+Yes. If you show you did not receive the notice the law requires, you can file a motion to reopen with no time limit. It is the strongest ground available.
 
-**Does the motion stop removal?**
-No. Request a stay separately.
+### How long do I have under exceptional circumstances?
+
+180 days from the order. Serious illness or the death of an immediate relative qualify; forgetting the date or transport problems do not.
+
+### Does filing a motion stop my deportation?
+
+Not automatically. You must separately request a stay of removal. Until then ICE can execute the order.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

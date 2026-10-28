@@ -5,7 +5,7 @@ description: Tiempos reales de un caso de deportación: detenido o no, espera en
 slug: cuanto-tarda-un-caso-en-la-corte-de-inmigracion
 mirror: how-long-immigration-court-takes
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - Si la persona está detenida, el caso va rápido: semanas o pocos meses de principio a fin.
   - Si no está detenida, lo normal es esperar años entre la primera audiencia y la decisión final.
@@ -14,7 +14,7 @@ summary:
 sources:
   - EOIR – Estadísticas y datos de las cortes de inmigración|https://www.justice.gov/eoir/workload-and-adjudication-statistics
   - EOIR – Sistema automatizado de información de casos|https://acis.eoir.justice.gov/
-  - EOIR – Manual de práctica de la corte de inmigración|https://www.justice.gov/eoir/reference-materials/ic
+  - EOIR – Manual de práctica de la corte de inmigración|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm
   - TRAC, Universidad de Syracuse – Datos sobre el retraso de las cortes de inmigración|https://tracreports.org/immigration/
 faq:
   - ¿Por qué mi audiencia está programada dentro de dos años?|Porque el calendario de esa corte está lleno. El retraso acumulado del sistema es enorme y algunas cortes programan las audiencias individuales con años de antelación.
@@ -64,18 +64,22 @@ La espera desgasta, pero tiene efectos prácticos a favor:
 - Permite que maduren opciones que dependen del tiempo, como los diez años de presencia de la [cancelación de deportación](/cancelacion-de-deportacion/), aunque el reloj se detenga con un NTA válido.
 - Permite que una petición familiar avance hasta tener visa disponible.
 - Permite que cambien las condiciones del país de origen, lo que puede abrir la puerta al [asilo](/asilo-defensivo/) por circunstancias cambiantes.
+- Si ya presentó una solicitud de asilo, permite pedir un [permiso de trabajo con asilo pendiente](/permiso-de-trabajo-con-asilo-pendiente/) una vez cumplido el periodo de espera.
 
 Lo que no debe hacer es esperar pasivamente. El expediente se prepara durante esos años, no el mes anterior a la audiencia.
 
 ## Preguntas frecuentes
 
-**¿Por qué mi audiencia es dentro de dos años?**
-Porque el calendario de esa corte está saturado.
+### ¿Por qué mi audiencia está programada dentro de dos años?
 
-**¿Puedo pedir que la adelanten?**
-Sí, con una moción para adelantar, pero rara vez se concede sin una razón concreta.
+Porque el calendario de esa corte está lleno. El retraso acumulado del sistema es enorme y algunas cortes programan las audiencias individuales con años de antelación.
 
-**¿Estar detenido acelera el caso?**
-Sí, mucho, pero deja mucho menos tiempo para prepararlo.
+### ¿Puedo pedir que adelanten mi audiencia?
+
+Sí, con una moción para adelantar (motion to advance), pero se concede pocas veces y hay que dar una razón concreta, por ejemplo que ya se cumplen todos los requisitos de un alivio.
+
+### ¿Estar detenido acelera el caso?
+
+Sí, mucho. Las cortes de detenidos resuelven en semanas o meses. No es una ventaja: significa menos tiempo para preparar el caso.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

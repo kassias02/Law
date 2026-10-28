@@ -7,7 +7,7 @@ slug: fianza-de-inmigracion
 mirror: immigration-bond
 order: 2
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - Localice a la persona en el localizador de ICE (locator.ice.gov) con el A-Number y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional.
   - Para saber si tiene fianza, pregunte a ICE (la oficina de ERO o el oficial de deportación del caso) si fijó una cantidad. Si no la fijó, pida una audiencia de fianza al juez.
@@ -55,7 +55,7 @@ Hay personas a las que el juez no puede concederles fianza, por ejemplo por cier
 
 Cuando ICE detiene a alguien, la familia suele enterarse por una llamada de la propia persona o por un vecino. Los primeros pasos, en orden:
 
-1. **Localice a la persona.** Use el [localizador de detenidos de ICE](https://locator.ice.gov/) con el A-Number (9 dígitos; si tiene menos, agregue ceros al principio) y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional. ICE indica que los datos pueden tener hasta ocho horas de retraso y que el localizador no muestra los traslados en curso, ni a menores de 18 años, ni a quienes llevan menos de 48 horas bajo custodia de CBP.
+1. **Localice a la persona.** Use el [localizador de detenidos de ICE](https://locator.ice.gov/) con el A-Number (9 dígitos; si tiene menos, agregue ceros al principio) y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional. ICE indica que los datos pueden tener hasta ocho horas de retraso y que el localizador no muestra los traslados en curso, ni a menores de 18 años, ni a quienes llevan menos de 48 horas bajo custodia de CBP. Si no aparece, siga la guía [cómo saber si un familiar está detenido por ICE](/como-saber-si-mi-familiar-esta-detenido/).
 2. **Anote el A-Number** en cuanto lo tenga. Lo necesitará para todo: la corte, la fianza, el abogado.
 3. **Reúna documentos:** pasaporte, actas de nacimiento de hijos ciudadanos, comprobantes de domicilio y trabajo, impuestos, cartas de apoyo. Todo esto sirve para mostrar arraigo.
 4. **Consiga un abogado** antes de que la persona firme cualquier papel. ICE puede ofrecer una "salida voluntaria" o una "orden estipulada" que cierran el caso sin audiencia.

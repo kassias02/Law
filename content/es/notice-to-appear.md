@@ -1,12 +1,13 @@
 ---
-title: Recibí un Notice to Appear (NTA): qué hacer paso a paso
+title: Recibí una notificación de comparecencia (NTA): qué hacer
+seo_title: Notificación de comparecencia (Notice to Appear): qué hacer
 nav: Notice to Appear
-description: Qué es el Notice to Appear (I-862), qué plazos corren, cómo confirmar su audiencia y cómo evitar una orden de deportación en ausencia.
+description: Qué es la notificación de comparecencia (Notice to Appear, I-862), qué plazos corren, cómo confirmar su audiencia y evitar una orden en ausencia.
 slug: notice-to-appear
 mirror: notice-to-appear
 order: 1
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - El NTA es el documento que abre su caso en la corte de inmigración. No es una orden de deportación.
   - Confirme la fecha, hora y lugar de su audiencia en el sistema de EOIR (1-800-898-7180). El NTA puede tener datos incompletos.
@@ -18,17 +19,22 @@ sources:
   - EOIR – Lista de proveedores de servicios legales gratuitos|https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
   - INA § 239 (8 U.S.C. § 1229) – Contenido del Notice to Appear|https://www.law.cornell.edu/uscode/text/8/1229
   - INA § 240(b)(5) (8 U.S.C. § 1229a) – Órdenes en ausencia|https://www.law.cornell.edu/uscode/text/8/1229a
+  - EOIR – ¿Tiene usted un documento conocido como la Notificación de Comparecencia? (guía en español)|https://www.justice.gov/eoir/page/file/1480721/dl
+  - EOIR – Manual de práctica, cap. 3.2 (inicio del proceso de expulsión)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-3-2
+  - 8 C.F.R. § 1239.1 – Notificación de comparecencia (eCFR)|https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1239/section-1239.1
+  - INA § 239 (8 U.S.C. § 1229) – Texto oficial (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partIV-sec1229.htm
 faq:
+  - ¿Qué hacer si recibo una notificación de comparecencia?|Guárdela, confirme su audiencia con su A-Number en el portal ACIS de EOIR o al 1-800-898-7180, y no falte a ninguna audiencia. La notificación de comparecencia (Formulario I-862) es el documento con el que el DHS inicia su caso ante la corte de inmigración. La ley exige que la primera audiencia sea al menos 10 días después de la entrega, salvo que usted pida por escrito una fecha anterior, para que pueda buscar abogado.
   - ¿El Notice to Appear significa que ya me van a deportar?|No. El NTA solo inicia un proceso en la corte de inmigración. Usted tendrá una o varias audiencias ante un juez y podrá presentar defensas antes de que haya cualquier decisión.
   - ¿Qué pasa si el NTA no tiene fecha ni hora?|Es común. La corte le enviará después un aviso de audiencia por correo. Por eso es esencial que su dirección esté actualizada y que revise su caso en el sistema de EOIR.
   - ¿Puedo pedir más tiempo para conseguir abogado?|Sí. En la primera audiencia puede pedir al juez una prórroga (continuance) para buscar representación. Normalmente se concede una vez.
 ---
-<h2 id="que-es-un-notice-to-appear">¿Qué es un Notice to Appear y qué debo hacer al recibirlo?</h2>
-<p>El Notice to Appear (NTA) es el documento que abre su caso en la <a href="/corte-de-inmigracion/">corte de inmigración</a>; no es una orden de deportación. Confirme la fecha, hora y lugar de su audiencia en el sistema de EOIR (1-800-898-7180), porque el NTA puede tener datos incompletos. Y no falte: si no se presenta, el juez puede ordenar su deportación en ausencia.</p>
+<h2 id="que-es-un-notice-to-appear">¿Qué es una notificación de comparecencia y qué debo hacer al recibirla?</h2>
+<p>La notificación de comparecencia (<em>Notice to Appear</em> o NTA, Formulario I-862) es el documento que abre su caso en la <a href="/corte-de-inmigracion/">corte de inmigración</a>; no es una orden de deportación. Confirme la fecha, hora y lugar de su audiencia en el sistema de EOIR (1-800-898-7180), porque el NTA puede tener datos incompletos. Y no falte: si no se presenta, el juez puede ordenar su deportación en ausencia.</p>
 
 ## Qué es el Notice to Appear
 
-El **Notice to Appear** (Formulario I-862, a veces llamado "NTA" o "la carta de la corte") es el documento con el que el Departamento de Seguridad Nacional (DHS) inicia un proceso de deportación, llamado oficialmente *proceso de expulsión* (removal proceedings). Lo emiten ICE, CBP o USCIS y lo presentan ante la corte de inmigración (EOIR), que depende del Departamento de Justicia.
+El **Notice to Appear**, que EOIR traduce como **notificación de comparecencia** (Formulario I-862, a veces llamado "NTA" o "la carta de la corte"), es el documento con el que el Departamento de Seguridad Nacional (DHS) inicia un proceso de deportación, llamado oficialmente *proceso de expulsión* (removal proceedings). Lo emiten ICE, CBP o USCIS y lo presentan ante la corte de inmigración (EOIR), que depende del Departamento de Justicia.
 
 El NTA indica:
 
@@ -47,7 +53,7 @@ La fecha de entrega importa por varias razones legales. Guarde el sobre, el docu
 
 No confíe solo en lo que dice el papel. Llame al **1-800-898-7180** (opción en español) o entre a [acis.eoir.justice.gov](https://acis.eoir.justice.gov/) con su A-Number. Ahí verá si su caso ya está registrado, la corte asignada y la próxima fecha.
 
-Si el sistema todavía no muestra su caso, revíselo cada semana. El NTA se presenta a veces con meses de retraso.
+Si el sistema todavía no muestra su caso, revíselo cada semana. El NTA se presenta a veces con meses de retraso. Para hacerse una idea de los plazos, vea [cuánto tarda un caso en la corte de inmigración](/cuanto-tarda-un-caso-en-la-corte-de-inmigracion/).
 
 ## Paso 3: no falte a ninguna audiencia
 
@@ -61,7 +67,7 @@ La corte le enviará los avisos de audiencia por correo a la dirección que tien
 
 ## Paso 5: busque un abogado antes de la primera audiencia
 
-Tiene derecho a un abogado, pero no a que el gobierno se lo pague. En la primera audiencia (la *master calendar hearing*) el juez le preguntará si tiene abogado y, si no, normalmente le dará tiempo para buscar uno. Pida esa prórroga si la necesita.
+Tiene derecho a un abogado, pero no a que el gobierno se lo pague. En la primera audiencia (la *master calendar hearing*) el juez le preguntará si tiene abogado y, si no, normalmente le dará tiempo para buscar uno. Pida esa prórroga si la necesita. Si tiene una solicitud de asilo pendiente, tenga en cuenta que una prórroga pedida por usted puede retrasar su [permiso de trabajo con asilo pendiente](/permiso-de-trabajo-con-asilo-pendiente/).
 
 La corte también le entregará una lista de organizaciones que ofrecen representación gratuita o de bajo costo. Puede consultarla en el sitio de EOIR.
 
@@ -77,13 +83,20 @@ Un abogado analizará si el NTA tiene errores que puedan ayudarle, entre otros:
 
 ## Preguntas frecuentes
 
-**¿El Notice to Appear significa que ya me van a deportar?**
-No. El NTA solo inicia un proceso. Usted tendrá una o varias audiencias ante un juez y podrá presentar defensas antes de cualquier decisión.
+### ¿Qué hacer si recibo una notificación de comparecencia?
 
-**¿Qué pasa si el NTA no tiene fecha ni hora?**
+Guárdela, confirme su audiencia con su A-Number en el portal ACIS de EOIR o al 1-800-898-7180, y no falte a ninguna audiencia. La notificación de comparecencia (Formulario I-862) es el documento con el que el DHS inicia su caso ante la corte de inmigración. La ley exige que la primera audiencia sea al menos 10 días después de la entrega, salvo que usted pida por escrito una fecha anterior, para que pueda buscar abogado.
+
+### ¿El Notice to Appear significa que ya me van a deportar?
+
+No. El NTA solo inicia un proceso en la corte de inmigración. Usted tendrá una o varias audiencias ante un juez y podrá presentar defensas antes de que haya cualquier decisión.
+
+### ¿Qué pasa si el NTA no tiene fecha ni hora?
+
 Es común. La corte le enviará después un aviso de audiencia por correo. Por eso es esencial que su dirección esté actualizada y que revise su caso en el sistema de EOIR.
 
-**¿Puedo pedir más tiempo para conseguir abogado?**
-Sí. En la primera audiencia puede pedir al juez una prórroga para buscar representación. Normalmente se concede una vez.
+### ¿Puedo pedir más tiempo para conseguir abogado?
+
+Sí. En la primera audiencia puede pedir al juez una prórroga (continuance) para buscar representación. Normalmente se concede una vez.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

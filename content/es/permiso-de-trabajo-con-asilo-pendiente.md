@@ -5,7 +5,7 @@ description: Permiso de trabajo (EAD) con asilo pendiente: el reloj de asilo, el
 slug: permiso-de-trabajo-con-asilo-pendiente
 mirror: work-permit-pending-asylum
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - El permiso de trabajo por asilo pendiente se pide con el Formulario I-765, categoría C08.
   - Existe un periodo de espera desde que su solicitud de asilo queda debidamente presentada. Las reglas han cambiado varias veces, así que confirme el plazo vigente antes de enviar nada.
@@ -47,7 +47,7 @@ USCIS y EOIR llevan un contador interno, conocido como el **asylum clock**. Se d
 
 Los retrasos del propio sistema, en cambio, no deberían detener el conteo. En la práctica el reloj se para por error con cierta frecuencia. Si eso ocurre, se puede pedir al juez o a la corte que lo corrija, y conviene detectarlo pronto.
 
-Es una tensión real: pedir una prórroga puede ser lo correcto para su caso de asilo y al mismo tiempo retrasar su permiso de trabajo. Es una decisión que se toma con un abogado, no en el pasillo de la corte.
+Es una tensión real: pedir una prórroga puede ser lo correcto para su caso de asilo y al mismo tiempo retrasar su permiso de trabajo. Es una decisión que se toma con un abogado, no en el pasillo de la corte. Para calcular los tiempos del proceso, vea [cuánto tarda un caso en la corte de inmigración](/cuanto-tarda-un-caso-en-la-corte-de-inmigracion/).
 
 ## La solicitud: Formulario I-765
 
@@ -70,13 +70,16 @@ Mientras haya una apelación pendiente ante la BIA, el permiso puede seguir sien
 
 ## Preguntas frecuentes
 
-**¿Puedo trabajar mientras espero?**
-No de inmediato. Hay que esperar el periodo vigente y luego pedir el I-765 en categoría C08.
+### ¿Puedo trabajar mientras espero mi caso de asilo?
 
-**¿Qué detiene el reloj?**
-Los retrasos atribuibles a usted, como una prórroga o el rechazo de la primera fecha ofrecida.
+No de inmediato. Debe esperar el periodo que exige la regla vigente desde que su solicitud de asilo queda debidamente presentada, y después solicitar el permiso con el Formulario I-765 en la categoría C08.
 
-**¿Cuánto cuesta?**
-Las tarifas cambian; confirme el importe y las exenciones en USCIS antes de enviar.
+### ¿Qué detiene el reloj de asilo?
+
+Los retrasos atribuibles a usted: pedir una prórroga, rechazar la primera fecha de audiencia disponible, no presentar documentos a tiempo. Los retrasos del gobierno no deberían detenerlo.
+
+### ¿Cuesta dinero el permiso de trabajo por asilo?
+
+Las tarifas del I-765 han cambiado varias veces y dependen de la categoría y de si solicita exención. Consulte la página de tarifas de USCIS antes de enviar, porque un pago incorrecto provoca el rechazo del paquete.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

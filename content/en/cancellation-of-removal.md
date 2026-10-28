@@ -1,5 +1,5 @@
 ---
-title: Cancellation of removal: the ten-year rule and the hardship standard
+title: Cancellation of removal: the 10-year rule and hardship standard
 seo_title: Cancellation of removal: the 10-year rule and hardship
 nav: Cancellation of removal
 description: Cancellation of removal requirements: ten years of presence, good moral character, exceptional hardship, and Forms EOIR-42B and EOIR-42A.
@@ -7,7 +7,7 @@ slug: cancellation-of-removal
 mirror: cancelacion-de-deportacion
 order: 4
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-28
 summary:
   - Cancellation is requested only before an immigration judge, inside removal proceedings. There is no way to apply for it with USCIS in advance.
   - For non-residents it requires ten years of continuous physical presence, good moral character, no disqualifying convictions, and exceptional and extremely unusual hardship to a U.S. citizen or LPR spouse, parent or child.
@@ -70,13 +70,16 @@ The judge cancels the order and you receive or keep lawful permanent residence. 
 
 ## Frequently asked questions
 
-**Can I apply outside proceedings?**
-No — it exists only as relief before a judge.
+### Can I apply for cancellation if I am not in proceedings?
 
-**Do adult children count?**
-For non-resident cancellation, the child must be unmarried and under 21 at the time of decision.
+No. It exists only as relief inside removal proceedings before a judge. Deliberately triggering proceedings to apply is an extremely risky strategy no serious attorney recommends without detailed analysis.
 
-**What is the hardship standard?**
-Far above ordinary separation hardship: health, age, education, country conditions and finances of the qualifying relative.
+### Do my adult children count as qualifying relatives?
+
+For non-resident cancellation, a child must be unmarried and under 21 at the time of the decision. A spouse or parent also qualifies if they are a citizen or lawful permanent resident.
+
+### What counts as exceptional and extremely unusual hardship?
+
+A standard far above the ordinary hardship of separation. Judges weigh the qualifying relative's health, age, education, country conditions and finances. Cases involving a child with a serious medical condition or disability are the most common successes.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

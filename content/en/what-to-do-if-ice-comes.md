@@ -1,11 +1,11 @@
 ---
 title: What to do if ICE comes to your home or workplace
 nav: If ICE comes to your door
-description: Your rights when ICE agents knock or arrive at your job: the difference between a judicial warrant and an administrative one, what to say, and what not to sign.
+description: Your rights when ICE agents knock or come to your job: judicial vs. administrative warrants, what to say, and what not to sign.
 slug: what-to-do-if-ice-comes
 mirror: que-hacer-si-ice-llega-a-mi-casa
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-10-28
 summary:
   - You do not have to open the door unless agents have a warrant signed by a judge, naming you and your address.
   - An ICE administrative warrant (Form I-200 or I-205) does not authorize entry into your home without consent.
@@ -78,17 +78,20 @@ This is what actually changes outcomes:
 - **Every family member's A-Number**, written down somewhere outside the house.
 - **A power of attorney** for decisions about children and finances, prepared with a lawyer.
 
-If a family member is detained, the next step is [finding them in the ICE system](/en/find-someone-detained-by-ice/) and, if possible, seeking [bond](/en/immigration-bond/).
+If a family member is detained, the next step is [finding them in the ICE system](/en/find-someone-detained-by-ice/) and, if possible, seeking [bond](/en/immigration-bond/) (see [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/)).
 
 ## Frequently asked questions
 
-**Do I have to open the door?**
-No, absent a judicial warrant naming you and your address.
+### Do I have to open the door for ICE?
 
-**How do I tell the warrants apart?**
-Judicial: a court name and a judge's signature. I-200 and I-205: an ICE officer's signature.
+No, unless they have a search warrant signed by a judge naming you and your address. Ask them to slide it under the door or show it through a window first.
 
-**What if I sign without a lawyer?**
-You may waive your right to a judge or accept voluntary departure.
+### How do I tell a judicial warrant from an administrative one?
+
+A judicial warrant names a court such as "U.S. District Court" and is signed by a judge. ICE administrative warrants (I-200, I-205) are signed by an immigration officer and do not authorize home entry.
+
+### What if I sign papers without a lawyer?
+
+You may be waiving your right to see a judge or accepting voluntary departure. Some of those documents are very hard to undo.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

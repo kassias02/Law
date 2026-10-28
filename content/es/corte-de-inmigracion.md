@@ -7,7 +7,7 @@ slug: corte-de-inmigracion
 mirror: immigration-court
 order: 3
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - La corte de inmigración (EOIR), también llamada corte de migración, depende del Departamento de Justicia, no de USCIS ni de ICE.
   - Su próxima fecha de corte se consulta con el A-Number en el portal ACIS de EOIR o en la línea gratuita 1-800-898-7180 (24 horas, inglés y español).
@@ -25,6 +25,7 @@ sources:
   - 8 C.F.R. § 1003.23 – Reapertura de órdenes en ausencia|https://www.law.cornell.edu/cfr/text/8/1003.23
   - 8 C.F.R. Parte 1240 – Procedimientos ante el juez de inmigración|https://www.law.cornell.edu/cfr/text/8/part-1240
   - American Immigration Council – "Access to Counsel in Immigration Court" (Eagly y Shafer)|https://www.americanimmigrationcouncil.org/research/access-counsel-immigration-court
+  - EOIR – Guía en español sobre la Notificación de Comparecencia (Tribunal de Inmigración)|https://www.justice.gov/eoir/page/file/1480721/dl
 faq:
   - ¿Cómo sé cuándo es mi fecha de corte de inmigración?|Busque su A-Number en el portal ACIS de EOIR (acis.eoir.justice.gov) o llame gratis al 1-800-898-7180, disponible las 24 horas en inglés y español. Si el sistema no encuentra un caso, es posible que su caso todavía no esté registrado en la corte.
   - ¿Qué pasa si no voy a la corte de inmigración?|El juez puede ordenar su deportación en ausencia si el gobierno demuestra que le envió el aviso a la última dirección que usted dio. Si además le advirtieron de las consecuencias, queda inelegible durante 10 años para alivios como la cancelación de deportación, la salida voluntaria o el ajuste de estatus.
@@ -34,8 +35,9 @@ faq:
   - ¿Cuánto dura un caso en la corte de inmigración?|Varía mucho según la corte. Las personas detenidas suelen tener audiencias en semanas o pocos meses; las no detenidas pueden esperar entre uno y varios años entre la primera audiencia y la decisión final.
   - ¿Qué pasa si el juez ordena mi deportación?|Tiene 30 días para apelar a la Junta de Apelaciones de Inmigración (BIA). Mientras la apelación está pendiente, la orden no se ejecuta.
 ---
+<p class="meta"><a href="/en/immigration-court/" hreflang="en" lang="en">English version</a></p>
 <h2 id="que-es-la-corte-de-inmigracion">¿Qué es la corte de inmigración (EOIR)?</h2>
-<p>La corte de inmigración, que muchos llaman corte de migración, es donde un juez decide si una persona puede quedarse en Estados Unidos o debe ser deportada. Forma parte de la <strong>Oficina Ejecutiva de Revisión de Inmigración (EOIR)</strong>, dentro del Departamento de Justicia. No es parte de ICE ni de USCIS: el juez es independiente del abogado del gobierno.</p>
+<p>La corte de inmigración (en los documentos oficiales de EOIR en español, <strong>tribunal de inmigración</strong>; muchos la llaman corte de migración) es donde un juez decide si una persona puede quedarse en Estados Unidos o debe ser deportada. Forma parte de la <strong>Oficina Ejecutiva de Revisión de Inmigración (EOIR)</strong>, dentro del Departamento de Justicia. No es parte de ICE ni de USCIS: el juez es independiente del abogado del gobierno.</p>
 
 ## Cómo ver mi fecha de corte {#como-ver-mi-fecha-de-corte}
 
@@ -55,7 +57,7 @@ En la audiencia participan:
 - **Usted** (el *respondent*) y, si lo tiene, **su abogado**.
 - **Un intérprete**, gratuito, si usted no habla inglés con soltura. Pídalo siempre; tiene derecho a él.
 
-Muchas audiencias se celebran por videoconferencia (Webex), sobre todo para personas detenidas.
+Muchas audiencias se celebran por videoconferencia (Webex), sobre todo para personas detenidas. Si no sabe dónde está detenido un familiar, vea [cómo saber si está detenido por ICE](/como-saber-si-mi-familiar-esta-detenido/).
 
 ## La primera audiencia: master calendar
 
@@ -67,7 +69,7 @@ La *master calendar hearing* es breve, a menudo de cinco a quince minutos, y se 
 4. Le pregunta qué alivio va a pedir (asilo, cancelación, ajuste, salida voluntaria) y fija plazos para presentar las solicitudes.
 5. Programa la siguiente audiencia.
 
-No es el momento de contar toda su historia. Es un trámite, pero un trámite con consecuencias: lo que admita queda en el expediente. Por eso conviene tener abogado antes.
+No es el momento de contar toda su historia. Es un trámite, pero un trámite con consecuencias: lo que admita queda en el expediente. Por eso conviene tener abogado antes. El tiempo entre una audiencia y la siguiente varía mucho según la corte: vea [cuánto tarda un caso en la corte de inmigración](/cuanto-tarda-un-caso-en-la-corte-de-inmigracion/).
 
 ## La audiencia individual (de méritos)
 

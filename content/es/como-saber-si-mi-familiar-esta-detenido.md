@@ -5,7 +5,7 @@ description: Cómo usar el localizador de ICE, qué hacer si la persona no apare
 slug: como-saber-si-mi-familiar-esta-detenido
 mirror: find-someone-detained-by-ice
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-10-28
 summary:
   - Use el localizador oficial en locator.ice.gov: con el número A y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional.
   - Según ICE, los datos pueden tener hasta ocho horas de retraso y el localizador no muestra los traslados en curso.
@@ -69,9 +69,10 @@ Para depositar dinero en su cuenta de comisaría, cada centro indica el sistema 
 
 ## Lo que debe hacer en paralelo
 
-1. **Reúna documentos**: pasaporte, actas de nacimiento de hijos ciudadanos, comprobantes de domicilio y de trabajo, impuestos, cartas de apoyo. Todo esto pesa en una audiencia de [fianza](/fianza-de-inmigracion/).
+1. **Reúna documentos**: pasaporte, actas de nacimiento de hijos ciudadanos, comprobantes de domicilio y de trabajo, impuestos, cartas de apoyo. Todo esto pesa en una audiencia de [fianza](/fianza-de-inmigracion/). Vea también [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/).
 2. **Consiga un abogado antes de que firme nada.** ICE puede ofrecerle una salida voluntaria o una orden estipulada que cierran el caso sin pasar por un juez. Firmar eso sin asesoría es lo peor que puede pasar en esta etapa.
 3. **Averigüe si tiene una orden de deportación previa.** Si la tiene, ICE puede ejecutarla sin nueva audiencia, y el margen de acción es de días.
+4. **Prepare al resto de la familia.** Repase [qué hacer si ICE llega a su casa o a su trabajo](/que-hacer-si-ice-llega-a-mi-casa/) y tenga un plan para los niños.
 
 Si no puede pagar un abogado, la [lista de proveedores gratuitos de EOIR](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) está organizada por estado.
 

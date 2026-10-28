@@ -6,7 +6,7 @@ slug: defensive-asylum
 mirror: asilo-defensivo
 order: 5
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-28
 summary:
   - Defensive asylum is requested before the immigration judge as a defense within removal proceedings, using Form I-589.
   - The one-year rule: asylum generally must be filed within one year of your last entry, subject to changed or extraordinary circumstances exceptions.
@@ -77,13 +77,16 @@ Filing an application the judge finds **knowingly false** can bar you permanentl
 
 ## Frequently asked questions
 
-**Affirmative vs defensive asylum?**
-Affirmative is filed with USCIS outside proceedings; defensive before the judge inside them. Same form.
+### What is the difference between affirmative and defensive asylum?
 
-**Can I work while waiting?**
-You can apply for [work authorization](/en/work-permit-pending-asylum/) once the application has been pending the required period; confirm the current rule before filing.
+Affirmative asylum is filed with USCIS when you are not in removal proceedings. Defensive asylum is raised before the immigration judge inside proceedings. The form is the same, Form I-589.
 
-**What if it has been more than a year?**
-Changed or extraordinary circumstances may excuse it, and withholding and CAT have no deadline.
+### Can I work while my asylum case is pending?
+
+You can apply for [work authorization](/en/work-permit-pending-asylum/) (Form I-765) once your asylum application has been pending for a required period. Those rules have changed several times; confirm the current waiting period with an attorney or on the USCIS site before filing.
+
+### What if more than a year has passed since I entered?
+
+You may still qualify through changed circumstances (such as conditions in your country) or extraordinary circumstances (serious illness, being an unaccompanied minor). Even if asylum is time-barred, withholding and CAT remain available.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

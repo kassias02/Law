@@ -5,7 +5,7 @@ description: Realistic timelines for a removal case — detained versus non-deta
 slug: how-long-immigration-court-takes
 mirror: cuanto-tarda-un-caso-en-la-corte-de-inmigracion
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-10-28
 summary:
   - If the person is detained, the case moves fast: weeks to a few months from start to finish.
   - If not detained, expect years between the first hearing and a final decision.
@@ -14,7 +14,7 @@ summary:
 sources:
   - EOIR – Workload and adjudication statistics|https://www.justice.gov/eoir/workload-and-adjudication-statistics
   - EOIR – Automated Case Information System|https://acis.eoir.justice.gov/
-  - EOIR – Immigration Court Practice Manual|https://www.justice.gov/eoir/reference-materials/ic
+  - EOIR – Immigration Court Practice Manual|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm
   - TRAC, Syracuse University – Immigration court backlog data|https://tracreports.org/immigration/
 faq:
   - Why is my hearing scheduled two years out?|Because that court's calendar is full. The backlog is severe and some courts schedule individual hearings years ahead.
@@ -64,6 +64,7 @@ The wait is draining, but it has practical effects in your favor:
 - Time for options that depend on time to mature, such as the ten years of presence for [cancellation of removal](/en/cancellation-of-removal/) — though the clock stops with a valid NTA.
 - Time for a family petition to reach visa availability.
 - Time for country conditions to change, which can open [asylum](/en/defensive-asylum/) through changed circumstances.
+- If you have already filed for asylum, time to request a [work permit while asylum is pending](/en/work-permit-pending-asylum/) once the waiting period has run.
 
 What you should not do is wait passively. The record is built over those years, not in the month before the hearing.
 
@@ -77,13 +78,16 @@ What you should not do is wait passively. The record is built over those years, 
 
 ## Frequently asked questions
 
-**Why is my hearing scheduled two years out?**
+### Why is my hearing scheduled two years out?
+
 Because that court's calendar is full. The backlog is severe and some courts schedule individual hearings years ahead.
 
-**Can I ask for an earlier date?**
+### Can I ask for an earlier date?
+
 Yes, with a motion to advance, but it is rarely granted without a concrete reason, such as already meeting every requirement for relief.
 
-**Does being detained speed things up?**
+### Does being detained speed things up?
+
 Yes, substantially. Detained courts resolve cases in weeks or months — which also means far less time to prepare.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>
