@@ -78,7 +78,7 @@ This is what actually changes outcomes:
 - **Every family member's A-Number**, written down somewhere outside the house.
 - **A power of attorney** for decisions about children and finances, prepared with a lawyer.
 
-If a family member is detained, the next step is [finding them in the ICE system](/en/find-someone-detained-by-ice/) and, if possible, seeking [bond](/en/immigration-bond/) (see [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/)).
+If a family member is detained, see [what happens after an ICE arrest](/en/what-happens-after-an-ice-arrest/). The next step is [finding them in the ICE system](/en/find-someone-detained-by-ice/) and, if possible, seeking [bond](/en/immigration-bond/) (see [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/)). Not everyone can get bond: see [who is not eligible for immigration bond](/en/mandatory-detention-no-bond/).
 
 ## Frequently asked questions
 

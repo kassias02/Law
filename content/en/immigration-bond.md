@@ -34,6 +34,8 @@ faq:
 
 ## The first 48 hours
 
+For what ICE does during those hours and what changes on a weekend, see [what happens after an ICE arrest](/en/what-happens-after-an-ice-arrest/).
+
 1. **Locate the person.** Use the [ICE detainee locator](https://locator.ice.gov/) with the A-Number (nine digits; if it has fewer, add zeros at the beginning) and country of birth, or the exact first and last name and country of birth. Date of birth is optional. ICE says the data may be up to eight hours old and that the locator does not show transfers in progress, people under 18, or people in CBP custody for less than 48 hours. If they do not appear, follow the guide on [how to find someone detained by ICE](/en/find-someone-detained-by-ice/).
 2. **Write down the A-Number.** You will need it for everything.
 3. **Gather documents:** passport, children's birth certificates, proof of address and employment, tax returns, support letters. These show community ties.
@@ -45,9 +47,9 @@ If the person already has a prior removal order, ICE may execute it without a ne
 
 The law separates people who **may** be released on bond under INA § 236(a) from those subject to **mandatory detention** under § 236(c), who generally cannot ask a judge for bond. Mandatory detention covers certain criminal convictions — controlled substances, aggravated felonies, crimes involving moral turpitude with a sentence of a year or more, among others.
 
-People classified as "arriving aliens" — for example, those stopped at the border or a port of entry — are generally outside the judge's bond authority and remain under ICE custody decisions.
+People classified as "arriving aliens" — for example, those stopped at the border or a port of entry — are generally outside the judge's bond authority and remain under ICE custody decisions. We explain each group, with sources, in [who is not eligible for immigration bond](/en/mandatory-detention-no-bond/).
 
-**A significant shift since 2025.** Board of Immigration Appeals decisions and DHS policy have extended mandatory detention to people who entered without inspection, on the theory that they are "applicants for admission". Several federal courts have rejected or narrowed that reading, and the outcome now depends on the judicial circuit where the person is held. This is among the most heavily litigated questions in immigration law in 2026, and only an attorney who knows the current case law in that district can tell you whether a bond hearing is available.
+**A significant shift since 2025.** Board of Immigration Appeals decisions and DHS policy have extended mandatory detention to people who entered without inspection, on the theory that they are "applicants for admission". Several federal courts have rejected or narrowed that reading, and the outcome now depends on the judicial circuit where the person is held. This is among the most heavily litigated questions in immigration law in 2026, and only an attorney who knows the current case law in that district can tell you whether a bond hearing is available. See also [how long ICE can detain someone](/en/how-long-can-ice-detain-someone/).
 
 ## Asking the judge for bond
 
