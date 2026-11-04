@@ -7,7 +7,7 @@ slug: immigration-bond
 mirror: fianza-de-inmigracion
 order: 2
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - Find the person through the ICE detainee locator (locator.ice.gov) with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional.
   - Not everyone can request bond. Certain convictions — and, under recent decisions, certain manners of entry — trigger mandatory detention.
@@ -88,6 +88,9 @@ Be cautious with anyone offering to "pay the bond for you" for a fee without a w
 ## Alternatives to detention
 
 ICE can release someone on parole or into an Alternatives to Detention program — ankle monitor, check-in app, in-person reporting. Accepting these does not end the case: the person remains in proceedings and must appear in court.
+
+<p><strong>More on detention and bond:</strong></p>
+<ul class="article-list"><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## Frequently asked questions
 

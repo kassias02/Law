@@ -7,7 +7,7 @@ slug: corte-de-inmigracion
 mirror: immigration-court
 order: 3
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - La corte de inmigración (EOIR), también llamada corte de migración, depende del Departamento de Justicia, no de USCIS ni de ICE.
   - Su próxima fecha de corte se consulta con el A-Number en el portal ACIS de EOIR o en la línea gratuita 1-800-898-7180 (24 horas, inglés y español).
@@ -108,7 +108,7 @@ La orden solo se puede anular con una **moción para reabrir** (8 C.F.R. § 1003
 - **Dentro de 180 días**, si la falta se debió a circunstancias excepcionales, como una enfermedad grave suya o la enfermedad grave o la muerte de un familiar inmediato.
 - **En cualquier momento**, si no recibió el aviso, o si estaba bajo custodia federal o estatal y no fue culpa suya.
 
-Presentar la moción suspende la deportación mientras el juez decide, y solo se permite una moción de este tipo. Lea más en [orden de deportación en ausencia](/orden-de-deportacion-en-ausencia/).
+Presentar la moción suspende la deportación mientras el juez decide, y solo se permite una moción de este tipo. Si faltó a su audiencia, vea [qué hacer ante una orden de deportación en ausencia](/orden-de-deportacion-en-ausencia/).
 
 ## Cambio de dirección: Formulario EOIR-33 {#cambio-de-direccion}
 

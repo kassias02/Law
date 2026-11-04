@@ -5,7 +5,7 @@ description: Who is not eligible for immigration bond: mandatory detention under
 slug: mandatory-detention-no-bond
 mirror: detencion-obligatoria-sin-fianza
 date: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - The statute allows bond for people held under INA § 236(a). People in mandatory detention cannot get bond from an immigration judge.
   - Crime-based mandatory detention (§ 236(c)): certain convictions and, since the 2025 Laken Riley Act, certain charges or arrests for theft, burglary, shoplifting or assaulting an officer, among others.
@@ -99,6 +99,9 @@ So when ICE says "mandatory detention," it helps to:
 3. Ask a lawyer whether to seek that review from the judge or file a *habeas corpus* petition.
 
 For how long detention can last in each situation, see [how long ICE can detain someone](/en/how-long-can-ice-detain-someone/). If the arrest just happened, see [what happens after an ICE arrest](/en/what-happens-after-an-ice-arrest/).
+
+<p><strong>More on detention and bond:</strong></p>
+<ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## Frequently asked questions
 

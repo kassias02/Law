@@ -7,7 +7,7 @@ slug: notice-to-appear
 mirror: notice-to-appear
 order: 1
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - El NTA es el documento que abre su caso en la corte de inmigración. No es una orden de deportación.
   - Confirme la fecha, hora y lugar de su audiencia en el sistema de EOIR (1-800-898-7180). El NTA puede tener datos incompletos.
@@ -57,7 +57,7 @@ Si el sistema todavía no muestra su caso, revíselo cada semana. El NTA se pres
 
 ## Paso 3: no falte a ninguna audiencia
 
-Si usted no se presenta y el gobierno demuestra que le notificaron correctamente, el juez puede dictar una **orden de deportación en ausencia** (*in absentia*) ese mismo día, sin escuchar su defensa. Reabrir un caso después de una orden en ausencia es posible en algunos casos (por ejemplo, si nunca recibió el aviso o por circunstancias excepcionales), pero es difícil y tiene plazos cortos.
+Si usted no se presenta y el gobierno demuestra que le notificaron correctamente, el juez puede dictar una [orden de deportación en ausencia](/orden-de-deportacion-en-ausencia/) (*in absentia*) ese mismo día, sin escuchar su defensa. Reabrir un caso después de una orden en ausencia es posible en algunos casos (por ejemplo, si nunca recibió el aviso o por circunstancias excepcionales), pero es difícil y tiene plazos cortos.
 
 Llegue temprano, con identificación y con todos sus documentos.
 

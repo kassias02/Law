@@ -5,7 +5,7 @@ description: Quién no tiene derecho a fianza de inmigración: detención obliga
 slug: detencion-obligatoria-sin-fianza
 mirror: mandatory-detention-no-bond
 date: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - La ley permite la fianza a quien está detenido bajo el artículo 236(a). Quien está en detención obligatoria no puede obtener fianza de un juez de inmigración.
   - Detención obligatoria por delitos (artículo 236(c)): ciertas condenas y, desde la Ley Laken Riley de 2025, ciertos cargos o arrestos por robo, hurto o agresión a un agente, entre otros.
@@ -99,6 +99,9 @@ Por eso, cuando ICE dice "detención obligatoria", conviene:
 3. Consultar a un abogado sobre si pedir esa revisión al juez o presentar un *habeas corpus*.
 
 Para saber cuánto puede durar la detención en cada caso, vea [cuánto tiempo puede ICE detener a un inmigrante](/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/). Si el arresto acaba de ocurrir, vea [qué pasa después de un arresto de ICE](/que-pasa-despues-de-un-arresto-de-ice/).
+
+<p><strong>Más sobre detención y fianza:</strong></p>
+<ul class="article-list"><li><a href="/fianza-de-inmigracion/">Cómo pedir una fianza de inmigración</a></li><li><a href="/cuanto-cuesta-una-fianza-de-inmigracion/">Cuánto cuesta una fianza de inmigración</a></li><li><a href="/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/">Cuánto tiempo puede ICE detener a un inmigrante</a></li><li><a href="/que-pasa-despues-de-un-arresto-de-ice/">Qué pasa después de un arresto de ICE</a></li></ul>
 
 ## Preguntas frecuentes
 
