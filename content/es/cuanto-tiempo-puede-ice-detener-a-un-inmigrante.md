@@ -5,7 +5,7 @@ description: Cuánto tiempo puede ICE detener a alguien antes de una audiencia d
 slug: cuanto-tiempo-puede-ice-detener-a-un-inmigrante
 mirror: how-long-can-ice-detain-someone
 date: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - A fecha de 28/10/2026, ninguna ley ni reglamento fija un número de días dentro del cual debe celebrarse la audiencia de fianza.
   - Si la persona está detenida bajo el artículo 236(a) de la ley de inmigración, puede pedir al juez una audiencia de fianza en cualquier momento antes de que haya una orden final.
@@ -101,6 +101,9 @@ Si la deportación no es razonablemente previsible, la persona puede pedir al DH
 - **Si puede pedir fianza**, reúna pruebas de arraigo para la audiencia y vea [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/).
 - **Si ICE dice que es detención obligatoria**, consulte cuanto antes a un abogado: en algunos circuitos los detenidos han obtenido audiencias por vía de *habeas corpus* ante una corte federal.
 - **Si acaba de ocurrir el arresto**, vea [qué pasa después de un arresto de ICE](/que-pasa-despues-de-un-arresto-de-ice/).
+
+<p><strong>Más sobre detención y fianza:</strong></p>
+<ul class="article-list"><li><a href="/fianza-de-inmigracion/">Cómo pedir una fianza de inmigración</a></li><li><a href="/cuanto-cuesta-una-fianza-de-inmigracion/">Cuánto cuesta una fianza de inmigración</a></li><li><a href="/detencion-obligatoria-sin-fianza/">Quién no tiene derecho a fianza (detención obligatoria)</a></li><li><a href="/que-pasa-despues-de-un-arresto-de-ice/">Qué pasa después de un arresto de ICE</a></li></ul>
 
 ## Preguntas frecuentes
 

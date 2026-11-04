@@ -5,7 +5,7 @@ description: What an immigration bond costs, why judges set one amount over anot
 slug: how-much-is-an-immigration-bond
 mirror: cuanto-cuesta-una-fianza-de-inmigracion
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-11-04
 summary:
   - The statutory minimum is $1,500. There is no statutory maximum.
   - Typical amounts run from $1,500 to over $20,000, based on flight risk and history.
@@ -75,6 +75,9 @@ If the person fails to appear when ICE demands it or breaks the bond's condition
 - **Request a new bond hearing** if circumstances changed: an approved family petition, new evidence of ties, confirmed employment.
 - **Appeal to the BIA** within 30 days if the amount was excessive.
 - **Check whether mandatory detention applies.** If it does, the problem is eligibility, not the amount — covered in the guide on [detention and bond](/en/immigration-bond/).
+
+<p><strong>More on detention and bond:</strong></p>
+<ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## Frequently asked questions
 

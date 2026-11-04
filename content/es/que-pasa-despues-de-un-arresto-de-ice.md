@@ -5,7 +5,7 @@ description: Qué pasa después de un arresto de ICE: la decisión de custodia e
 slug: que-pasa-despues-de-un-arresto-de-ice
 mirror: what-happens-after-an-ice-arrest
 date: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - Tras un arresto sin orden judicial, el reglamento exige que ICE decida en 48 horas si la persona sigue detenida o sale con fianza o bajo palabra, salvo emergencia o circunstancia extraordinaria.
   - Si la persona estaba en una cárcel local con un detainer de ICE, el reglamento habla de un máximo de 48 horas sin contar sábados, domingos ni feriados. La página de ICE dice "hasta 48 horas".
@@ -101,6 +101,9 @@ Si aún no ha pasado nada y quiere prepararse, vea [qué hacer si ICE llega a su
 - **No firmar documentos que la persona no entiende.** Tiene derecho a que le expliquen los motivos del arresto y a buscar representación legal sin costo para el gobierno ([8 C.F.R. § 287.3(c)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-287/section-287.3)).
 - **No pagar a intermediarios** que prometen "sacar" a la persona sin un contrato claro. Las fianzas de ICE se pagan por los canales oficiales que describe ICE.
 - **No suponer que habrá fianza.** La ley permite la fianza bajo el artículo 236(a) ([8 U.S.C. § 1226](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1226.htm)), pero hay detención obligatoria en varios casos, y desde 2025 su alcance está en litigio. El caso seguirá en la [corte de inmigración](/corte-de-inmigracion/).
+
+<p><strong>Más sobre detención y fianza:</strong></p>
+<ul class="article-list"><li><a href="/fianza-de-inmigracion/">Cómo pedir una fianza de inmigración</a></li><li><a href="/cuanto-cuesta-una-fianza-de-inmigracion/">Cuánto cuesta una fianza de inmigración</a></li><li><a href="/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/">Cuánto tiempo puede ICE detener a un inmigrante</a></li><li><a href="/detencion-obligatoria-sin-fianza/">Quién no tiene derecho a fianza (detención obligatoria)</a></li></ul>
 
 ## Preguntas frecuentes
 

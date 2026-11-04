@@ -5,7 +5,7 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 byline: true
 faq:
   - ¿Qué pasa si falto a mi audiencia?|El juez puede ordenar su deportación en ausencia ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: 1-800-898-7180 o acis.eoir.justice.gov con su número A.
@@ -26,8 +26,12 @@ faq:
 </ul>
 
 <div class="notice">
-<p><strong>Lo más importante:</strong> no falte a ninguna audiencia. Si no se presenta, el juez puede ordenar su deportación en ausencia ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: <strong>1-800-898-7180</strong> o <a href="https://acis.eoir.justice.gov/" rel="noopener nofollow">acis.eoir.justice.gov</a> con su número A.</p>
+<p><strong>Lo más importante:</strong> no falte a ninguna audiencia. Si no se presenta, el juez puede ordenar su <a href="/orden-de-deportacion-en-ausencia/">deportación en ausencia</a> ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: <strong>1-800-898-7180</strong> o <a href="https://acis.eoir.justice.gov/" rel="noopener nofollow">acis.eoir.justice.gov</a> con su número A.</p>
 </div>
+
+## Detención y fianza
+
+<ul class="article-list"><li><a href="/fianza-de-inmigracion/">Cómo pedir una fianza de inmigración</a></li><li><a href="/cuanto-cuesta-una-fianza-de-inmigracion/">Cuánto cuesta una fianza de inmigración</a></li><li><a href="/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/">Cuánto tiempo puede ICE detener a un inmigrante</a></li><li><a href="/detencion-obligatoria-sin-fianza/">Quién no tiene derecho a fianza (detención obligatoria)</a></li><li><a href="/que-pasa-despues-de-un-arresto-de-ice/">Qué pasa después de un arresto de ICE</a></li></ul>
 
 ## Las defensas que existen
 

@@ -5,7 +5,7 @@ description: What happens after an ICE arrest: the 48-hour custody decision, jai
 slug: what-happens-after-an-ice-arrest
 mirror: que-pasa-despues-de-un-arresto-de-ice
 date: 2026-10-28
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - After a warrantless arrest, the regulation requires a decision within 48 hours on whether the person stays in custody or is released on bond or recognizance, except in an emergency or other extraordinary circumstance.
   - If the person was in a local jail with an ICE detainer, the regulation refers to a maximum of 48 hours excluding Saturdays, Sundays and holidays. ICE's web page says "up to 48 hours."
@@ -101,6 +101,9 @@ If nothing has happened yet and you want to prepare, see [what to do if ICE come
 - **Do not sign documents the person does not understand.** They have the right to be told the reasons for the arrest and to seek legal representation at no expense to the government ([8 C.F.R. § 287.3(c)](https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-287/section-287.3)).
 - **Do not pay middlemen** who promise to "get the person out" without a clear contract. ICE bonds are paid through the official channels ICE describes.
 - **Do not assume bond will be available.** The statute allows bond under § 236(a) ([8 U.S.C. § 1226](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1226.htm)), but mandatory detention applies in several situations, and its scope has been in litigation since 2025. The case will continue in [immigration court](/en/immigration-court/).
+
+<p><strong>More on detention and bond:</strong></p>
+<ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li></ul>
 
 ## Frequently asked questions
 

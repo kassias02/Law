@@ -7,7 +7,7 @@ slug: immigration-court
 mirror: corte-de-inmigracion
 order: 3
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - Immigration court (EOIR) sits inside the Department of Justice, separate from USCIS and ICE. The judge is independent of the government attorney.
   - Check your next court date with your A-Number on EOIR's ACIS portal or the free 1-800-898-7180 hotline (24/7, English and Spanish).
@@ -97,7 +97,7 @@ If you miss your hearing, the judge must order you removed **in absentia** when 
 
 If you were orally warned, in a language you understand, of the consequences of not appearing, you also become **ineligible for 10 years** for cancellation of removal, voluntary departure, adjustment of status and other relief (INA § 240(b)(7)).
 
-The order can only be rescinded through a **motion to reopen** (8 C.F.R. § 1003.23(b)(4)(ii)): within **180 days** if you missed court because of exceptional circumstances, such as your serious illness or the serious illness or death of an immediate relative; or **at any time** if you did not receive notice, or were in federal or state custody through no fault of your own. Filing the motion stays removal while the judge decides, and only one such motion is allowed. See [in absentia removal orders](/en/in-absentia-removal-order/).
+The order can only be rescinded through a **motion to reopen** (8 C.F.R. § 1003.23(b)(4)(ii)): within **180 days** if you missed court because of exceptional circumstances, such as your serious illness or the serious illness or death of an immediate relative; or **at any time** if you did not receive notice, or were in federal or state custody through no fault of your own. Filing the motion stays removal while the judge decides, and only one such motion is allowed. If you missed your hearing, see [what to do about an in absentia removal order](/en/in-absentia-removal-order/).
 
 ## Changing your address: Form EOIR-33
 

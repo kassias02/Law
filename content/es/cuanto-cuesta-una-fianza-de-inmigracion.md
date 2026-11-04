@@ -5,7 +5,7 @@ description: Cuánto cuesta una fianza de inmigración, por qué el juez fija un
 slug: cuanto-cuesta-una-fianza-de-inmigracion
 mirror: how-much-is-an-immigration-bond
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-11-04
 summary:
   - El mínimo que la ley permite es de $1,500. No existe un máximo fijado por ley.
   - Los montos habituales van de $1,500 a más de $20,000, según el riesgo de fuga y el historial de la persona.
@@ -77,6 +77,9 @@ Si la persona no se presenta cuando ICE se lo pide o no cumple las condiciones, 
 - **Pida una nueva audiencia de fianza** si cambiaron las circunstancias: una petición familiar aprobada, una nueva prueba de arraigo, un empleo confirmado.
 - **Apele a la BIA** dentro de 30 días si cree que el juez fijó una cantidad excesiva.
 - **Revise si hay detención obligatoria** de por medio: si la hay, el problema no es el monto sino la elegibilidad, y eso se ataca de otra forma. Lo explico en la guía sobre [detención y fianza](/fianza-de-inmigracion/).
+
+<p><strong>Más sobre detención y fianza:</strong></p>
+<ul class="article-list"><li><a href="/fianza-de-inmigracion/">Cómo pedir una fianza de inmigración</a></li><li><a href="/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/">Cuánto tiempo puede ICE detener a un inmigrante</a></li><li><a href="/detencion-obligatoria-sin-fianza/">Quién no tiene derecho a fianza (detención obligatoria)</a></li><li><a href="/que-pasa-despues-de-un-arresto-de-ice/">Qué pasa después de un arresto de ICE</a></li></ul>
 
 ## Preguntas frecuentes
 

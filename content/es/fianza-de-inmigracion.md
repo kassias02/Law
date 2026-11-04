@@ -7,7 +7,7 @@ slug: fianza-de-inmigracion
 mirror: immigration-bond
 order: 2
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - Localice a la persona en el localizador de ICE (locator.ice.gov) con el A-Number y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional.
   - Para saber si tiene fianza, pregunte a ICE (la oficina de ERO o el oficial de deportación del caso) si fijó una cantidad. Si no la fijó, pida una audiencia de fianza al juez.
@@ -107,6 +107,9 @@ Desconfíe de cualquiera que ofrezca "pagar la fianza por usted" a cambio de una
 ## Alternativas a la detención
 
 ICE puede liberar a una persona bajo *parole* o bajo un programa de alternativas a la detención (grillete electrónico, aplicación de reporte, citas presenciales). Aceptarlas no cierra el caso: la persona sigue en proceso y debe presentarse a la corte.
+
+<p><strong>Más sobre detención y fianza:</strong></p>
+<ul class="article-list"><li><a href="/cuanto-cuesta-una-fianza-de-inmigracion/">Cuánto cuesta una fianza de inmigración</a></li><li><a href="/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/">Cuánto tiempo puede ICE detener a un inmigrante</a></li><li><a href="/detencion-obligatoria-sin-fianza/">Quién no tiene derecho a fianza (detención obligatoria)</a></li><li><a href="/que-pasa-despues-de-un-arresto-de-ice/">Qué pasa después de un arresto de ICE</a></li></ul>
 
 ## Preguntas frecuentes
 

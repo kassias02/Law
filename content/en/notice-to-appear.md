@@ -1,13 +1,13 @@
 ---
-title: I received a Notice to Appear (NTA): what to do, step by step
-seo_title: Notice to Appear (NTA): what to do, step by step
+title: What is a Notice to Appear (NTA) and what should I do?
+seo_title: What Is a Notice to Appear (NTA)? What to Do Next
 nav: Notice to Appear
-description: What the Notice to Appear (Form I-862) is, what deadlines it starts, how to confirm your hearing with EOIR, and how to avoid an in absentia removal order.
+description: A Notice to Appear (NTA, Form I-862) is the DHS document that starts removal proceedings. What it means, how to confirm your hearing and what to do next.
 slug: notice-to-appear
 mirror: notice-to-appear
 order: 1
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - The NTA opens your case in immigration court. It is not a removal order.
   - Confirm the date, time and location through the EOIR system (1-800-898-7180). Many NTAs are issued incomplete.
@@ -60,7 +60,7 @@ If your case does not appear yet, check weekly. NTAs are sometimes filed months 
 
 ## Step 3: never miss a hearing
 
-If you do not appear and the government shows you were properly served, the judge can enter an **in absentia removal order** that same day, without hearing your defense. Reopening such an order is possible in limited circumstances — lack of notice, exceptional circumstances, being in custody — but it is difficult and the deadlines are short.
+If you do not appear and the government shows you were properly served, the judge can enter an [in absentia removal order](/en/in-absentia-removal-order/) that same day, without hearing your defense. Reopening such an order is possible in limited circumstances — lack of notice, exceptional circumstances, being in custody — but it is difficult and the deadlines are short.
 
 Arrive early, with ID and all your documents.
 

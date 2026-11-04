@@ -5,7 +5,7 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 byline: true
 faq:
   - What happens if I miss my hearing?|The judge can order you removed in absentia that same day. Confirm your date through the EOIR automated system: 1-800-898-7180 or acis.eoir.justice.gov with your A-Number.
@@ -26,8 +26,12 @@ faq:
 </ul>
 
 <div class="notice">
-<p><strong>The single most important thing:</strong> do not miss a hearing. If you fail to appear, the judge can order you removed in absentia that same day. Confirm your date through the EOIR automated system: <strong>1-800-898-7180</strong> or <a href="https://acis.eoir.justice.gov/" rel="noopener nofollow">acis.eoir.justice.gov</a> with your A-Number.</p>
+<p><strong>The single most important thing:</strong> do not miss a hearing. If you fail to appear, the judge can order you <a href="/en/in-absentia-removal-order/">removed in absentia</a> that same day. Confirm your date through the EOIR automated system: <strong>1-800-898-7180</strong> or <a href="https://acis.eoir.justice.gov/" rel="noopener nofollow">acis.eoir.justice.gov</a> with your A-Number.</p>
 </div>
+
+## Detention and bond
+
+<ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## The defenses that exist
 
