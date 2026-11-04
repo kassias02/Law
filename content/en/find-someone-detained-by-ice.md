@@ -5,7 +5,7 @@ description: How to use the ICE detainee locator, what to do when someone does n
 slug: find-someone-detained-by-ice
 mirror: como-saber-si-mi-familiar-esta-detenido
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - Use the official locator at locator.ice.gov: with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional.
   - According to ICE, the data may be up to eight hours old, and the locator does not show transfers in progress.
@@ -88,6 +88,9 @@ If you cannot afford a lawyer, the [EOIR list of free providers](https://www.jus
 6. Set up a phone account with the facility's provider and keep credit available.
 7. Gather documents for a possible bond hearing, and find out whether there is a prior removal order.
 8. Get a licensed attorney before the person signs anything.
+
+<p><strong>More on detention and bond:</strong></p>
+<ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## Frequently asked questions
 

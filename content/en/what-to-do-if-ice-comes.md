@@ -5,7 +5,7 @@ description: Your rights when ICE agents knock or come to your job: judicial vs.
 slug: what-to-do-if-ice-comes
 mirror: que-hacer-si-ice-llega-a-mi-casa
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - You do not have to open the door unless agents have a warrant signed by a judge, naming you and your address.
   - An ICE administrative warrant (Form I-200 or I-205) does not authorize entry into your home without consent.
@@ -79,6 +79,9 @@ This is what actually changes outcomes:
 - **A power of attorney** for decisions about children and finances, prepared with a lawyer.
 
 If a family member is detained, see [what happens after an ICE arrest](/en/what-happens-after-an-ice-arrest/). The next step is [finding them in the ICE system](/en/find-someone-detained-by-ice/) and, if possible, seeking [bond](/en/immigration-bond/) (see [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/)). Not everyone can get bond: see [who is not eligible for immigration bond](/en/mandatory-detention-no-bond/).
+
+<p><strong>More on detention and bond:</strong></p>
+<ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## Frequently asked questions
 

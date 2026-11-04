@@ -5,7 +5,7 @@ description: Cómo usar el localizador de ICE, qué hacer si la persona no apare
 slug: como-saber-si-mi-familiar-esta-detenido
 mirror: find-someone-detained-by-ice
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - Use el localizador oficial en locator.ice.gov: con el número A y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional.
   - Según ICE, los datos pueden tener hasta ocho horas de retraso y el localizador no muestra los traslados en curso.
@@ -75,6 +75,9 @@ Para depositar dinero en su cuenta de comisaría, cada centro indica el sistema 
 4. **Prepare al resto de la familia.** Repase [qué hacer si ICE llega a su casa o a su trabajo](/que-hacer-si-ice-llega-a-mi-casa/) y tenga un plan para los niños.
 
 Si no puede pagar un abogado, la [lista de proveedores gratuitos de EOIR](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) está organizada por estado.
+
+<p><strong>Más sobre detención y fianza:</strong></p>
+<ul class="article-list"><li><a href="/fianza-de-inmigracion/">Cómo pedir una fianza de inmigración</a></li><li><a href="/cuanto-cuesta-una-fianza-de-inmigracion/">Cuánto cuesta una fianza de inmigración</a></li><li><a href="/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/">Cuánto tiempo puede ICE detener a un inmigrante</a></li><li><a href="/detencion-obligatoria-sin-fianza/">Quién no tiene derecho a fianza (detención obligatoria)</a></li><li><a href="/que-pasa-despues-de-un-arresto-de-ice/">Qué pasa después de un arresto de ICE</a></li></ul>
 
 ## Preguntas frecuentes
 

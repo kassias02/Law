@@ -5,7 +5,7 @@ description: Sus derechos si ICE llega a su casa o su trabajo: orden judicial vs
 slug: que-hacer-si-ice-llega-a-mi-casa
 mirror: what-to-do-if-ice-comes
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-04
 summary:
   - No tiene que abrir la puerta salvo que los agentes tengan una orden firmada por un juez, con su nombre y dirección.
   - Una orden administrativa de ICE (Formularios I-200 o I-205) no autoriza a entrar en su casa sin su permiso.
@@ -79,6 +79,9 @@ Esto es lo que realmente cambia el resultado:
 - **Una carta poder** para decisiones sobre los hijos y las finanzas, preparada con un abogado.
 
 Si alguien de su familia es detenido, vea [qué pasa después de un arresto de ICE](/que-pasa-despues-de-un-arresto-de-ice/). El siguiente paso es [localizarlo en el sistema de ICE](/como-saber-si-mi-familiar-esta-detenido/) y, si es posible, pedir una [fianza](/fianza-de-inmigracion/) (vea [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/)). No todos pueden obtenerla: vea [quién no tiene derecho a fianza](/detencion-obligatoria-sin-fianza/).
+
+<p><strong>Más sobre detención y fianza:</strong></p>
+<ul class="article-list"><li><a href="/fianza-de-inmigracion/">Cómo pedir una fianza de inmigración</a></li><li><a href="/cuanto-cuesta-una-fianza-de-inmigracion/">Cuánto cuesta una fianza de inmigración</a></li><li><a href="/cuanto-tiempo-puede-ice-detener-a-un-inmigrante/">Cuánto tiempo puede ICE detener a un inmigrante</a></li><li><a href="/detencion-obligatoria-sin-fianza/">Quién no tiene derecho a fianza (detención obligatoria)</a></li><li><a href="/que-pasa-despues-de-un-arresto-de-ice/">Qué pasa después de un arresto de ICE</a></li></ul>
 
 ## Preguntas frecuentes
 
