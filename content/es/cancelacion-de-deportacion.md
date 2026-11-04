@@ -1,13 +1,13 @@
 ---
-title: Cancelación de deportación: requisitos 42A/42B, pruebas y cupo
-seo_title: Cancelación de deportación: requisitos, pruebas y formularios
+title: ¿Quién califica para la cancelación de deportación por 10 años?
+seo_title: Cancelación de deportación por 10 años: requisitos (EOIR-42B)
 nav: Cancelación de deportación
-description: Cancelación de deportación (INA 240A): requisitos para residentes (EOIR-42A) y no residentes (EOIR-42B), pruebas, sufrimiento excepcional y cupo anual.
+description: Requisitos de la cancelación de deportación por 10 años (EOIR-42B): presencia continua, buen carácter moral, sufrimiento excepcional y cupo anual de 4,000.
 slug: cancelacion-de-deportacion
 mirror: cancellation-of-removal
 order: 4
 date: 2026-09-16
-updated: 2026-10-22
+updated: 2026-11-04
 summary:
   - Es una defensa que solo se pide ante el juez de inmigración, dentro de un proceso de deportación. No se puede solicitar por adelantado ante USCIS.
   - Residentes permanentes (EOIR-42A) - 5 años como residente, 7 años de residencia continua tras una admisión y ninguna condena por delito con agravantes.
@@ -15,7 +15,11 @@ summary:
   - El tiempo deja de contar cuando recibe un Notice to Appear válido (regla de detención del tiempo).
   - Para no residentes hay un límite de 4,000 concesiones por año fiscal. Si el juez la concede, obtienen la residencia permanente.
 sources:
+  - BIA – Matter of Isidro-Zamorano, 25 I&N Dec. 829 (2012)|https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3756.pdf
   - INA § 240A (8 U.S.C. § 1229b) – Cancelación de remoción|https://www.law.cornell.edu/uscode/text/8/1229b
+  - 8 U.S.C. § 1229b – Texto oficial (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1229b.htm
+  - EOIR – Cancellation of Removal for Nonpermanent Residents|https://www.justice.gov/eoir/cancellation-removal-nonpermanent-residents
+  - 8 C.F.R. § 1240.21 – Cupo anual (eCFR)|https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1240/subpart-B/section-1240.21
   - 8 C.F.R. § 1240.20 – Solicitud de cancelación ante la corte|https://www.law.cornell.edu/cfr/text/8/1240.20
   - 8 C.F.R. § 1240.21 – Límite anual de 4,000 concesiones|https://www.law.cornell.edu/cfr/text/8/1240.21
   - EOIR – Formulario EOIR-42B (no residentes)|https://www.justice.gov/media/1191856/dl
@@ -23,18 +27,18 @@ sources:
   - Corte Suprema – Pereira v. Sessions (2018) y Niz-Chavez v. Garland (2021)|https://www.supremecourt.gov/opinions/20pdf/19-863_6jgm.pdf
   - Corte Suprema – Wilkinson v. Garland (2024), revisión del criterio de sufrimiento|https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf
 faq:
-  - ¿Cuáles son los requisitos de la cancelación de deportación para no residentes?|Diez años de presencia física continua antes de la solicitud, buen carácter moral durante ese tiempo, no tener condenas por ciertos delitos y demostrar sufrimiento excepcional y extremadamente inusual de un cónyuge, padre o hijo ciudadano o residente.
+  - ¿Quién es elegible para la cancelación de deportación por 10 años?|Diez años de presencia física continua antes de la solicitud, buen carácter moral durante ese tiempo, no tener condenas por ciertos delitos y demostrar sufrimiento excepcional y extremadamente inusual de un cónyuge, padre o hijo ciudadano o residente.
   - ¿Cuáles son los requisitos para residentes permanentes?|Haber sido residente permanente al menos 5 años, haber residido de forma continua 7 años después de una admisión en cualquier estatus y no tener condenas por delito con agravantes. No hace falta demostrar sufrimiento de un familiar.
   - ¿Puedo pedir la cancelación de deportación si no estoy en proceso?|No. Es un alivio que solo existe dentro de un proceso de remoción ante el juez. Provocar un proceso a propósito para pedirla es una estrategia muy arriesgada que ningún abogado serio recomienda sin un análisis detallado.
   - ¿Qué pruebas necesito para la cancelación de deportación?|Pruebas de presencia continua (impuestos, contratos de alquiler, recibos, registros escolares y laborales), de buen carácter moral (antecedentes policiales y declaraciones de testigos) y del parentesco y estatus de los familiares calificados. Los originales deben estar disponibles en la audiencia.
   - ¿Cuántas cancelaciones de deportación se conceden al año?|La ley fija un máximo de 4,000 por año fiscal para la cancelación de no residentes. Cuando se agota, el juez debe reservar la decisión favorable hasta que haya un cupo disponible en un año fiscal siguiente.
-  - ¿Mis hijos cuentan como familiares calificados si ya son mayores?|Para la cancelación de no residentes, el hijo debe ser menor de 21 años y soltero en el momento de la decisión. Los padres y el cónyuge también califican si son ciudadanos o residentes.
+  - ¿Mis hijos cuentan como familiares calificados si ya son mayores?|Para la cancelación de no residentes, el hijo debe seguir siendo menor de 21 años y soltero cuando el juez de inmigración decide la solicitud (Matter of Isidro-Zamorano, BIA 2012). Los padres y el cónyuge también califican si son ciudadanos o residentes.
   - ¿Qué es el sufrimiento "excepcional y extremadamente inusual"?|Es un estándar mucho más alto que el sufrimiento normal de una separación. Se examinan la salud, la edad, la educación, las condiciones del país y la situación económica del familiar calificado. Casos con un hijo con una enfermedad o discapacidad grave son los más típicos.
 ---
-<h2 id="quien-puede-pedir-la-cancelacion">¿Qué es la cancelación de deportación y quién puede pedirla?</h2>
-<p>Es una defensa que solo se pide ante el juez de inmigración, dentro de un proceso de deportación; no se puede solicitar por adelantado ante USCIS. Para no residentes exige 10 años de presencia continua, buen carácter moral, no tener ciertas condenas y demostrar sufrimiento "excepcional y extremadamente inusual" de un cónyuge, padre o hijo ciudadano o residente. Para residentes permanentes exige 5 años con la tarjeta verde, 7 años de residencia continua y ninguna condena por delito con agravantes.</p>
+<h2 id="quien-puede-pedir-la-cancelacion">¿Quién califica para la cancelación de deportación por 10 años?</h2>
+<p>Califica quien, dentro de un proceso de deportación, demuestra ante el juez 10 años de presencia física continua, buen carácter moral durante ese tiempo, ninguna condena por ciertos delitos y un sufrimiento "excepcional y extremadamente inusual" para su cónyuge, padre o hijo ciudadano o residente. Se pide con el <a href="https://www.justice.gov/eoir/cancellation-removal-nonpermanent-residents">Formulario EOIR-42B</a>; no ante USCIS.</p>
 
-## Qué es y por qué es tan buscada
+## ¿Qué es la cancelación de remoción o «ley de los 10 años»?
 
 La **cancelación de remoción** (*cancellation of removal*), conocida popularmente como "la ley de los 10 años", permite al juez de inmigración detener una deportación y conceder la residencia permanente a personas que llevan muchos años en el país. Existen dos versiones, con requisitos distintos, ambas en la sección 240A de la ley de inmigración (INA): la del apartado (a) para residentes permanentes y la del apartado (b) para no residentes.
 
@@ -50,30 +54,30 @@ Es una defensa **exclusiva de la [corte de inmigración](/corte-de-inmigracion/)
 | Límite anual | No aplica | 4,000 por año fiscal |
 | Formulario | EOIR-42A | EOIR-42B |
 
-## Cancelación para personas sin residencia (EOIR-42B)
+## ¿Cuáles son los requisitos para no residentes (EOIR-42B)?
 
 Debe demostrar **todos** estos requisitos:
 
-1. **Presencia física continua en EE. UU. durante al menos 10 años** antes de que se detuviera el reloj (ver abajo). Salidas de más de 90 días seguidos, o de más de 180 días en total, rompen la continuidad.
+1. **Presencia física continua en EE. UU. durante al menos 10 años** antes de que se detuviera el reloj (ver abajo). Salidas de más de 90 días seguidos, o de más de 180 días en total, rompen la continuidad ([8 U.S.C. § 1229b(d)(2)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1229b.htm)).
 2. **Buen carácter moral** durante esos 10 años. Ciertas conductas lo excluyen automáticamente (por ejemplo, condenas por drogas, falso testimonio para obtener beneficios migratorios, estar en la cárcel 180 días o más).
 3. **No tener condenas** por los delitos que la ley menciona (INA §§ 212(a)(2), 237(a)(2) y 237(a)(3)).
-4. **Sufrimiento excepcional y extremadamente inusual** de un **familiar calificado**: cónyuge, padre/madre o hijo (menor de 21 y soltero) que sea ciudadano o residente permanente. El sufrimiento de usted mismo no cuenta.
+4. **Sufrimiento excepcional y extremadamente inusual** de un **familiar calificado**: cónyuge, padre/madre o hijo (menor de 21 y soltero cuando el juez decide, según [Matter of Isidro-Zamorano](https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3756.pdf)) que sea ciudadano o residente permanente. El sufrimiento de usted mismo no cuenta.
 
-Se solicita con el **[Formulario EOIR-42B](https://www.justice.gov/media/1191856/dl)** ante la corte que lleva el caso (8 C.F.R. § 1240.20). Vea abajo qué pruebas pide el formulario.
+Según la [página de EOIR sobre la cancelación para no residentes](https://www.justice.gov/eoir/cancellation-removal-nonpermanent-residents), además debe merecer la cancelación de forma discrecional. Se solicita con el **[Formulario EOIR-42B](https://www.justice.gov/media/1191856/dl)** ante la corte que lleva el caso ([8 C.F.R. § 1240.20](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1240/subpart-B/section-1240.20)), y se entrega copia al abogado de ICE. Vea abajo qué pruebas pide el formulario.
 
-### La regla de detención del tiempo (stop-time rule)
+### ¿Cuándo deja de contar el plazo de 10 años?
 
 Los 10 años dejan de contar cuando le entregan un [Notice to Appear](/notice-to-appear/) o cuando comete ciertos delitos. Pero la Corte Suprema decidió en *Pereira v. Sessions* (2018) y *Niz-Chavez v. Garland* (2021) que un NTA **sin fecha, hora y lugar de la audiencia** no detiene el reloj, y que el gobierno no puede "completarlo" con un aviso posterior. Como muchos NTA salieron incompletos, miles de personas que en su día no cumplían los 10 años hoy sí los cumplen. Este es uno de los primeros puntos que un abogado revisará.
 
-### El sufrimiento "excepcional y extremadamente inusual"
+### ¿Cómo se demuestra el sufrimiento "excepcional y extremadamente inusual"?
 
 Es el requisito más difícil. No basta con que la familia vaya a sufrir económicamente o a separarse; eso ocurre en toda deportación. El juez analiza en conjunto la edad, salud, educación y situación de los familiares calificados, y lo que les pasaría tanto si se quedan sin usted como si se van con usted. Los casos típicos que prosperan incluyen un hijo con una condición médica seria o necesidades educativas especiales que no podrían atenderse en el país de origen. En *Wilkinson v. Garland* (2024), la Corte Suprema aclaró que los tribunales federales pueden revisar cómo el juez aplicó este estándar a los hechos, lo que abre más margen para apelar decisiones negativas.
 
-### El límite anual
+### ¿Qué pasa cuando se agota el cupo de 4,000?
 
-La ley solo permite **4,000 concesiones por año fiscal** de cancelación para no residentes (INA § 240A(e); 8 C.F.R. § 1240.21). Las concesiones a ciertos beneficiarios de la ley NACARA no cuentan para ese límite. Cuando se agota el cupo, el juez debe **reservar** la decisión favorable hasta que haya un cupo disponible en un año fiscal siguiente, lo que crea esperas largas incluso para quien ya ganó. El límite no se aplica a la cancelación para residentes permanentes.
+La ley solo permite **4,000 concesiones por año fiscal** de cancelación para no residentes (INA § 240A(e); [8 C.F.R. § 1240.21](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1240/subpart-B/section-1240.21)). Las concesiones a ciertos beneficiarios de la ley NACARA no cuentan para ese límite. Cuando se agota el cupo, el juez debe **reservar** la decisión favorable hasta que haya un cupo disponible en un año fiscal siguiente, lo que crea esperas largas incluso para quien ya ganó. El límite no se aplica a la cancelación para residentes permanentes.
 
-## Cancelación para residentes permanentes (EOIR-42A)
+## ¿Qué requisitos hay para residentes permanentes (EOIR-42A)?
 
 Para residentes que enfrentan deportación (normalmente por una condena), los requisitos son:
 
@@ -85,11 +89,11 @@ Aquí no se exige demostrar sufrimiento de un familiar: el juez decide de forma 
 
 Se solicita con el **[Formulario EOIR-42A](https://www.justice.gov/media/1191956/dl)**. Sus instrucciones piden copias de todos los documentos que DHS le haya emitido y todos los documentos sobre su historial penal, incluidas las sentencias.
 
-## Quién no puede pedirla
+## ¿Quién no puede pedir la cancelación?
 
 La ley excluye de las dos versiones, entre otros, a quien ya obtuvo una cancelación, una suspensión de deportación o un perdón bajo la antigua sección 212(c); a quien entró como tripulante después del 30 de junio de 1964; a ciertos participantes en programas de intercambio J; y a quien es inadmisible o deportable por motivos de seguridad (INA § 240A(c)). Por eso la cancelación solo se puede obtener una vez en la vida.
 
-## Qué pruebas presentar
+## ¿Qué pruebas pide el Formulario EOIR-42B?
 
 Las instrucciones del Formulario EOIR-42B recomiendan, entre otras:
 
@@ -102,13 +106,13 @@ Para el sufrimiento del familiar suelen ser decisivos los expedientes médicos, 
 
 Antes de presentar el formulario en la corte hay que pagar la tarifa de presentación y la de datos biométricos ante DHS, según las instrucciones del formulario, y adjuntar el comprobante. Cada solicitante de 14 años o más debe acudir a la cita de biométricos.
 
-## Qué pasa si se concede
+## ¿Qué pasa si el juez concede la cancelación?
 
 El juez cancela la orden y usted obtiene (o conserva) la residencia permanente. En el caso de no residentes, se otorga desde el momento de la decisión, sujeta al cupo anual. Solo se puede obtener una vez en la vida.
 
 ## Preguntas frecuentes
 
-### ¿Cuáles son los requisitos de la cancelación de deportación para no residentes?
+### ¿Quién es elegible para la cancelación de deportación por 10 años?
 
 Diez años de presencia física continua antes de la solicitud, buen carácter moral durante ese tiempo, no tener condenas por ciertos delitos y demostrar sufrimiento excepcional y extremadamente inusual de un cónyuge, padre o hijo ciudadano o residente.
 
@@ -130,7 +134,7 @@ La ley fija un máximo de 4,000 por año fiscal para la cancelación de no resid
 
 ### ¿Mis hijos cuentan como familiares calificados si ya son mayores?
 
-Para la cancelación de no residentes, el hijo debe ser menor de 21 años y soltero en el momento de la decisión. Los padres y el cónyuge también califican si son ciudadanos o residentes.
+Para la cancelación de no residentes, el hijo debe seguir siendo menor de 21 años y soltero cuando el juez de inmigración decide la solicitud (Matter of Isidro-Zamorano, BIA 2012). Los padres y el cónyuge también califican si son ciudadanos o residentes.
 
 ### ¿Qué es el sufrimiento "excepcional y extremadamente inusual"?
 
