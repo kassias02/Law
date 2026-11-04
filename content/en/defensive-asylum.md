@@ -25,7 +25,7 @@ sources:
 faq:
   - What is the difference between affirmative and defensive asylum?|Affirmative asylum is filed with USCIS when you are not in removal proceedings. Defensive asylum is raised before the immigration judge inside proceedings. The form is the same, Form I-589.
   - Can I work while my asylum case is pending?|You can apply for work authorization (Form I-765) once your asylum application has been pending for a required period. Those rules have changed several times; confirm the current waiting period with an attorney or on the USCIS site before filing.
-  - What if more than a year has passed since I entered?|You may still qualify through changed circumstances (such as conditions in your country) or extraordinary circumstances (serious illness, being an unaccompanied minor). Even if asylum is time-barred, withholding and CAT remain available.
+  - What if more than a year has passed since I entered?|You may still qualify through changed circumstances (such as conditions in your country) or extraordinary circumstances (for example, serious illness or being an unaccompanied minor during the first year after arrival). Even if asylum is time-barred, withholding and CAT remain available.
   - Where do I file Form I-589 if I am in removal proceedings?|With the immigration judge (EOIR), not USCIS. If you filed with USCIS first and were referred to court, the judge reviews that same application again, unless it was abandoned or dismissed.
   - What happens if USCIS does not grant affirmative asylum?|If you lack lawful status, USCIS issues a Notice to Appear and refers the case to an immigration judge, and you move into the defensive process, where the judge reviews the application again.
   - Can an unaccompanied child file asylum with USCIS while in proceedings?|Yes. According to USCIS, unaccompanied children are the exception: they may file asylum with USCIS even while in removal proceedings.
@@ -65,7 +65,7 @@ You must also show the persecutor is the government or someone it cannot or will
 
 ### What is the one-year asylum deadline?
 
-You generally must file within **one year** of your last arrival ([INA § 208(a)(2)(B)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partI-sec1158.htm); [8 C.F.R. § 1208.4(a)(2)](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1208/subpart-A/section-1208.4)). Two exceptions exist: *changed circumstances* and *extraordinary circumstances*. If you miss the deadline without an exception, the judge will deny asylum but may still grant withholding or CAT.
+You generally must file within **one year** of your last arrival ([INA § 208(a)(2)(B)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partI-sec1158.htm); [8 C.F.R. § 1208.4(a)(2)](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1208/subpart-A/section-1208.4)). Two exceptions exist: *changed circumstances* and *extraordinary circumstances* (for example, serious illness or being an unaccompanied minor during the first year after arrival, or ineffective assistance of counsel if certain conditions are met; [8 C.F.R. § 1208.4(a)(4)-(5)](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1208/subpart-A/section-1208.4)). If you miss the deadline without an exception, the judge will deny asylum but may still grant withholding or CAT.
 
 ### Who is barred from asylum?
 
@@ -106,7 +106,7 @@ You can apply for [work authorization](/en/work-permit-pending-asylum/) (Form I-
 
 ### What if more than a year has passed since I entered?
 
-You may still qualify through changed circumstances (such as conditions in your country) or extraordinary circumstances (serious illness, being an unaccompanied minor). Even if asylum is time-barred, withholding and CAT remain available.
+You may still qualify through changed circumstances (such as conditions in your country) or extraordinary circumstances (for example, serious illness or being an unaccompanied minor during the first year after arrival). Even if asylum is time-barred, withholding and CAT remain available.
 
 ### Where do I file Form I-589 if I am in removal proceedings?
 

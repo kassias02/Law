@@ -25,7 +25,7 @@ sources:
 faq:
   - ¿Cuál es la diferencia entre asilo afirmativo y defensivo?|El afirmativo se pide ante USCIS cuando usted no está en proceso de deportación. El defensivo se pide ante el juez de inmigración como defensa dentro de un proceso ya abierto. El formulario es el mismo (I-589).
   - ¿Puedo trabajar mientras espera mi caso de asilo?|Puede solicitar el permiso de trabajo (Formulario I-765) después de que su solicitud de asilo lleve un tiempo pendiente. Los plazos y requisitos han cambiado varias veces; confirme el plazo vigente con un abogado o en el sitio de USCIS antes de presentar.
-  - ¿Qué pasa si pasó más de un año desde que entré?|Puede seguir siendo elegible si demuestra circunstancias cambiantes (por ejemplo, un cambio de condiciones en su país) o circunstancias extraordinarias (enfermedad, ser menor no acompañado) que justifiquen el retraso. Aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.
+  - ¿Qué pasa si pasó más de un año desde que entré?|Puede seguir siendo elegible si demuestra circunstancias cambiantes o extraordinarias que justifiquen el retraso. Ejemplos: un cambio de condiciones en su país, una enfermedad grave o ser menor no acompañado durante el primer año tras la llegada. Aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.
   - ¿Dónde se presenta el I-589 si estoy en proceso de deportación?|Ante el juez de inmigración (EOIR), no ante USCIS. Si ya lo había presentado ante USCIS y el caso fue remitido a la corte, el juez revisa de nuevo esa misma solicitud, salvo que se haya abandonado o desestimado.
   - ¿Qué pasa si USCIS no me concede el asilo afirmativo?|Si no tiene estatus legal, USCIS emite un Notice to Appear y remite el caso a un juez de inmigración y usted entra en el proceso defensivo, donde el juez vuelve a revisar la solicitud.
   - ¿Un menor no acompañado puede pedir asilo ante USCIS estando en proceso?|Sí. Según USCIS, los menores no acompañados son la excepción: pueden presentar el asilo ante USCIS aunque estén en proceso de deportación.
@@ -65,7 +65,7 @@ También debe mostrar que el gobierno de su país fue el autor de la persecució
 
 ### ¿Cuál es el plazo de un año para pedir asilo?
 
-En general debe presentar el I-589 **dentro de un año** de su última llegada a Estados Unidos ([INA § 208(a)(2)(B)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partI-sec1158.htm); [8 C.F.R. § 1208.4(a)(2)](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1208/subpart-A/section-1208.4)). Hay dos excepciones: *circunstancias cambiantes* (algo cambió en su país o en su situación) y *circunstancias extraordinarias* (enfermedad grave, ser menor no acompañado, un abogado que le falló). Si se pasa del plazo sin excepción, el juez negará el asilo pero aún puede concederle retención o CAT.
+En general debe presentar el I-589 **dentro de un año** de su última llegada a Estados Unidos ([INA § 208(a)(2)(B)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partI-sec1158.htm); [8 C.F.R. § 1208.4(a)(2)](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1208/subpart-A/section-1208.4)). Hay dos excepciones: *circunstancias cambiantes* (algo cambió en su país o en su situación) y *circunstancias extraordinarias* (por ejemplo, enfermedad grave o ser menor no acompañado durante el primer año tras la llegada, o la asistencia ineficaz de un abogado si se cumplen ciertos requisitos; [8 C.F.R. § 1208.4(a)(4)-(5)](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1208/subpart-A/section-1208.4)). Si se pasa del plazo sin excepción, el juez negará el asilo pero aún puede concederle retención o CAT.
 
 ### ¿Quién no puede obtener asilo?
 
@@ -106,7 +106,7 @@ Puede solicitar el [permiso de trabajo](/permiso-de-trabajo-con-asilo-pendiente/
 
 ### ¿Qué pasa si pasó más de un año desde que entré?
 
-Puede seguir siendo elegible si demuestra circunstancias cambiantes (por ejemplo, un cambio de condiciones en su país) o circunstancias extraordinarias (enfermedad, ser menor no acompañado) que justifiquen el retraso. Aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.
+Puede seguir siendo elegible si demuestra circunstancias cambiantes o extraordinarias que justifiquen el retraso. Ejemplos: un cambio de condiciones en su país, una enfermedad grave o ser menor no acompañado durante el primer año tras la llegada. Aunque el asilo se niegue por el plazo, la retención y el CAT siguen disponibles.
 
 ### ¿Dónde se presenta el I-589 si estoy en proceso de deportación?
 

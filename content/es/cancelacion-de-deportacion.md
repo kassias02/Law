@@ -15,6 +15,7 @@ summary:
   - El tiempo deja de contar cuando recibe un Notice to Appear válido (regla de detención del tiempo).
   - Para no residentes hay un límite de 4,000 concesiones por año fiscal. Si el juez la concede, obtienen la residencia permanente.
 sources:
+  - BIA – Matter of Isidro-Zamorano, 25 I&N Dec. 829 (2012)|https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3756.pdf
   - INA § 240A (8 U.S.C. § 1229b) – Cancelación de remoción|https://www.law.cornell.edu/uscode/text/8/1229b
   - 8 U.S.C. § 1229b – Texto oficial (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1229b.htm
   - EOIR – Cancellation of Removal for Nonpermanent Residents|https://www.justice.gov/eoir/cancellation-removal-nonpermanent-residents
@@ -31,7 +32,7 @@ faq:
   - ¿Puedo pedir la cancelación de deportación si no estoy en proceso?|No. Es un alivio que solo existe dentro de un proceso de remoción ante el juez. Provocar un proceso a propósito para pedirla es una estrategia muy arriesgada que ningún abogado serio recomienda sin un análisis detallado.
   - ¿Qué pruebas necesito para la cancelación de deportación?|Pruebas de presencia continua (impuestos, contratos de alquiler, recibos, registros escolares y laborales), de buen carácter moral (antecedentes policiales y declaraciones de testigos) y del parentesco y estatus de los familiares calificados. Los originales deben estar disponibles en la audiencia.
   - ¿Cuántas cancelaciones de deportación se conceden al año?|La ley fija un máximo de 4,000 por año fiscal para la cancelación de no residentes. Cuando se agota, el juez debe reservar la decisión favorable hasta que haya un cupo disponible en un año fiscal siguiente.
-  - ¿Mis hijos cuentan como familiares calificados si ya son mayores?|Para la cancelación de no residentes, el hijo debe ser menor de 21 años y soltero en el momento de la decisión. Los padres y el cónyuge también califican si son ciudadanos o residentes.
+  - ¿Mis hijos cuentan como familiares calificados si ya son mayores?|Para la cancelación de no residentes, el hijo debe seguir siendo menor de 21 años y soltero cuando el juez de inmigración decide la solicitud (Matter of Isidro-Zamorano, BIA 2012). Los padres y el cónyuge también califican si son ciudadanos o residentes.
   - ¿Qué es el sufrimiento "excepcional y extremadamente inusual"?|Es un estándar mucho más alto que el sufrimiento normal de una separación. Se examinan la salud, la edad, la educación, las condiciones del país y la situación económica del familiar calificado. Casos con un hijo con una enfermedad o discapacidad grave son los más típicos.
 ---
 <h2 id="quien-puede-pedir-la-cancelacion">¿Quién califica para la cancelación de deportación por 10 años?</h2>
@@ -60,7 +61,7 @@ Debe demostrar **todos** estos requisitos:
 1. **Presencia física continua en EE. UU. durante al menos 10 años** antes de que se detuviera el reloj (ver abajo). Salidas de más de 90 días seguidos, o de más de 180 días en total, rompen la continuidad ([8 U.S.C. § 1229b(d)(2)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1229b.htm)).
 2. **Buen carácter moral** durante esos 10 años. Ciertas conductas lo excluyen automáticamente (por ejemplo, condenas por drogas, falso testimonio para obtener beneficios migratorios, estar en la cárcel 180 días o más).
 3. **No tener condenas** por los delitos que la ley menciona (INA §§ 212(a)(2), 237(a)(2) y 237(a)(3)).
-4. **Sufrimiento excepcional y extremadamente inusual** de un **familiar calificado**: cónyuge, padre/madre o hijo (menor de 21 y soltero) que sea ciudadano o residente permanente. El sufrimiento de usted mismo no cuenta.
+4. **Sufrimiento excepcional y extremadamente inusual** de un **familiar calificado**: cónyuge, padre/madre o hijo (menor de 21 y soltero cuando el juez decide, según [Matter of Isidro-Zamorano](https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3756.pdf)) que sea ciudadano o residente permanente. El sufrimiento de usted mismo no cuenta.
 
 Según la [página de EOIR sobre la cancelación para no residentes](https://www.justice.gov/eoir/cancellation-removal-nonpermanent-residents), además debe merecer la cancelación de forma discrecional. Se solicita con el **[Formulario EOIR-42B](https://www.justice.gov/media/1191856/dl)** ante la corte que lleva el caso ([8 C.F.R. § 1240.20](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1240/subpart-B/section-1240.20)), y se entrega copia al abogado de ICE. Vea abajo qué pruebas pide el formulario.
 
@@ -133,7 +134,7 @@ La ley fija un máximo de 4,000 por año fiscal para la cancelación de no resid
 
 ### ¿Mis hijos cuentan como familiares calificados si ya son mayores?
 
-Para la cancelación de no residentes, el hijo debe ser menor de 21 años y soltero en el momento de la decisión. Los padres y el cónyuge también califican si son ciudadanos o residentes.
+Para la cancelación de no residentes, el hijo debe seguir siendo menor de 21 años y soltero cuando el juez de inmigración decide la solicitud (Matter of Isidro-Zamorano, BIA 2012). Los padres y el cónyuge también califican si son ciudadanos o residentes.
 
 ### ¿Qué es el sufrimiento "excepcional y extremadamente inusual"?
 

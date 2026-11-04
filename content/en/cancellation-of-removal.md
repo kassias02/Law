@@ -14,6 +14,7 @@ summary:
   - The clock stops when you are served a valid Notice to Appear — the stop-time rule.
   - Only 4,000 grants are available per fiscal year. If granted, you receive lawful permanent residence.
 sources:
+  - BIA – Matter of Isidro-Zamorano, 25 I&N Dec. 829 (2012)|https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3756.pdf
   - INA § 240A (8 U.S.C. § 1229b) – Cancellation of removal|https://www.law.cornell.edu/uscode/text/8/1229b
   - 8 U.S.C. § 1229b – Official text (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1229b.htm
   - EOIR – Cancellation of Removal for Nonpermanent Residents|https://www.justice.gov/eoir/cancellation-removal-nonpermanent-residents
@@ -25,7 +26,7 @@ sources:
   - Supreme Court – Wilkinson v. Garland (2024)|https://www.supremecourt.gov/opinions/23pdf/601us1r10_k5fm.pdf
 faq:
   - Can I apply for cancellation if I am not in proceedings?|No. It exists only as relief inside removal proceedings before a judge. Deliberately triggering proceedings to apply is an extremely risky strategy no serious attorney recommends without detailed analysis.
-  - Do my adult children count as qualifying relatives?|For non-resident cancellation, a child must be unmarried and under 21 at the time of the decision. A spouse or parent also qualifies if they are a citizen or lawful permanent resident.
+  - Do my adult children count as qualifying relatives?|For non-resident cancellation, a child must still be unmarried and under 21 when the immigration judge decides the application (Matter of Isidro-Zamorano, BIA 2012). A spouse or parent also qualifies if they are a citizen or lawful permanent resident.
   - What counts as exceptional and extremely unusual hardship?|A standard far above the ordinary hardship of separation. Judges weigh the qualifying relative's health, age, education, country conditions and finances. Cases involving a child with a serious medical condition or disability are the most common successes.
   - What are the requirements for non-LPR cancellation of removal?|Ten years of continuous physical presence, good moral character during that period, no conviction under INA §§ 212(a)(2), 237(a)(2) or 237(a)(3), and exceptional and extremely unusual hardship to a U.S. citizen or LPR spouse, parent or child. You must also merit a favorable exercise of discretion.
   - How many cancellation of removal cases can be granted each year?|Up to 4,000 non-LPR grants per fiscal year. Certain NACARA beneficiaries are not counted, and when the cap is reached judges reserve approvals until a number becomes available.
@@ -45,7 +46,7 @@ You must prove **all** of the following:
 1. **Ten years of continuous physical presence** before the clock stopped. A single absence of more than 90 days, or absences totaling more than 180 days, breaks continuity ([8 U.S.C. § 1229b(d)(2)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1229b.htm)).
 2. **Good moral character** during that period. Certain conduct bars it automatically — drug convictions, false testimony to obtain an immigration benefit, 180 days or more of confinement.
 3. **No convictions** under INA §§ 212(a)(2), 237(a)(2) or 237(a)(3).
-4. **Exceptional and extremely unusual hardship** to a **qualifying relative**: a U.S. citizen or LPR spouse, parent, or child under 21 and unmarried. Hardship to yourself does not count.
+4. **Exceptional and extremely unusual hardship** to a **qualifying relative**: a U.S. citizen or LPR spouse, parent, or child under 21 and unmarried when the judge decides ([Matter of Isidro-Zamorano](https://www.justice.gov/sites/default/files/eoir/legacy/2014/07/25/3756.pdf)). Hardship to yourself does not count.
 
 EOIR adds that you must deserve cancellation as a matter of discretion ([EOIR](https://www.justice.gov/eoir/cancellation-removal-nonpermanent-residents)). You file Form EOIR-42B with the immigration court ([8 C.F.R. § 1240.20](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1240/subpart-B/section-1240.20)), serve a copy on ICE, pay the fee and complete biometrics, and submit an evidence package: tax returns for every year, receipts, leases, letters, medical and school records for the qualifying relative, country conditions evidence.
 
@@ -83,7 +84,7 @@ No. It exists only as relief inside removal proceedings before a judge. Delibera
 
 ### Do my adult children count as qualifying relatives?
 
-For non-resident cancellation, a child must be unmarried and under 21 at the time of the decision. A spouse or parent also qualifies if they are a citizen or lawful permanent resident.
+For non-resident cancellation, a child must still be unmarried and under 21 when the immigration judge decides the application (Matter of Isidro-Zamorano, BIA 2012). A spouse or parent also qualifies if they are a citizen or lawful permanent resident.
 
 ### What counts as exceptional and extremely unusual hardship?
 
