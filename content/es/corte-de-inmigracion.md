@@ -1,8 +1,8 @@
 ---
-title: Fecha de corte de inmigración: cómo verla y qué esperar
-seo_title: Fecha de corte de inmigración: ACIS EOIR y teléfono
+title: ¿Cómo saber su fecha de corte en la corte de migración?
+seo_title: Corte de migración: cómo saber su fecha de corte (EOIR)
 nav: Corte de inmigración
-description: Cómo saber su fecha de corte de inmigración: portal ACIS de EOIR o línea 1-800-898-7180, qué pasa si no va, cambio de dirección y qué llevar.
+description: Corte de migración: cómo saber su fecha de corte en ACIS o al 1-800-898-7180, qué pasa si no va, cambio de dirección y qué llevar a la audiencia.
 slug: corte-de-inmigracion
 mirror: immigration-court
 order: 3
@@ -41,7 +41,7 @@ faq:
 
 ## ¿Cómo saber mi fecha de corte de inmigración? {#como-ver-mi-fecha-de-corte}
 
-Su **fecha de corte de inmigración** (próxima audiencia) se consulta gratis con su A-Number en el portal ACIS de EOIR o en la línea automatizada **1-800-898-7180**. Ambas vías dan fecha, hora y lugar; según EOIR, los avisos escritos de la corte siguen siendo la fuente oficial del estado del caso ([Check Case Status](https://www.justice.gov/eoir/check-case-status)).
+En la **corte de migración** (tribunal de inmigración de EOIR), su **fecha de corte** —la próxima audiencia— se consulta gratis con su A-Number en el portal ACIS o en la línea **1-800-898-7180**. Ambas vías dan fecha, hora y lugar; según EOIR, los avisos escritos de la corte siguen siendo la fuente oficial ([Check Case Status](https://www.justice.gov/eoir/check-case-status)).
 
 EOIR ofrece dos vías. En ambas necesita su **A-Number**, el número de registro que empieza por la letra A y aparece en el [Notice to Appear](/notice-to-appear/) y en toda la correspondencia de DHS y EOIR.
 
