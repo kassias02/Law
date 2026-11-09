@@ -1,13 +1,14 @@
 ---
-title: How to find out if a relative is detained by ICE
+title: ICE detainee search: Online Detainee Locator System
+seo_title: ICE detainee search / Online Detainee Locator System
 nav: Find a detainee
-description: How to use the ICE detainee locator, what to do when someone does not appear, how calls work, and what to gather in the first hours.
+description: ICE detainee search with the Online Detainee Locator System (locator.ice.gov): A-Number or name, what to do if no match, calls, and first steps.
 slug: find-someone-detained-by-ice
 mirror: como-saber-si-mi-familiar-esta-detenido
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-09
 summary:
-  - Use the official locator at locator.ice.gov: with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional.
+  - ICE Online Detainee Locator System (ICE detainee search) at locator.ice.gov: search by A-Number and country of birth, or by exact first and last name and country of birth. Date of birth is optional.
   - According to ICE, the data may be up to eight hours old, and the locator does not show transfers in progress.
   - If the person does not appear, they may have been in CBP custody for less than 48 hours, or be in a local jail or with the U.S. Marshals, none of which show in that system.
   - People under 18 do not appear in the locator and are handled through a separate process.
@@ -17,13 +18,14 @@ sources:
   - ICE – ERO field offices|https://www.ice.gov/contact/field-offices
   - EOIR – List of pro bono legal service providers|https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
 faq:
+  - How do I do an ICE detainee search?|Use ICE's Online Detainee Locator System at locator.ice.gov with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional. The system covers people in ICE custody or in CBP custody for more than 48 hours.
   - Why does my relative not show up in the ICE locator?|They may have been in CBP custody for less than 48 hours, be in a local jail, be under 18, or their details may be recorded differently. Try name variants, check the country of birth, or search by A-Number.
   - Can I call someone detained by ICE?|Usually not inbound. The detained person calls out, collect or from a prepaid account. Keep credit on your phone and accept unknown numbers.
   - How do I find which immigration court has the case?|With the A-Number, check the EOIR system at 1-800-898-7180 or acis.eoir.justice.gov.
 ---
-## Start with the official locator
+## How to run an ICE detainee search (Online Detainee Locator System)
 
-ICE runs a public search at **[locator.ice.gov](https://locator.ice.gov/)**, with two ways to search.
+An **ICE detainee search** uses ICE's public **Online Detainee Locator System (ODLS)** at **[locator.ice.gov](https://locator.ice.gov/)**. ICE describes it as the way for family, lawyers and the public to locate someone currently in ICE custody, or in CBP custody for more than 48 hours ([ICE attorney resources](https://www.ice.gov/detain/attorney-information-resources)). There are two ways to search.
 
 **By A-Number.** ICE recommends it because it returns a better match. Enter the nine digits, without the "A"; if the number has fewer, add zeros at the beginning (for example, 012345678). Selecting the correct country of birth is also required.
 
@@ -93,6 +95,10 @@ If you cannot afford a lawyer, the [EOIR list of free providers](https://www.jus
 <ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## Frequently asked questions
+
+### How do I do an ICE detainee search?
+
+Use ICE's Online Detainee Locator System at locator.ice.gov with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional. The system covers people in ICE custody or in CBP custody for more than 48 hours.
 
 ### Why does my relative not show up in the ICE locator?
 
