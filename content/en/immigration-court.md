@@ -1,13 +1,13 @@
 ---
-title: Immigration court date: how to check it and what to expect
-seo_title: Immigration court date: how to check it, hearings, deadlines
+title: How to check your next immigration court hearing date
+seo_title: Next immigration court hearing date: ACIS and hotline
 nav: Immigration court
-description: How to check your immigration court date online (EOIR ACIS) or at 1-800-898-7180, what happens at hearings, missing court and changing your address.
+description: How to check your next immigration court hearing date on EOIR ACIS or at 1-800-898-7180, what happens at hearings, missing court and changing your address.
 slug: immigration-court
 mirror: corte-de-inmigracion
 order: 3
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-09
 summary:
   - Immigration court (EOIR) sits inside the Department of Justice, separate from USCIS and ICE. The judge is independent of the government attorney.
   - Check your next court date with your A-Number on EOIR's ACIS portal or the free 1-800-898-7180 hotline (24/7, English and Spanish).
@@ -29,7 +29,7 @@ sources:
   - 8 C.F.R. § 1239.1 – Notice to appear (eCFR)|https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1239/section-1239.1
   - INA § 240 (8 U.S.C. § 1229a) – Official text (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2023-title8/html/USCODE-2023-title8-chap12-subchapII-partIV-sec1229a.htm
 faq:
-  - How do I check my immigration court date?|Enter your A-Number on EOIR's ACIS portal (acis.eoir.justice.gov) or call the free EOIR hotline at 1-800-898-7180, available 24 hours a day in English and Spanish. If no case is found, your case may not be filed with the court yet.
+  - How do I check my next immigration court hearing date?|Enter your A-Number on EOIR's ACIS portal (acis.eoir.justice.gov) or call the free hotline at 1-800-898-7180, available 24 hours a day in English and Spanish. If no case is found, your case may not be filed with the court yet.
   - What do I need to look up my court date?|Only your A-Number, the alien registration number that starts with the letter A. It appears on your Notice to Appear and on DHS and EOIR mail. On the phone, enter the 9 digits without the A; for an 8-digit number, add a 0 first.
   - What happens if I miss my immigration court date?|The judge can order you removed in absentia if the government shows written notice was sent to the last address you gave the court. If you were warned of the consequences, you also become ineligible for 10 years for relief such as cancellation of removal, voluntary departure and adjustment of status.
   - How do I update my address with immigration court?|File Form EOIR-33/IC with the court handling your case within 5 days of moving. Otherwise, hearing notices go to your old address, and a missed hearing can end in an in absentia order.
@@ -43,14 +43,16 @@ faq:
 <h2 id="how-to-check-your-immigration-court-date">How to check your immigration court date</h2>
 <p>Enter your A-Number on EOIR's online ACIS portal or call EOIR's free hotline at 1-800-898-7180. Both show your next hearing date, time and court location, and both are run by the immigration court system itself (EOIR, part of the Department of Justice).</p>
 
-## Two official ways to check your court date
+## How do I check my next immigration court hearing date?
 
-Both require your **A-Number**, the alien registration number that starts with the letter A and appears on your [Notice to Appear](/en/notice-to-appear/) and on all DHS and EOIR correspondence.
+Your **next immigration court hearing date** is available for free with your A-Number on EOIR's Automated Case Information (ACIS) portal or the automated hotline **1-800-898-7180**. Both give the date, time and location; EOIR notes that written court notices remain the official source of case status ([Check Case Status](https://www.justice.gov/eoir/check-case-status)).
 
-1. **Online: the ACIS portal.** Go to [acis.eoir.justice.gov](https://acis.eoir.justice.gov/), accept the disclaimer, enter your A-Number and submit. ACIS shows basic information on the most recent primary case, including the next hearing. It does not show bond hearing information; for that, contact the immigration court.
-2. **By phone: 1-800-898-7180.** EOIR's automated hotline is toll-free, available 24 hours a day, 7 days a week, with menus in English and Spanish. It gives the next hearing date, time and location, the judge's decision, and BIA appeal information. Enter the 9 digits of your A-Number without the letter A; if your number has 8 digits, enter a 0 first.
+Both options require your **A-Number**, the alien registration number that starts with the letter A and appears on your [Notice to Appear](/en/notice-to-appear/) and on all DHS and EOIR correspondence.
 
-If the system finds no case for your A-Number, check that you typed it correctly. Your case may not have been filed with the court yet; keep checking regularly, because a hearing can be scheduled or moved at any time.
+1. **Online: the ACIS portal.** Go to [acis.eoir.justice.gov](https://acis.eoir.justice.gov/), accept the disclaimer, enter your A-Number and submit. ACIS shows basic information on the most recent primary case, including the next hearing. It does not show bond hearing information; for that, contact the immigration court ([EOIR Case Information](https://www.justice.gov/eoir/eoir-case-information)).
+2. **By phone: 1-800-898-7180** (also 304-625-2050; TDD 800-828-1120). EOIR's automated hotline is toll-free, available 24 hours a day, 7 days a week, with menus in English and Spanish. It gives the next hearing date, time and location, the judge's decision, and BIA appeal information. Enter the 9 digits of your A-Number without the letter A; if your number has 8 digits, enter a 0 first ([Policy Manual ch. 1.5](https://www.justice.gov/eoir/policy-manual-eoir/part-I/chapter-1-5)).
+
+If the system finds no case for your A-Number, check that you typed it correctly. Your case may not have been filed with the court yet; keep checking, because a hearing can be scheduled or moved. ACIS will not show a new hearing date until the court sets one.
 
 ## Who is in the room
 
@@ -115,9 +117,9 @@ A study by Ingrid Eagly and Steven Shafer, published by the American Immigration
 
 ## Frequently asked questions
 
-### How do I check my immigration court date?
+### How do I check my next immigration court hearing date?
 
-Enter your A-Number on EOIR's ACIS portal (acis.eoir.justice.gov) or call the free EOIR hotline at 1-800-898-7180, available 24 hours a day in English and Spanish. If no case is found, your case may not be filed with the court yet.
+Enter your A-Number on EOIR's ACIS portal (acis.eoir.justice.gov) or call the free hotline at 1-800-898-7180, available 24 hours a day in English and Spanish. If no case is found, your case may not be filed with the court yet.
 
 ### What do I need to look up my court date?
 

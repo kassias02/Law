@@ -1,13 +1,13 @@
 ---
-title: Corte de inmigración: cómo ver su fecha de corte y qué esperar
-seo_title: Corte de migración: fecha de corte, audiencias y plazos
+title: Fecha de corte de inmigración: cómo verla y qué esperar
+seo_title: Fecha de corte de inmigración: ACIS EOIR y teléfono
 nav: Corte de inmigración
-description: Corte de inmigración (o de migración): cómo ver su fecha de corte en ACIS o al 1-800-898-7180, qué pasa si no va, cambio de dirección y qué llevar.
+description: Cómo saber su fecha de corte de inmigración: portal ACIS de EOIR o línea 1-800-898-7180, qué pasa si no va, cambio de dirección y qué llevar.
 slug: corte-de-inmigracion
 mirror: immigration-court
 order: 3
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-09
 summary:
   - La corte de inmigración (EOIR), también llamada corte de migración, depende del Departamento de Justicia, no de USCIS ni de ICE.
   - Su próxima fecha de corte se consulta con el A-Number en el portal ACIS de EOIR o en la línea gratuita 1-800-898-7180 (24 horas, inglés y español).
@@ -27,7 +27,7 @@ sources:
   - American Immigration Council – "Access to Counsel in Immigration Court" (Eagly y Shafer)|https://www.americanimmigrationcouncil.org/research/access-counsel-immigration-court
   - EOIR – Guía en español sobre la Notificación de Comparecencia (Tribunal de Inmigración)|https://www.justice.gov/eoir/page/file/1480721/dl
 faq:
-  - ¿Cómo sé cuándo es mi fecha de corte de inmigración?|Busque su A-Number en el portal ACIS de EOIR (acis.eoir.justice.gov) o llame gratis al 1-800-898-7180, disponible las 24 horas en inglés y español. Si el sistema no encuentra un caso, es posible que su caso todavía no esté registrado en la corte.
+  - ¿Cómo saber mi fecha de corte de inmigración?|Consulte su A-Number en el portal ACIS de EOIR (acis.eoir.justice.gov) o llame gratis al 1-800-898-7180, las 24 horas, en inglés y español. Si no aparece un caso, puede que todavía no esté registrado en la corte.
   - ¿Qué pasa si no voy a la corte de inmigración?|El juez puede ordenar su deportación en ausencia si el gobierno demuestra que le envió el aviso a la última dirección que usted dio. Si además le advirtieron de las consecuencias, queda inelegible durante 10 años para alivios como la cancelación de deportación, la salida voluntaria o el ajuste de estatus.
   - ¿Se puede anular una orden de deportación en ausencia?|Sí, con una moción para reabrir. Debe presentarse dentro de 180 días si la falta se debió a circunstancias excepcionales, o en cualquier momento si no recibió el aviso o estaba detenido sin culpa suya. Presentarla suspende la deportación mientras el juez decide.
   - ¿Cómo cambio mi dirección en la corte de inmigración?|Presente el Formulario EOIR-33/IC ante la corte que lleva su caso dentro de 5 días después de mudarse. Si no lo hace, los avisos se envían a la dirección antigua y una audiencia perdida puede terminar en una orden en ausencia.
@@ -39,14 +39,16 @@ faq:
 <h2 id="que-es-la-corte-de-inmigracion">¿Qué es la corte de inmigración (EOIR)?</h2>
 <p>La corte de inmigración (en los documentos oficiales de EOIR en español, <strong>tribunal de inmigración</strong>; muchos la llaman corte de migración) es donde un juez decide si una persona puede quedarse en Estados Unidos o debe ser deportada. Forma parte de la <strong>Oficina Ejecutiva de Revisión de Inmigración (EOIR)</strong>, dentro del Departamento de Justicia. No es parte de ICE ni de USCIS: el juez es independiente del abogado del gobierno.</p>
 
-## Cómo ver mi fecha de corte {#como-ver-mi-fecha-de-corte}
+## ¿Cómo saber mi fecha de corte de inmigración? {#como-ver-mi-fecha-de-corte}
 
-EOIR ofrece dos vías gratuitas. En ambas necesita su **A-Number**, el número de registro que empieza por la letra A y aparece en el [Notice to Appear](/notice-to-appear/) y en toda la correspondencia de DHS y EOIR.
+Su **fecha de corte de inmigración** (próxima audiencia) se consulta gratis con su A-Number en el portal ACIS de EOIR o en la línea automatizada **1-800-898-7180**. Ambas vías dan fecha, hora y lugar; según EOIR, los avisos escritos de la corte siguen siendo la fuente oficial del estado del caso ([Check Case Status](https://www.justice.gov/eoir/check-case-status)).
 
-1. **En línea: portal ACIS.** Entre en [acis.eoir.justice.gov](https://acis.eoir.justice.gov/), acepte el aviso inicial, escriba su A-Number y envíe la consulta. El portal muestra información básica del caso principal más reciente, incluida la próxima audiencia. No muestra información de fianzas: para eso hay que contactar con la corte.
-2. **Por teléfono: 1-800-898-7180.** Es la línea automatizada de EOIR, gratuita, disponible las 24 horas, los 7 días de la semana, con menú en inglés y español. Indica la fecha, hora y lugar de la próxima audiencia, la decisión del juez y datos de apelaciones ante la BIA. Marque los 9 dígitos del A-Number sin la letra A; si su número tiene 8 dígitos, marque un 0 delante.
+EOIR ofrece dos vías. En ambas necesita su **A-Number**, el número de registro que empieza por la letra A y aparece en el [Notice to Appear](/notice-to-appear/) y en toda la correspondencia de DHS y EOIR.
 
-Si el sistema dice que no encuentra un caso con ese A-Number, revise que lo escribió bien. Puede que el gobierno todavía no haya registrado su caso en la corte; siga consultando con regularidad, porque la fecha puede fijarse o cambiar en cualquier momento.
+1. **En línea: portal ACIS.** Entre en [acis.eoir.justice.gov](https://acis.eoir.justice.gov/), acepte el aviso inicial, escriba su A-Number y envíe la consulta. El portal muestra información básica del caso principal más reciente, incluida la próxima audiencia. No muestra información de fianzas: para eso hay que contactar con la corte ([EOIR Case Information](https://www.justice.gov/eoir/eoir-case-information)).
+2. **Por teléfono: 1-800-898-7180** (también 304-625-2050; TDD 800-828-1120). Es la línea automatizada de EOIR, gratuita, disponible las 24 horas, los 7 días de la semana, con menú en inglés y español. Indica la fecha, hora y lugar de la próxima audiencia, la decisión del juez y datos de apelaciones ante la BIA. Marque los 9 dígitos del A-Number sin la letra A; si su número tiene 8 dígitos, marque un 0 delante ([Policy Manual ch. 1.5](https://www.justice.gov/eoir/policy-manual-eoir/part-I/chapter-1-5)).
+
+Si el sistema no encuentra un caso con ese A-Number, revise que lo escribió bien. Puede que el gobierno todavía no haya registrado su caso en la corte; siga consultando, porque la fecha puede fijarse o cambiar. El sistema no refleja una fecha nueva hasta que la corte la fija.
 
 ## Quién es quién en la sala
 
@@ -128,9 +130,9 @@ Un estudio de Ingrid Eagly y Steven Shafer publicado por el American Immigration
 
 ## Preguntas frecuentes
 
-### ¿Cómo sé cuándo es mi fecha de corte de inmigración?
+### ¿Cómo saber mi fecha de corte de inmigración?
 
-Busque su A-Number en el portal ACIS de EOIR (acis.eoir.justice.gov) o llame gratis al 1-800-898-7180, disponible las 24 horas en inglés y español. Si el sistema no encuentra un caso, es posible que su caso todavía no esté registrado en la corte.
+Consulte su A-Number en el portal ACIS de EOIR (acis.eoir.justice.gov) o llame gratis al 1-800-898-7180, las 24 horas, en inglés y español. Si no aparece un caso, puede que todavía no esté registrado en la corte.
 
 ### ¿Qué pasa si no voy a la corte de inmigración?
 
