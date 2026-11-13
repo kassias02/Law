@@ -23,6 +23,20 @@ EMAIL = "contact@deportationdefenselaw.com"
 OG_ALT = {"es": "Deportation Defense Law: guía clara sobre la corte de inmigración, la detención por ICE y sus defensas",
           "en": "Deportation Defense Law: plain-language guides to U.S. removal proceedings"}
 
+GTM_ID = "GTM-K3DJ2H2N"
+# Plain strings only: an f-string would treat the snippet's JS braces as format fields.
+GTM_HEAD = (
+    "<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':"
+    "new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],"
+    "j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src="
+    "'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);"
+    "})(window,document,'script','dataLayer','" + GTM_ID + "');</script>"
+)
+GTM_NOSCRIPT = (
+    '<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=' + GTM_ID + '" '
+    'height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>'
+)
+
 UI = {
     "es": dict(lang="es", dir="/", other="en", other_label="English", nav_home="Inicio",
                about="Sobre este sitio", contact="Hablar con un abogado", legal="Aviso legal",
@@ -198,6 +212,7 @@ def layout(page, pages, all_pages):
     return f'''<!doctype html>
 <html lang="{lang}">
 <head>
+{GTM_HEAD}
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 {robots_meta}<title>{esc(page_title)}</title>
@@ -221,6 +236,7 @@ def layout(page, pages, all_pages):
 <script type="application/ld+json">{json.dumps(ld, ensure_ascii=False)}</script>
 </head>
 <body>
+{GTM_NOSCRIPT}
 <a class="skip" href="#main">{ui["skip"]}</a>
 <header class="site-head">
   <a class="brand" href="{ui["dir"]}"><span class="brand-mark" aria-hidden="true"></span>Deportation Defense Law</a>
