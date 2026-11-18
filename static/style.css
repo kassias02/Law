@@ -55,13 +55,16 @@ main { padding: 1.5rem var(--pad) 3rem; max-width: 62rem; margin: 0 auto; }
 .hero p.lead { font-size: 1.2em; color: var(--ink-soft); }
 .triage { list-style: none; padding: 0; margin: 0 0 2.5rem; display: grid; gap: .75rem; max-width: none; }
 @media (min-width: 720px) { .triage { grid-template-columns: repeat(3, 1fr); } }
-.triage a {
-  display: block; text-decoration: none; padding: 1.25rem 1.25rem 1.1rem; min-height: 8.5rem;
+.triage li {
+  padding: 1.25rem 1.25rem 1.1rem; min-height: 8.5rem;
   border: 2px solid var(--ink); border-left-width: 10px; background: #fff; border-radius: 4px;
 }
-.triage a:hover, .triage a:focus-visible { border-color: var(--action); color: var(--ink); background: #f3faf6; }
+.triage li:hover, .triage li:focus-within { border-color: var(--action); background: #f3faf6; }
+.triage a { text-decoration: none; }
+.triage a:hover, .triage a:focus-visible { color: var(--action); }
 .triage strong { display: block; font-size: 1.25rem; margin-bottom: .3rem; }
-.triage span { color: var(--ink-soft); }
+.triage span { color: var(--ink-soft); display: block; }
+.triage .triage-extra { display: block; margin-top: .65rem; font-weight: 700; }
 
 .notice {
   border-left: 6px solid var(--alert); background: var(--alert-bg); padding: .9rem 1.1rem;
