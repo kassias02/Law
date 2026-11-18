@@ -5,7 +5,7 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-18
 byline: true
 faq:
   - ¿Qué pasa si falto a mi audiencia?|El juez puede ordenar su deportación en ausencia ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: 1-800-898-7180 o acis.eoir.justice.gov con su número A.
@@ -48,11 +48,11 @@ Cada una tiene requisitos estrictos y plazos. Un abogado con licencia puede deci
 
 En la corte de inmigración el gobierno tiene un abogado en su contra. Usted tiene derecho a uno, pero el gobierno no se lo paga. Los estudios del American Immigration Council muestran que las personas con representación legal tienen una probabilidad mucho mayor de ganar su caso, sobre todo si están detenidas.
 
-Si no puede pagar, existen organizaciones que ofrecen abogados gratuitos o de bajo costo. La corte le entrega una lista al inicio del proceso, y usted puede pedir tiempo para buscar uno.
+Si no puede pagar, existen organizaciones que ofrecen abogados gratuitos o de bajo costo. La corte le entrega una lista al inicio del proceso, y usted puede pedir tiempo para buscar uno. Antes de contratar, [verifique al abogado](/como-verificar-a-un-abogado/) en la barra de su estado y en las listas de EOIR.
 
-## Cuidado con los "notarios"
+## Cuidado con los "notarios" {#cuidado-con-los-notarios}
 
-En Estados Unidos un notario público **no** es abogado. Personas que se presentan como "notarios", "consultores de inmigración" o "preparadores" y cobran por llevar casos de deportación han causado la deportación de miles de familias. Solo un abogado con licencia o un representante acreditado por el Departamento de Justicia puede representarle ante la corte. Puede verificar a un abogado en la barra de abogados de su estado.
+En Estados Unidos un notario público **no** es abogado. Personas que se presentan como "notarios", "consultores de inmigración" o "preparadores" y cobran por llevar casos de deportación han causado la deportación de miles de familias. Solo un abogado con licencia o un representante acreditado por el Departamento de Justicia puede representarle ante la corte. Puede verificar a un abogado en la barra de abogados de su estado: vea [cómo verificar a un abogado de inmigración](/como-verificar-a-un-abogado/).
 
 ## Preguntas frecuentes
 

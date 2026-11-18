@@ -5,7 +5,7 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-18
 byline: true
 faq:
   - What happens if I miss my hearing?|The judge can order you removed in absentia that same day. Confirm your date through the EOIR automated system: 1-800-898-7180 or acis.eoir.justice.gov with your A-Number.
@@ -48,11 +48,11 @@ Each has strict requirements and deadlines. A licensed attorney can tell you whi
 
 In immigration court the government has a lawyer arguing for your removal. You have the right to counsel, but the government will not pay for it. Research published by the American Immigration Council found that represented people are far more likely to win relief, and the gap is widest for those in detention.
 
-If you cannot afford a lawyer, free and low-cost organizations exist. The court gives you a list at the start of your case, and you can ask for time to find one.
+If you cannot afford a lawyer, free and low-cost organizations exist. The court gives you a list at the start of your case, and you can ask for time to find one. Before you hire anyone, [verify the lawyer](/en/how-to-verify-an-immigration-lawyer/) with the state bar and EOIR lists.
 
-## Beware of "notarios"
+## Beware of "notarios" {#beware-of-notarios}
 
-In the United States a notary public is **not** a lawyer. People who present themselves as "notarios", "immigration consultants" or "preparers" and charge to handle removal cases have caused thousands of families to be deported. Only a licensed attorney or a DOJ-accredited representative can represent you in court. Verify any attorney through your state bar.
+In the United States a notary public is **not** a lawyer. People who present themselves as "notarios", "immigration consultants" or "preparers" and charge to handle removal cases have caused thousands of families to be deported. Only a licensed attorney or a DOJ-accredited representative can represent you in court. Verify any attorney through your state bar: see [how to verify an immigration lawyer](/en/how-to-verify-an-immigration-lawyer/).
 
 ## Common questions
 

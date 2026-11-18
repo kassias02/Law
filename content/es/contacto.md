@@ -5,13 +5,13 @@ mirror: contact
 type: page
 description: Formulario para que un abogado de inmigración con licencia le contacte sobre su caso. Gratis y sin compromiso. Este sitio no es un bufete.
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-11-18
 ---
 <div class="notice">
 <p><strong>Si tiene una audiencia en menos de 72 horas o un familiar detenido, llame directamente a un abogado.</strong> Un formulario puede tardar horas en responderse. Puede encontrar organizaciones que dan ayuda gratuita en la <a href="https://www.justice.gov/eoir/list-pro-bono-legal-service-providers" rel="noopener nofollow">lista oficial de EOIR</a>.</p>
 </div>
 
-Cuéntenos lo básico y pasamos su caso a un abogado de inmigración con licencia que atienda su zona. No cobramos nada y usted no queda obligado a contratar a nadie.
+Cuéntenos lo básico y pasamos su caso a un abogado de inmigración con licencia que atienda su zona. No cobramos nada y usted no queda obligado a contratar a nadie. Antes de firmar, puede [verificar a un abogado de inmigración](/como-verificar-a-un-abogado/) en la barra de su estado y en las listas de EOIR.
 
 <form name="caso" method="POST" data-netlify="true" netlify-honeypot="empresa" action="/gracias/">
   <input type="hidden" name="form-name" value="caso">

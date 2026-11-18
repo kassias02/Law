@@ -148,6 +148,15 @@ def layout(page, pages, all_pages):
             "publisher": {"@type": "Organization", "name": "Deportation Defense Law", "url": SITE},
             "mainEntityOfPage": canonical
         })
+        home = SITE + ("/" if lang == "es" else "/en/")
+        ld.append({
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "Inicio" if lang == "es" else "Home", "item": home},
+                {"@type": "ListItem", "position": 2, "name": title, "item": canonical},
+            ],
+        })
     about_url = SITE + ("/sobre/" if lang=="es" else "/en/about/")
     if page.get("byline") and (is_index or page.get("type") == "page"):
         pub = {"@type": "Organization", "name": "Deportation Defense Law", "url": SITE}
