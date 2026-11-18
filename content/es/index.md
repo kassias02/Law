@@ -49,11 +49,11 @@ Cada una tiene requisitos estrictos y plazos. Un abogado con licencia puede deci
 
 En la corte de inmigración el gobierno tiene un abogado en su contra. Usted tiene derecho a uno, pero el gobierno no se lo paga. Un estudio del [American Immigration Council](https://www.americanimmigrationcouncil.org/report/access-counsel-immigration-court/) sobre más de 1,2 millones de casos de deportación decididos entre 2007 y 2012 halló que las personas detenidas con abogado tuvieron **diez veces y media más probabilidades** de lograr un resultado favorable (terminación del caso o alivio) que las detenidas sin representación.
 
-Si no puede pagar, existen organizaciones que ofrecen abogados gratuitos o de bajo costo. La corte le entrega una lista al inicio del proceso, y usted puede pedir tiempo para buscar uno.
+Si no puede pagar, existen organizaciones que ofrecen abogados gratuitos o de bajo costo. La corte le entrega una lista al inicio del proceso, y usted puede pedir tiempo para buscar uno. Antes de contratar, [verifique al abogado](/como-verificar-a-un-abogado/) en la barra de su estado y en las listas de EOIR.
 
-## Cuidado con los "notarios"
+## Cuidado con los "notarios" {#cuidado-con-los-notarios}
 
-En Estados Unidos un notario público **no** es abogado. Personas que se presentan como "notarios", "consultores de inmigración" o "preparadores" y cobran por llevar casos de deportación han causado la deportación de miles de familias. Solo un abogado con licencia o un representante acreditado por el Departamento de Justicia puede representarle ante la corte. Puede verificar a un abogado en la barra de abogados de su estado.
+En Estados Unidos un notario público **no** es abogado. Personas que se presentan como "notarios", "consultores de inmigración" o "preparadores" y cobran por llevar casos de deportación han causado la deportación de miles de familias. Solo un abogado con licencia o un representante acreditado por el Departamento de Justicia puede representarle ante la corte. Puede verificar a un abogado en la barra de abogados de su estado: vea [cómo verificar a un abogado de inmigración](/como-verificar-a-un-abogado/).
 
 ## Preguntas frecuentes
 

@@ -49,11 +49,11 @@ Each has strict requirements and deadlines. A licensed attorney can tell you whi
 
 In immigration court the government has a lawyer arguing for your removal. You have the right to counsel, but the government will not pay for it. A study published by the [American Immigration Council](https://www.americanimmigrationcouncil.org/report/access-counsel-immigration-court/) of more than 1.2 million removal cases decided between 2007 and 2012 found that detained people with a lawyer were **ten-and-a-half times more likely** to succeed (case termination or relief) than detained people without representation.
 
-If you cannot afford a lawyer, free and low-cost organizations exist. The court gives you a list at the start of your case, and you can ask for time to find one.
+If you cannot afford a lawyer, free and low-cost organizations exist. The court gives you a list at the start of your case, and you can ask for time to find one. Before you hire anyone, [verify the lawyer](/en/how-to-verify-an-immigration-lawyer/) with the state bar and EOIR lists.
 
-## Beware of "notarios"
+## Beware of "notarios" {#beware-of-notarios}
 
-In the United States a notary public is **not** a lawyer. People who present themselves as "notarios", "immigration consultants" or "preparers" and charge to handle removal cases have caused thousands of families to be deported. Only a licensed attorney or a DOJ-accredited representative can represent you in court. Verify any attorney through your state bar.
+In the United States a notary public is **not** a lawyer. People who present themselves as "notarios", "immigration consultants" or "preparers" and charge to handle removal cases have caused thousands of families to be deported. Only a licensed attorney or a DOJ-accredited representative can represent you in court. Verify any attorney through your state bar: see [how to verify an immigration lawyer](/en/how-to-verify-an-immigration-lawyer/).
 
 ## Common questions
 

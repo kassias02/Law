@@ -5,13 +5,13 @@ mirror: contacto
 type: page
 description: Send your case to a licensed immigration attorney. Free, no obligation. This site is not a law firm.
 date: 2026-09-16
-updated: 2026-09-16
+updated: 2026-11-18
 ---
 <div class="notice">
 <p><strong>If you have a hearing within 72 hours or a relative in detention, call an attorney directly.</strong> A form can take hours to be answered. Free legal help is listed on the <a href="https://www.justice.gov/eoir/list-pro-bono-legal-service-providers" rel="noopener nofollow">official EOIR list of pro bono providers</a>.</p>
 </div>
 
-Tell us the basics and we pass your case to a licensed immigration attorney covering your area. There is no cost to you and no obligation to hire anyone.
+Tell us the basics and we pass your case to a licensed immigration attorney covering your area. There is no cost to you and no obligation to hire anyone. Before you sign anything, you can [verify an immigration lawyer](/en/how-to-verify-an-immigration-lawyer/) with the state bar and EOIR lists.
 
 <form name="case" method="POST" data-netlify="true" netlify-honeypot="company" action="/en/thank-you/">
   <input type="hidden" name="form-name" value="case">
