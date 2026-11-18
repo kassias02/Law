@@ -1,12 +1,12 @@
 ---
-title: ICE detainee search: Online Detainee Locator System
-seo_title: ICE detainee search / Online Detainee Locator System
+title: ICE detainee locator: how to find someone detained
+seo_title: ICE Detainee Locator: How to Find Someone in ICE Detention
 nav: Find a detainee
-description: ICE detainee search with the Online Detainee Locator System (locator.ice.gov): A-Number or name, what to do if no match, calls, and first steps.
+description: ICE detainee locator at locator.ice.gov: search by A-Number or full name plus country of birth, and what to do if there is no result.
 slug: find-someone-detained-by-ice
 mirror: como-saber-si-mi-familiar-esta-detenido
 date: 2026-09-16
-updated: 2026-11-09
+updated: 2026-11-18
 summary:
   - ICE Online Detainee Locator System (ICE detainee search) at locator.ice.gov: search by A-Number and country of birth, or by exact first and last name and country of birth. Date of birth is optional.
   - According to ICE, the data may be up to eight hours old, and the locator does not show transfers in progress.
@@ -14,15 +14,30 @@ summary:
   - People under 18 do not appear in the locator and are handled through a separate process.
 sources:
   - ICE – Online Detainee Locator System|https://locator.ice.gov/
+  - ICE – Attorney information (ODLS)|https://www.ice.gov/detain/attorney-information-resources
+  - ICE – ODLS brochure|https://www.ice.gov/doclib/news/library/factsheets/pdf/odls-brochure.pdf
   - ICE – Detention facility directory|https://www.ice.gov/detention-facilities
   - ICE – ERO field offices|https://www.ice.gov/contact/field-offices
   - EOIR – List of pro bono legal service providers|https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
 faq:
+  - How do I use the ICE detainee locator?|Go to locator.ice.gov and search by A-Number and country of birth, or by exact first and last name and country of birth. Date of birth is optional. ICE recommends the A-Number search.
+  - What if the ICE detainee locator does not show the person?|Contact the ICE Enforcement and Removal Operations field office for the area where the immigration case was initiated. People under 18 do not appear, and some records are not entered immediately after an arrest.
   - How do I do an ICE detainee search?|Use ICE's Online Detainee Locator System at locator.ice.gov with the A-Number and country of birth, or the exact first and last name and country of birth. Date of birth is optional. The system covers people in ICE custody or in CBP custody for more than 48 hours.
   - Why does my relative not show up in the ICE locator?|They may have been in CBP custody for less than 48 hours, be in a local jail, be under 18, or their details may be recorded differently. Try name variants, check the country of birth, or search by A-Number.
   - Can I call someone detained by ICE?|Usually not inbound. The detained person calls out, collect or from a prepaid account. Keep credit on your phone and accept unknown numbers.
   - How do I find which immigration court has the case?|With the A-Number, check the EOIR system at 1-800-898-7180 or acis.eoir.justice.gov.
 ---
+## How do I use the ICE detainee locator?
+
+The **ICE detainee locator** is ICE's public **Online Detainee Locator System (ODLS)** at **[locator.ice.gov](https://locator.ice.gov/)**. Search by A-Number and country of birth — the method ICE recommends — or by exact first and last name and country of birth (date of birth is optional). It covers people in ICE custody, or in CBP custody for more than 48 hours.
+
+1. Open the official locator at [locator.ice.gov](https://locator.ice.gov/).
+2. If you have the A-Number, enter the nine digits (add zeros at the beginning if it has fewer) and select the country of birth.
+3. If you do not have the A-Number, enter the exact first name, last name and country of birth. Date of birth is optional.
+4. If there is no match, re-check the spelling and country of birth, try name variants, or use the other search method.
+
+If the person still does not appear, ICE says some people are left out of the system, including anyone **under 18**, and that a record may not be entered immediately after an arrest ([ICE attorney resources](https://www.ice.gov/detain/attorney-information-resources)). Contact the ICE Enforcement and Removal Operations (**ERO**) field office for the area where the immigration case was initiated, using the official [ICE field offices](https://www.ice.gov/contact/field-offices) directory.
+
 ## How to run an ICE detainee search (Online Detainee Locator System)
 
 An **ICE detainee search** uses ICE's public **Online Detainee Locator System (ODLS)** at **[locator.ice.gov](https://locator.ice.gov/)**. ICE describes it as the way for family, lawyers and the public to locate someone currently in ICE custody, or in CBP custody for more than 48 hours ([ICE attorney resources](https://www.ice.gov/detain/attorney-information-resources)). There are two ways to search.
@@ -95,6 +110,14 @@ If you cannot afford a lawyer, the [EOIR list of free providers](https://www.jus
 <ul class="article-list"><li><a href="/en/immigration-bond/">How to request an immigration bond</a></li><li><a href="/en/how-much-is-an-immigration-bond/">How much an immigration bond costs</a></li><li><a href="/en/how-long-can-ice-detain-someone/">How long ICE can detain someone</a></li><li><a href="/en/mandatory-detention-no-bond/">Who is not eligible for bond (mandatory detention)</a></li><li><a href="/en/what-happens-after-an-ice-arrest/">What happens after an ICE arrest</a></li></ul>
 
 ## Frequently asked questions
+
+### How do I use the ICE detainee locator?
+
+Go to locator.ice.gov and search by A-Number and country of birth, or by exact first and last name and country of birth. Date of birth is optional. ICE recommends the A-Number search.
+
+### What if the ICE detainee locator does not show the person?
+
+Contact the ICE Enforcement and Removal Operations field office for the area where the immigration case was initiated. People under 18 do not appear, and some records are not entered immediately after an arrest.
 
 ### How do I do an ICE detainee search?
 
