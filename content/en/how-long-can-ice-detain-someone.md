@@ -5,7 +5,7 @@ description: How long ICE can hold someone before a bond hearing: what the statu
 slug: how-long-can-ice-detain-someone
 mirror: cuanto-tiempo-puede-ice-detener-a-un-inmigrante
 date: 2026-10-28
-updated: 2026-11-04
+updated: 2026-11-18
 summary:
   - As of October 28, 2026, no statute or regulation sets a number of days within which a bond hearing must take place.
   - Someone detained under INA § 236(a) can ask an immigration judge for a bond hearing at any time before a final order.
@@ -96,7 +96,7 @@ If removal is not reasonably foreseeable, the person can ask DHS to review it. U
 
 ## What can the family do in the meantime?
 
-- **Locate the person** and write down their A-Number: see [how to find someone detained by ICE](/en/find-someone-detained-by-ice/).
+- **Locate the person** and write down their A-Number: see the [ICE detainee locator](/en/find-someone-detained-by-ice/).
 - **Ask ICE** whether it set a bond, and which provision it says the person is held under.
 - **If bond is possible**, gather evidence of ties for the hearing and see [how much an immigration bond costs](/en/how-much-is-an-immigration-bond/).
 - **If ICE says it is mandatory detention**, talk to a lawyer quickly: in some circuits, detained people have obtained hearings through *habeas corpus* in federal court.

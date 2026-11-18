@@ -5,7 +5,7 @@ description: Cómo usar el localizador de ICE, qué hacer si la persona no apare
 slug: como-saber-si-mi-familiar-esta-detenido
 mirror: find-someone-detained-by-ice
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-18
 summary:
   - Use el localizador oficial en locator.ice.gov: con el número A y el país de nacimiento, o con el nombre y apellido exactos y el país de nacimiento. La fecha de nacimiento es opcional.
   - Según ICE, los datos pueden tener hasta ocho horas de retraso y el localizador no muestra los traslados en curso.
@@ -21,9 +21,9 @@ faq:
   - ¿Puedo llamar a un detenido por ICE?|Normalmente no se puede llamar hacia dentro. La persona llama hacia fuera, por cobrar o con una cuenta prepagada. Acepte llamadas de números desconocidos y deje siempre saldo en su teléfono.
   - ¿Cómo sé a qué corte de inmigración fue asignado?|Con su número A, consulte el sistema de EOIR en el 1-800-898-7180 o en acis.eoir.justice.gov.
 ---
-## Empiece por el localizador oficial
+## Empiece por el localizador de detenidos de ICE
 
-ICE mantiene un buscador público en **[locator.ice.gov](https://locator.ice.gov/)**. Hay dos formas de buscar:
+ICE mantiene el **localizador de detenidos de ICE** (Online Detainee Locator System) en **[locator.ice.gov](https://locator.ice.gov/)**. Hay dos formas de buscar:
 
 **Por número A.** ICE la recomienda porque da mejores resultados. Se escriben los nueve dígitos, sin la "A"; si el número tiene menos, se agregan ceros al principio (por ejemplo, 012345678). También es obligatorio elegir el país de nacimiento correcto.
 
