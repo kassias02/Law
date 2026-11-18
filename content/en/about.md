@@ -5,7 +5,7 @@ mirror: sobre
 type: page
 description: Who edits Deportation Defense Law, where the information comes from, how it is reviewed, and our relationship with the attorneys we connect you to.
 date: 2026-09-16
-updated: 2026-10-13
+updated: 2026-11-18
 byline: true
 schema: AboutPage
 ---
@@ -25,7 +25,7 @@ Every guide is written from primary sources, cited with direct links at the foot
 - Published decisions of the **Supreme Court** and the **Board of Immigration Appeals**.
 - Research from established organizations such as the American Immigration Council.
 
-Pages carry a last-reviewed date. Immigration law moves fast, especially on detention and bond: if a page has not been reviewed in months, treat it as a starting point and confirm with an attorney.
+Pages are reviewed when the official rule or guidance they rely on changes, and when a reader flags an error. Each page shows its last-reviewed date. Immigration law moves fast, especially on detention and bond: if that date is several months old, treat the page as a starting point and confirm with an attorney.
 
 <h2 id="editorial-method">Editorial method and legal identity</h2>
 <p>We base our content on official sources: the Executive Office for Immigration Review (<a href="https://www.justice.gov/eoir" rel="noopener nofollow">EOIR, justice.gov/eoir</a>), U.S. Citizenship and Immigration Services (<a href="https://www.uscis.gov/" rel="noopener nofollow">USCIS, uscis.gov</a>), U.S. Immigration and Customs Enforcement (<a href="https://www.ice.gov/" rel="noopener nofollow">ICE, ice.gov</a>) and Title 8 of the Code of Federal Regulations (<a href="https://www.ecfr.gov/current/title-8" rel="noopener nofollow">8 C.F.R., ecfr.gov</a>). Every guide links its sources at the foot of the page and shows its last-reviewed date.</p>
