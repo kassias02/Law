@@ -1,11 +1,11 @@
 ---
 title: Defensa contra la deportación en Estados Unidos: qué hacer hoy
-description: Guía en español sobre el proceso de deportación: Notice to Appear, detención por ICE, fianza, corte de inmigración y abogados con licencia.
+description: Defensa contra la deportación en Estados Unidos: Notice to Appear, detención por ICE, fianza y corte de inmigración. Fuentes oficiales.
 slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-18
 byline: true
 faq:
   - ¿Qué pasa si falto a mi audiencia?|El juez puede ordenar su deportación en ausencia ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: 1-800-898-7180 o acis.eoir.justice.gov con su número A.
@@ -21,7 +21,8 @@ faq:
 <h2 style="margin-top:0">¿Cuál es su situación?</h2>
 <ul class="triage">
 <li><a href="/notice-to-appear/"><strong>Recibí una carta de la corte</strong><span>Un Notice to Appear (NTA) o una cita para una audiencia. Qué significa y qué plazos corren.</span></a></li>
-<li><a href="/fianza-de-inmigracion/"><strong>Un familiar está detenido por ICE</strong><span>Cómo localizarlo, si puede pedir fianza y qué hacer en las primeras 48 horas.</span></a></li>
+<li><a href="/fianza-de-inmigracion/"><strong>Un familiar está detenido por ICE</strong><span>Cómo localizarlo, si puede pedir fianza y qué hacer en las primeras 48 horas.</span></a>
+<a class="triage-extra" href="/como-saber-si-mi-familiar-esta-detenido/">Localizar a un familiar detenido por ICE</a></li>
 <li><a href="/corte-de-inmigracion/"><strong>Tengo fecha de corte</strong><span>Cómo funciona una audiencia, qué le va a preguntar el juez y qué pasa si no va.</span></a></li>
 </ul>
 
@@ -46,7 +47,7 @@ Cada una tiene requisitos estrictos y plazos. Un abogado con licencia puede deci
 
 ## Por qué importa tener abogado
 
-En la corte de inmigración el gobierno tiene un abogado en su contra. Usted tiene derecho a uno, pero el gobierno no se lo paga. Los estudios del American Immigration Council muestran que las personas con representación legal tienen una probabilidad mucho mayor de ganar su caso, sobre todo si están detenidas.
+En la corte de inmigración el gobierno tiene un abogado en su contra. Usted tiene derecho a uno, pero el gobierno no se lo paga. Un estudio del [American Immigration Council](https://www.americanimmigrationcouncil.org/report/access-counsel-immigration-court/) sobre más de 1,2 millones de casos de deportación decididos entre 2007 y 2012 halló que las personas detenidas con abogado tuvieron **diez veces y media más probabilidades** de lograr un resultado favorable (terminación del caso o alivio) que las detenidas sin representación.
 
 Si no puede pagar, existen organizaciones que ofrecen abogados gratuitos o de bajo costo. La corte le entrega una lista al inicio del proceso, y usted puede pedir tiempo para buscar uno.
 
@@ -76,4 +77,4 @@ Las más comunes son la cancelación de deportación, el asilo defensivo con ret
 
 ## Sobre este sitio
 
-Deportation Defense Law es un recurso informativo editado por [Hassan Benmouloud](/sobre/). No es un bufete de abogados. La información viene de fuentes oficiales (EOIR, USCIS, ICE y el Código de Regulaciones Federales) y se revisa periódicamente. Cuando nos escribe, le ponemos en contacto con abogados de inmigración con licencia que atienden en español.
+Deportation Defense Law es un recurso informativo editado por [Hassan Benmouloud](/sobre/). No es un bufete de abogados. La información viene de fuentes oficiales (EOIR, USCIS, ICE y el Código de Regulaciones Federales) y se revisa cuando cambia la norma o la guía oficial; cada página muestra la fecha de su última revisión. Cuando nos escribe, le ponemos en contacto con abogados de inmigración con licencia que atienden en español.

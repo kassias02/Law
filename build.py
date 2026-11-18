@@ -133,29 +133,62 @@ def layout(page, pages, all_pages):
         return '<li><a href="' + p["url"] + '"' + cur + '>' + label + '</a></li>'
     nav_guides = "".join(nav_item(p) for p in guides(pages))
 
+    def organization():
+        # No street address or sameAs: those are not published as structured facts.
+        # og.png is a social image, not a dedicated logo file, so logo is omitted.
+        return {
+            "@type": "Organization",
+            "@id": SITE + "/#organization",
+            "name": "Deportation Defense Law",
+            "legalName": "Loom Digital LLC",
+            "url": SITE,
+            "contactPoint": {
+                "@type": "ContactPoint",
+                "email": EMAIL,
+                "contactType": "customer service",
+            },
+        }
+
+    def breadcrumbs():
+        home = SITE + ("/" if lang == "es" else "/en/")
+        return {
+            "@context": "https://schema.org",
+            "@type": "BreadcrumbList",
+            "itemListElement": [
+                {"@type": "ListItem", "position": 1, "name": "Inicio" if lang == "es" else "Home", "item": home},
+                {"@type": "ListItem", "position": 2, "name": title, "item": canonical},
+            ],
+        }
+
     # JSON-LD
-    ld = [{
-        "@context": "https://schema.org", "@type": "WebSite", "name": "Deportation Defense Law",
-        "url": SITE, "inLanguage": ["es", "en"],
-        "publisher": {"@type": "Organization", "name": "Deportation Defense Law", "url": SITE}
-    }]
+    org = organization()
+    ld = [
+        {"@context": "https://schema.org", **org},
+        {
+            "@context": "https://schema.org", "@type": "WebSite", "name": "Deportation Defense Law",
+            "url": SITE, "inLanguage": ["es", "en"],
+            "publisher": {"@id": org["@id"]},
+        },
+    ]
     if not is_index and page.get("type", "guide") == "guide":
         ld.append({
             "@context": "https://schema.org", "@type": "Article", "headline": title,
             "description": desc, "inLanguage": lang, "url": canonical,
             "datePublished": date, "dateModified": updated,
             "author": {"@type": "Person", "name": AUTHOR, "url": SITE + ("/sobre/" if lang=="es" else "/en/about/")},
-            "publisher": {"@type": "Organization", "name": "Deportation Defense Law", "url": SITE},
+            "publisher": {"@id": org["@id"]},
             "mainEntityOfPage": canonical
         })
     about_url = SITE + ("/sobre/" if lang=="es" else "/en/about/")
     if page.get("byline") and (is_index or page.get("type") == "page"):
-        pub = {"@type": "Organization", "name": "Deportation Defense Law", "url": SITE}
-        if page.get("schema") == "AboutPage":
-            pub = {"@type": "Organization", "name": "Deportation Defense Law", "legalName": "Loom Digital LLC", "url": SITE}
         ld.append({"@context": "https://schema.org", "@type": page.get("schema") or "WebPage", "url": canonical,
                    "inLanguage": lang, "dateModified": updated,
-                   "author": {"@type": "Person", "name": AUTHOR, "url": about_url}, "publisher": pub})
+                   "author": {"@type": "Person", "name": AUTHOR, "url": about_url}, "publisher": {"@id": org["@id"]}})
+    elif page.get("slug") in ("contacto", "contact"):
+        ld.append({"@context": "https://schema.org", "@type": "ContactPage", "url": canonical,
+                   "inLanguage": lang, "name": title, "publisher": {"@id": org["@id"]}})
+    if page.get("slug") in ("sobre", "about", "contacto", "contact"):
+        ld.append(breadcrumbs())
     if page.get("faq"):
             ld.append({"@context": "https://schema.org", "@type": "FAQPage",
                        "mainEntity": [{"@type": "Question", "name": q, "acceptedAnswer": {"@type": "Answer", "text": a}}
