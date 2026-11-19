@@ -5,7 +5,7 @@ description: Qué pasa después de un arresto de ICE: la decisión de custodia e
 slug: que-pasa-despues-de-un-arresto-de-ice
 mirror: what-happens-after-an-ice-arrest
 date: 2026-10-28
-updated: 2026-11-04
+updated: 2026-11-19
 summary:
   - Tras un arresto sin orden judicial, el reglamento exige que ICE decida en 48 horas si la persona sigue detenida o sale con fianza o bajo palabra, salvo emergencia o circunstancia extraordinaria.
   - Si la persona estaba en una cárcel local con un detainer de ICE, el reglamento habla de un máximo de 48 horas sin contar sábados, domingos ni feriados. La página de ICE dice "hasta 48 horas".
@@ -94,7 +94,7 @@ Lista para la familia:
 6. **Busque abogado:** EOIR publica una [lista de proveedores de servicios legales gratuitos](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) por estado.
 7. **El lunes a primera hora:** llame a la línea DRIL (1-888-351-4024) o a la [oficina de campo de ERO](https://www.ice.gov/contact/field-offices) que corresponde al centro de detención, y pregunte si ICE fijó fianza y bajo qué artículo considera detenida a la persona.
 
-Si aún no ha pasado nada y quiere prepararse, vea [qué hacer si ICE llega a su casa](/que-hacer-si-ice-llega-a-mi-casa/).
+Si aún no ha pasado nada y quiere prepararse, vea [qué hacer si ICE llega a su casa](/que-hacer-si-ice-llega-a-mi-casa/). Sobre cuentas, retiro e impuestos en caso de expulsión, vea [qué pasa con su dinero y cuentas si lo deportan](/deportacion-dinero-y-cuentas/).
 
 ## ¿Qué no conviene hacer después del arresto?
 

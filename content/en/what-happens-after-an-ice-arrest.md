@@ -5,7 +5,7 @@ description: What happens after an ICE arrest: the 48-hour custody decision, jai
 slug: what-happens-after-an-ice-arrest
 mirror: que-pasa-despues-de-un-arresto-de-ice
 date: 2026-10-28
-updated: 2026-11-04
+updated: 2026-11-19
 summary:
   - After a warrantless arrest, the regulation requires a decision within 48 hours on whether the person stays in custody or is released on bond or recognizance, except in an emergency or other extraordinary circumstance.
   - If the person was in a local jail with an ICE detainer, the regulation refers to a maximum of 48 hours excluding Saturdays, Sundays and holidays. ICE's web page says "up to 48 hours."
@@ -94,7 +94,7 @@ A checklist:
 6. **Look for a lawyer:** EOIR publishes a [list of free legal service providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers) by state.
 7. **First thing Monday:** call the DRIL line (1-888-351-4024) or the [ERO field office](https://www.ice.gov/contact/field-offices) for the detention facility, and ask whether ICE set a bond and which provision it says the person is held under.
 
-If nothing has happened yet and you want to prepare, see [what to do if ICE comes to your door](/en/what-to-do-if-ice-comes/).
+If nothing has happened yet and you want to prepare, see [what to do if ICE comes to your door](/en/what-to-do-if-ice-comes/). For accounts, retirement funds, and taxes if someone is removed, see [what happens to your money and accounts if you are deported](/en/deportation-money-and-bank-accounts/).
 
 ## What should you avoid after the arrest?
 

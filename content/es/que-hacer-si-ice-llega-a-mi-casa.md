@@ -5,7 +5,7 @@ description: Sus derechos si ICE llega a su casa o su trabajo: orden judicial vs
 slug: que-hacer-si-ice-llega-a-mi-casa
 mirror: what-to-do-if-ice-comes
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-19
 summary:
   - No tiene que abrir la puerta salvo que los agentes tengan una orden firmada por un juez, con su nombre y dirección.
   - Una orden administrativa de ICE (Formularios I-200 o I-205) no autoriza a entrar en su casa sin su permiso.
@@ -16,10 +16,18 @@ sources:
   - Constitución de EE. UU., Quinta Enmienda – Derecho a guardar silencio|https://constitution.congress.gov/constitution/amendment-5/
   - ICE – Formularios y procedimientos de ERO|https://www.ice.gov/ero
   - EOIR – Lista de proveedores de servicios legales gratuitos|https://www.justice.gov/eoir/list-pro-bono-legal-service-providers
+  - 8 C.F.R. § 287.8 – Normas de las actividades de aplicación (eCFR)|https://www.ecfr.gov/current/title-8/chapter-I/subchapter-B/part-287/section-287.8
+  - 8 U.S.C. § 1357 – Facultades de los oficiales de inmigración (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIX-sec1357.htm
+  - Directiva ICE 16001.2 – Investigating the Potential U.S. Citizenship of Individuals Encountered by ICE (PDF)|https://www.ice.gov/sites/default/files/documents/Document/2017/16001.2.pdf
+  - 8 U.S.C. § 1101(a)(3) – Definición de alien (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapI-sec1101.htm
+  - 8 U.S.C. § 1227 – Extranjeros deportables (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1227.htm
 faq:
   - ¿Tengo que abrir la puerta a ICE?|No, salvo que tengan una orden de registro firmada por un juez con su nombre y su dirección. Pídales que la pasen por debajo de la puerta o la muestren por la ventana antes de decidir.
   - ¿Cómo distingo una orden judicial de una administrativa?|Una orden judicial lleva el nombre de una corte ("U.S. District Court") y la firma de un juez. Las órdenes administrativas de ICE (I-200, I-205) están firmadas por un oficial de inmigración y no autorizan la entrada a un domicilio.
   - ¿Qué pasa si firmo papeles sin abogado?|Puede estar renunciando a su derecho a ver a un juez o aceptando una salida voluntaria. Algunos de esos documentos son muy difíciles de deshacer.
+  - ¿Puede ICE detenerlo en la calle y pedirle identificación?|Un oficial de inmigración puede hacer preguntas si no le impide irse, según 8 C.F.R. 287.8(b)(1). Para retenerlo brevemente se necesita sospecha razonable, basada en hechos concretos y articulables, de que está cometiendo un delito contra Estados Unidos o de que es un extranjero ilegalmente en el país (8 C.F.R. 287.8(b)(2)). El 8 U.S.C. 1357(a)(1) autoriza a interrogar, sin orden, a un extranjero o a una persona que se cree extranjera sobre su derecho a estar o permanecer en Estados Unidos. La Cuarta Enmienda protege frente a registros y detenciones irrazonables, y la Quinta Enmienda incluye el derecho a guardar silencio. Una orden judicial la firma un juez; una orden administrativa de ICE (I-200 o I-205) la firma un oficial de inmigración y no autoriza entrar en un domicilio sin consentimiento.
+  - ¿Puede ICE pararlo o detenerlo si es ciudadano de EE. UU.?|La Directiva 16001.2 de ICE afirma que, como cuestión de derecho, ICE no puede ejercer su autoridad civil de inmigración para arrestar o detener a un ciudadano de EE. UU. Eso no impide que un oficial haga preguntas si usted es libre de irse, como distingue 8 C.F.R. 287.8(b)(1). Una retención breve para interrogar, bajo 8 C.F.R. 287.8(b)(2), exige sospecha razonable de que la persona está cometiendo un delito contra Estados Unidos o es un extranjero ilegalmente en el país.
+  - ¿Puede ICE deportar a un ciudadano de EE. UU.?|La autoridad civil de remoción se aplica a extranjeros, no a ciudadanos. El 8 U.S.C. 1101(a)(3) define "alien" (extranjero) como cualquier persona que no es ciudadano o nacional de Estados Unidos, y el 8 U.S.C. 1227 describe las clases de extranjeros deportables. La Directiva 16001.2 de ICE afirma que, como cuestión de derecho, ICE no puede ejercer su autoridad civil de inmigración para arrestar o detener a un ciudadano de EE. UU.
 ---
 Esta página explica derechos que existen para cualquier persona en Estados Unidos, sin importar su estatus migratorio. No es asesoría legal para su caso.
 
@@ -76,7 +84,7 @@ Esto es lo que realmente cambia el resultado:
 - **Una persona de confianza** designada por escrito para recoger a los niños en la escuela, con autorización en el centro escolar.
 - **Documentos reunidos y copiados**: pasaportes, actas de nacimiento de los hijos, comprobantes de domicilio, impuestos, expedientes médicos. Deje copias con alguien de confianza.
 - **Los números A** de cada miembro de la familia, anotados fuera de casa.
-- **Una carta poder** para decisiones sobre los hijos y las finanzas, preparada con un abogado.
+- **Una carta poder** para decisiones sobre los hijos y las finanzas, preparada con un abogado. Sobre las reglas oficiales del IRS y la FDIC acerca de [qué pasa con su dinero y cuentas si lo deportan](/deportacion-dinero-y-cuentas/), vea esa guía.
 
 Si alguien de su familia es detenido, vea [qué pasa después de un arresto de ICE](/que-pasa-despues-de-un-arresto-de-ice/). El siguiente paso es [localizarlo en el sistema de ICE](/como-saber-si-mi-familiar-esta-detenido/) y, si es posible, pedir una [fianza](/fianza-de-inmigracion/) (vea [cuánto cuesta una fianza de inmigración](/cuanto-cuesta-una-fianza-de-inmigracion/)). No todos pueden obtenerla: vea [quién no tiene derecho a fianza](/detencion-obligatoria-sin-fianza/).
 
@@ -96,5 +104,17 @@ Una orden judicial lleva el nombre de una corte ("U.S. District Court") y la fir
 ### ¿Qué pasa si firmo papeles sin abogado?
 
 Puede estar renunciando a su derecho a ver a un juez o aceptando una salida voluntaria. Algunos de esos documentos son muy difíciles de deshacer.
+
+### ¿Puede ICE detenerlo en la calle y pedirle identificación?
+
+Un oficial de inmigración puede hacer preguntas si no le impide irse, según 8 C.F.R. 287.8(b)(1). Para retenerlo brevemente se necesita sospecha razonable, basada en hechos concretos y articulables, de que está cometiendo un delito contra Estados Unidos o de que es un extranjero ilegalmente en el país (8 C.F.R. 287.8(b)(2)). El 8 U.S.C. 1357(a)(1) autoriza a interrogar, sin orden, a un extranjero o a una persona que se cree extranjera sobre su derecho a estar o permanecer en Estados Unidos. La Cuarta Enmienda protege frente a registros y detenciones irrazonables, y la Quinta Enmienda incluye el derecho a guardar silencio. Una orden judicial la firma un juez; una orden administrativa de ICE (I-200 o I-205) la firma un oficial de inmigración y no autoriza entrar en un domicilio sin consentimiento.
+
+### ¿Puede ICE pararlo o detenerlo si es ciudadano de EE. UU.?
+
+La Directiva 16001.2 de ICE afirma que, como cuestión de derecho, ICE no puede ejercer su autoridad civil de inmigración para arrestar o detener a un ciudadano de EE. UU. Eso no impide que un oficial haga preguntas si usted es libre de irse, como distingue 8 C.F.R. 287.8(b)(1). Una retención breve para interrogar, bajo 8 C.F.R. 287.8(b)(2), exige sospecha razonable de que la persona está cometiendo un delito contra Estados Unidos o es un extranjero ilegalmente en el país.
+
+### ¿Puede ICE deportar a un ciudadano de EE. UU.?
+
+La autoridad civil de remoción se aplica a extranjeros, no a ciudadanos. El 8 U.S.C. 1101(a)(3) define "alien" (extranjero) como cualquier persona que no es ciudadano o nacional de Estados Unidos, y el 8 U.S.C. 1227 describe las clases de extranjeros deportables. La Directiva 16001.2 de ICE afirma que, como cuestión de derecho, ICE no puede ejercer su autoridad civil de inmigración para arrestar o detener a un ciudadano de EE. UU.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>
