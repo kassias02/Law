@@ -39,21 +39,21 @@ GTM_NOSCRIPT = (
 
 UI = {
     "es": dict(lang="es", dir="/", other="en", other_label="English", nav_home="Inicio",
-               about="Sobre este sitio", contact="Hablar con un abogado", legal="Aviso legal",
+               about="Sobre este sitio", legal="Aviso legal",
                essentials="Lo esencial", sources="Fuentes", updated="Última revisión",
                by="Escrito por", read_more="Guías", cta_title="¿Necesita un abogado ahora?",
-               cta_text="Le conectamos con abogados de inmigración con licencia que atienden en español. Este sitio no es un bufete.",
-               cta_btn="Hablar con un abogado", call="Llamar", wa="WhatsApp",
-               disclaimer="Este sitio es un recurso informativo. No es un bufete de abogados, no somos abogados ni notarios y no damos asesoría legal. Le conectamos con abogados con licencia en Estados Unidos.",
+               cta_text="Este sitio es un recurso informativo y no pone en contacto con abogados. Puede verificar a un abogado con licencia en la barra de su estado o consultar la lista oficial de EOIR de proveedores de servicios legales gratuitos.",
+               cta_btn="Cómo verificar a un abogado", cta_eoir="Lista de EOIR",
+               disclaimer="Este sitio es un recurso informativo. No es un bufete de abogados, no somos abogados ni notarios y no damos asesoría legal.",
                footer_nav="Guías", skip="Ir al contenido", not_found="Página no encontrada",
                not_found_text="La página que busca no existe. Vuelva al inicio o use una de las guías."),
     "en": dict(lang="en", dir="/en/", other="es", other_label="Español", nav_home="Home",
-               about="About this site", contact="Talk to a lawyer", legal="Legal notice",
+               about="About this site", legal="Legal notice",
                essentials="The essentials", sources="Sources", updated="Last reviewed",
                by="Written by", read_more="Guides", cta_title="Need a lawyer now?",
-               cta_text="We connect you with licensed immigration lawyers. This site is not a law firm.",
-               cta_btn="Talk to a lawyer", call="Call", wa="WhatsApp",
-               disclaimer="This site is an informational resource. It is not a law firm, we are not lawyers or notarios, and nothing here is legal advice. We connect you with licensed U.S. attorneys.",
+               cta_text="This site is an informational resource and does not refer people to lawyers. You can verify a licensed attorney with the state bar or consult EOIR's official list of free legal service providers.",
+               cta_btn="How to verify a lawyer", cta_eoir="EOIR pro bono list",
+               disclaimer="This site is an informational resource. It is not a law firm, we are not lawyers or notarios, and nothing here is legal advice.",
                footer_nav="Guides", skip="Skip to content", not_found="Page not found",
                not_found_text="That page does not exist. Go back home or open one of the guides."),
 }
@@ -106,13 +106,13 @@ def articles(pages):
     return sorted(a, key=lambda p: p.get("date", ""), reverse=True)
 
 def contact_buttons(ui, big=False):
+    """Links to existing on-site and official resources; not a lawyer-referral CTA."""
     out = []
-    cls = "btn btn-primary" if big else "btn btn-primary"
-    out.append(f'<a class="{cls}" href="{ui["dir"]}{"contacto" if ui["lang"]=="es" else "contact"}/">{ui["cta_btn"]}</a>')
-    if PHONE:
-        out.append(f'<a class="btn btn-ghost" href="tel:{re.sub(r"[^0-9+]", "", PHONE)}">{ui["call"]} {esc(PHONE)}</a>')
-    if WHATSAPP:
-        out.append(f'<a class="btn btn-ghost" href="https://wa.me/{WHATSAPP}" rel="noopener">{ui["wa"]}</a>')
+    cls = "btn btn-primary"
+    verify = "/como-verificar-a-un-abogado/" if ui["lang"] == "es" else "/en/how-to-verify-an-immigration-lawyer/"
+    eoir = "https://www.justice.gov/eoir/list-pro-bono-legal-service-providers"
+    out.append(f'<a class="{cls}" href="{verify}">{ui["cta_btn"]}</a>')
+    out.append(f'<a class="btn btn-ghost" href="{eoir}" rel="noopener nofollow">{ui["cta_eoir"]}</a>')
     return "\n".join(out)
 
 def layout(page, pages, all_pages):
@@ -300,7 +300,7 @@ def layout(page, pages, all_pages):
   <nav aria-label="{ui["footer_nav"]}"><ul>{nav_guides}<li><a href="{"/aviso-legal/" if lang=="es" else "/en/legal-notice/"}">{ui["legal"]}</a></li><li><a href="{mirror_url}" hreflang="{ui["other"]}">{ui["other_label"]}</a></li></ul></nav>
   <p class="fine">© {datetime.date.today().year} Deportation Defense Law · Loom Digital LLC · <a href="mailto:{EMAIL}">{EMAIL}</a></p>
 </footer>
-<div class="sticky-cta"><a class="btn btn-primary" href="{ui["dir"]}{"contacto" if lang=="es" else "contact"}/">{ui["cta_btn"]}</a></div>
+<div class="sticky-cta"><a class="btn btn-primary" href="{"/como-verificar-a-un-abogado/" if lang=="es" else "/en/how-to-verify-an-immigration-lawyer/"}">{ui["cta_btn"]}</a></div>
 </body>
 </html>'''
 

@@ -5,7 +5,7 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-11-18
+updated: 2026-11-20
 byline: true
 faq:
   - What happens if I miss my hearing?|The judge can order you removed in absentia that same day. Confirm your date through the EOIR automated system: 1-800-898-7180 or acis.eoir.justice.gov with your A-Number.
@@ -15,7 +15,7 @@ faq:
 ---
 <div class="hero">
 <h1>You are in removal proceedings. Here is what you can do today.</h1>
-<p class="lead">Clear information about immigration court, ICE detention and the defenses that exist. If you need a lawyer, we connect you with one who is licensed.</p>
+<p class="lead">Clear information about immigration court, ICE detention and the defenses that exist.</p>
 </div>
 
 <h2 style="margin-top:0">What is your situation?</h2>
@@ -77,4 +77,4 @@ The most common are cancellation of removal, defensive asylum with withholding o
 
 ## About this site
 
-Deportation Defense Law is an informational resource edited by [Hassan Benmouloud](/en/about/). It is not a law firm. The content is built from official sources (EOIR, USCIS, ICE and the Code of Federal Regulations) and reviewed when the official rule or guidance changes; each page shows its last-reviewed date. When you contact us, we pass your case to licensed immigration attorneys.
+Deportation Defense Law is an informational resource edited by [Hassan Benmouloud](/en/about/). It is not a law firm. The content is built from official sources (EOIR, USCIS, ICE and the Code of Federal Regulations) and reviewed when the official rule or guidance changes; each page shows its last-reviewed date. If you need a lawyer, you can [verify an immigration lawyer](/en/how-to-verify-an-immigration-lawyer/) or consult the [official EOIR list of free legal service providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers).

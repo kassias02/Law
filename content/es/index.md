@@ -5,7 +5,7 @@ slug: index
 mirror: index
 type: index
 date: 2026-09-16
-updated: 2026-11-18
+updated: 2026-11-20
 byline: true
 faq:
   - ¿Qué pasa si falto a mi audiencia?|El juez puede ordenar su deportación en ausencia ese mismo día. Confirme su fecha en el sistema automatizado de EOIR: 1-800-898-7180 o acis.eoir.justice.gov con su número A.
@@ -15,7 +15,7 @@ faq:
 ---
 <div class="hero">
 <h1>Está en proceso de deportación. Esto es lo que puede hacer hoy.</h1>
-<p class="lead">Información clara en español sobre la corte de inmigración, la detención por ICE y las defensas que existen. Y si necesita un abogado, le conectamos con uno con licencia.</p>
+<p class="lead">Información clara en español sobre la corte de inmigración, la detención por ICE y las defensas que existen.</p>
 </div>
 
 <h2 style="margin-top:0">¿Cuál es su situación?</h2>
@@ -77,4 +77,4 @@ Las más comunes son la cancelación de deportación, el asilo defensivo con ret
 
 ## Sobre este sitio
 
-Deportation Defense Law es un recurso informativo editado por [Hassan Benmouloud](/sobre/). No es un bufete de abogados. La información viene de fuentes oficiales (EOIR, USCIS, ICE y el Código de Regulaciones Federales) y se revisa cuando cambia la norma o la guía oficial; cada página muestra la fecha de su última revisión. Cuando nos escribe, le ponemos en contacto con abogados de inmigración con licencia que atienden en español.
+Deportation Defense Law es un recurso informativo editado por [Hassan Benmouloud](/sobre/). No es un bufete de abogados. La información viene de fuentes oficiales (EOIR, USCIS, ICE y el Código de Regulaciones Federales) y se revisa cuando cambia la norma o la guía oficial; cada página muestra la fecha de su última revisión. Si necesita un abogado, puede [verificar a un abogado de inmigración](/como-verificar-a-un-abogado/) o consultar la [lista oficial de proveedores de servicios legales gratuitos de EOIR](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers).
