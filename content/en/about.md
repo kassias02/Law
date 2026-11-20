@@ -3,9 +3,9 @@ title: About this site
 slug: about
 mirror: sobre
 type: page
-description: Who edits Deportation Defense Law, where the information comes from, how it is reviewed, and our relationship with the attorneys we connect you to.
+description: Who edits Deportation Defense Law, where the information comes from, and how it is reviewed.
 date: 2026-09-16
-updated: 2026-11-18
+updated: 2026-11-20
 byline: true
 schema: AboutPage
 ---
@@ -13,7 +13,7 @@ schema: AboutPage
 
 Deportation Defense Law is edited by **Hassan Benmouloud**, an independent consultant, through Loom Digital LLC (Montana, United States). I am not an attorney, not a notario, and not a DOJ-accredited representative. Nothing published here is legal advice, and no one at this site can represent you in immigration court.
 
-What I do: gather what official sources say about removal proceedings, in plain English and Spanish, and connect people with licensed immigration attorneys.
+What I do: gather what official sources say about removal proceedings, in plain English and Spanish.
 
 ## Where the information comes from
 
@@ -31,11 +31,9 @@ Pages are reviewed when the official rule or guidance they rely on changes, and 
 <p>We base our content on official sources: the Executive Office for Immigration Review (<a href="https://www.justice.gov/eoir" rel="noopener nofollow">EOIR, justice.gov/eoir</a>), U.S. Citizenship and Immigration Services (<a href="https://www.uscis.gov/" rel="noopener nofollow">USCIS, uscis.gov</a>), U.S. Immigration and Customs Enforcement (<a href="https://www.ice.gov/" rel="noopener nofollow">ICE, ice.gov</a>) and Title 8 of the Code of Federal Regulations (<a href="https://www.ecfr.gov/current/title-8" rel="noopener nofollow">8 C.F.R., ecfr.gov</a>). Every guide links its sources at the foot of the page and shows its last-reviewed date.</p>
 <p>This site is published by <strong>Loom Digital LLC</strong>. It is not a law firm.</p>
 
-## How the contact form works
+## If you need a lawyer
 
-When you submit the form, your information goes to **a licensed immigration law firm** covering your area and case type, so they can contact you. We charge nothing to the people who write in. Firms that receive cases pay a flat advertising fee (see the [legal notice](/en/legal-notice/)); that fee never depends on whether you hire the attorney or on what you pay them.
-
-We are not a comprehensive directory and this is not an endorsement. Compare firms, ask for fees in writing, and verify any attorney's license with the state bar before signing anything.
+This site does not currently offer a lawyer-referral service. If you need representation, you can [verify an immigration lawyer](/en/how-to-verify-an-immigration-lawyer/) with the state bar and EOIR lists, or consult the [official EOIR list of free legal service providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers).
 
 ## Corrections
 

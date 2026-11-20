@@ -3,9 +3,9 @@ title: Sobre este sitio
 slug: sobre
 mirror: about
 type: page
-description: Quién edita Deportation Defense Law, de dónde viene la información, cómo se revisa y qué relación tenemos con los abogados a los que le conectamos.
+description: Quién edita Deportation Defense Law, de dónde viene la información y cómo se revisa.
 date: 2026-09-16
-updated: 2026-11-18
+updated: 2026-11-20
 byline: true
 schema: AboutPage
 ---
@@ -13,7 +13,7 @@ schema: AboutPage
 
 Deportation Defense Law lo edita **Hassan Benmouloud**, consultor independiente, a través de Loom Digital LLC (Montana, Estados Unidos). No soy abogado, no soy notario y no soy representante acreditado por el Departamento de Justicia. Nada de lo que publico aquí es asesoría legal, y nadie de este sitio puede representarle ante la corte de inmigración.
 
-Lo que sí hago: reunir en español, en un lenguaje claro, lo que dicen las fuentes oficiales sobre el proceso de deportación, y poner a las personas en contacto con abogados de inmigración con licencia.
+Lo que sí hago: reunir en español, en un lenguaje claro, lo que dicen las fuentes oficiales sobre el proceso de deportación.
 
 ## De dónde viene la información
 
@@ -31,11 +31,9 @@ Las páginas se revisan cuando cambia la norma o la guía oficial en la que se b
 <p>Basamos el contenido en fuentes oficiales: la Oficina Ejecutiva de Revisión de Inmigración (<a href="https://www.justice.gov/eoir" rel="noopener nofollow">EOIR, justice.gov/eoir</a>), el Servicio de Ciudadanía e Inmigración (<a href="https://www.uscis.gov/" rel="noopener nofollow">USCIS, uscis.gov</a>), el Servicio de Inmigración y Control de Aduanas (<a href="https://www.ice.gov/" rel="noopener nofollow">ICE, ice.gov</a>) y el Título 8 del Código de Regulaciones Federales (<a href="https://www.ecfr.gov/current/title-8" rel="noopener nofollow">8 C.F.R., ecfr.gov</a>). Cada guía enlaza sus fuentes al final y muestra la fecha de su última revisión.</p>
 <p>Este sitio es publicado por <strong>Loom Digital LLC</strong>. No es un bufete de abogados.</p>
 
-## Cómo funciona el contacto
+## Si necesita un abogado
 
-Cuando usted envía el formulario, su información se transmite a **un bufete de inmigración con licencia** que atiende su zona y su tipo de caso, para que le contacte. No cobramos nada a las personas que escriben. Los bufetes que reciben los casos pagan una tarifa fija por publicidad (vea el [aviso legal](/aviso-legal/)); esa tarifa nunca depende de que usted contrate al abogado ni de lo que pague.
-
-No somos un directorio exhaustivo ni una recomendación: que un bufete trabaje con nosotros no significa que sea el mejor para su caso. Compare, pregunte precios por escrito y verifique la licencia del abogado en la barra de su estado antes de firmar nada.
+Este sitio no ofrece, por el momento, un servicio de puesta en contacto con abogados. Si necesita representación, puede [verificar a un abogado de inmigración](/como-verificar-a-un-abogado/) en la barra de su estado y en las listas de EOIR, o consultar la [lista oficial de proveedores de servicios legales gratuitos de EOIR](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers).
 
 ## Correcciones
 

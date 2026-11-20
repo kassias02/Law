@@ -6,7 +6,7 @@ description: Cómo verificar a un abogado de inmigración: directorio de la barr
 slug: como-verificar-a-un-abogado
 mirror: how-to-verify-an-immigration-lawyer
 date: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-20
 summary:
   - Pida el nombre completo y el número de colegiado, y búsquelo en el directorio oficial de la barra del estado donde dice estar licenciado.
   - Confirme que su estado de licencia le permite ejercer ahora, no solo que su nombre aparece en una lista.
@@ -90,7 +90,7 @@ Las listas oficiales se publican en el [programa R&A de EOIR](https://www.justic
 
 EOIR advierte que los datos de contacto de esos listados los proporciona cada organización, y que cada una debe informar los cambios. La regulación de este programa está en [8 C.F.R. Parte 1292](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1292).
 
-Si no puede pagar un abogado, EOIR también publica una [lista de proveedores de servicios legales gratuitos](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers), organizada por estado. Puede [hablar con un abogado de inmigración](/contacto/) a través de este sitio; este sitio no es un bufete, y usted no queda obligado a contratar.
+Si no puede pagar un abogado, EOIR también publica una [lista de proveedores de servicios legales gratuitos](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers), organizada por estado.
 
 ## ¿Cómo sé si EOIR ha disciplinado a un abogado o a un representante?
 

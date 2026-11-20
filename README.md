@@ -58,19 +58,10 @@ Cuerpo en markdown.
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>
 ```
 
-`{{CONTACT_BUTTONS}}` inserta los botones de contacto. `{{EMAIL}}` inserta el correo.
+`{{CONTACT_BUTTONS}}` inserta enlaces a la guía para verificar a un abogado y a la lista oficial de EOIR. `{{EMAIL}}` inserta el correo del sitio.
 
 Tipos de página: sin `type` = guía (con autor, fecha, resumen, fuentes). `type: page` = página simple (sobre, legal). `type: index` = portada.
 
-## Teléfono y WhatsApp
-
-Están ocultos hasta que existan. Para activarlos, defina variables de entorno en Netlify (Site settings → Environment variables):
-
-- `DDL_PHONE` = `+1 713 555 0100`
-- `DDL_WHATSAPP` = `17135550100`
-
-Y vuelva a desplegar.
-
 ## Formularios
 
-Usan Netlify Forms (`data-netlify="true"`), ya activados en el proyecto. Los envíos aparecen en el panel de Netlify, pestaña Forms. Hay un campo trampa antispam (honeypot).
+El sitio no ofrece, por el momento, un formulario de puesta en contacto con abogados. Las páginas `/contacto/` y `/en/contact/` se conservan, pero ya no incluyen un formulario.

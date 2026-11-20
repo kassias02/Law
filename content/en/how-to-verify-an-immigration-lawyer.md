@@ -6,7 +6,7 @@ description: How to verify an immigration lawyer: state bar lookup, EOIR accredi
 slug: how-to-verify-an-immigration-lawyer
 mirror: como-verificar-a-un-abogado
 date: 2026-11-18
-updated: 2026-11-18
+updated: 2026-11-20
 summary:
   - Ask for the person's full name and bar number, and look them up in the official directory of the state bar where they say they are licensed.
   - Confirm that their license status allows them to practice now, not only that their name appears on a list.
@@ -90,7 +90,7 @@ Official rosters are posted on EOIR's [R&A program page](https://www.justice.gov
 
 EOIR notes that contact information on those rosters is provided by each organization, which must report changes. The regulations for the program are at [8 C.F.R. Part 1292](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-B/part-1292).
 
-If you cannot afford a lawyer, EOIR also publishes a [list of pro bono legal service providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers), organized by state. You can [talk to an immigration lawyer](/en/contact/) through this site; this site is not a law firm, and you are not obligated to hire anyone.
+If you cannot afford a lawyer, EOIR also publishes a [list of pro bono legal service providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers), organized by state.
 
 ## How do I know whether EOIR has disciplined a lawyer or a representative?
 

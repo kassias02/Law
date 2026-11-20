@@ -1,55 +1,20 @@
 ---
-title: Talk to an immigration lawyer
+title: Contact
 slug: contact
 mirror: contacto
 type: page
-description: Send your case to a licensed immigration attorney. Free, no obligation. This site is not a law firm.
+description: This site is informational and does not currently refer people to lawyers. How to verify a lawyer and the official EOIR list.
 date: 2026-09-16
-updated: 2026-11-18
+updated: 2026-11-20
 ---
 <div class="notice">
-<p><strong>If you have a hearing within 72 hours or a relative in detention, call an attorney directly.</strong> A form can take hours to be answered. Free legal help is listed on the <a href="https://www.justice.gov/eoir/list-pro-bono-legal-service-providers" rel="noopener nofollow">official EOIR list of pro bono providers</a>.</p>
+<p><strong>If you have a hearing within 72 hours or a relative in detention, look for an attorney right away.</strong> Free legal help is listed on the <a href="https://www.justice.gov/eoir/list-pro-bono-legal-service-providers" rel="noopener nofollow">official EOIR list of pro bono providers</a>.</p>
 </div>
 
-Tell us the basics and we pass your case to a licensed immigration attorney covering your area. There is no cost to you and no obligation to hire anyone. Before you sign anything, you can [verify an immigration lawyer](/en/how-to-verify-an-immigration-lawyer/) with the state bar and EOIR lists.
+This site is an informational resource. It does not currently offer a lawyer-referral service.
 
-<form name="case" method="POST" data-netlify="true" netlify-honeypot="company" action="/en/thank-you/">
-  <input type="hidden" name="form-name" value="case">
-  <p class="hp"><label>Leave this empty: <input name="company"></label></p>
+If you need representation, you can [verify an immigration lawyer](/en/how-to-verify-an-immigration-lawyer/) with the state bar and EOIR lists, or consult the [official EOIR list of free legal service providers](https://www.justice.gov/eoir/list-pro-bono-legal-service-providers).
 
-  <label for="name">Name</label>
-  <input id="name" name="name" type="text" autocomplete="name" required>
+To report an error in the content, write to <a href="mailto:{{EMAIL}}">{{EMAIL}}</a>.
 
-  <label for="phone">Phone or WhatsApp</label>
-  <input id="phone" name="phone" type="tel" autocomplete="tel" required>
-
-  <label for="state">Which state are you or your relative in?</label>
-  <input id="state" name="state" type="text" required>
-
-  <label for="situation">What is the situation?</label>
-  <select id="situation" name="situation" required>
-    <option value="">Choose one</option>
-    <option>I received a Notice to Appear</option>
-    <option>I have a court date</option>
-    <option>A relative is detained by ICE</option>
-    <option>I have a removal order</option>
-    <option>Other</option>
-  </select>
-
-  <label for="date">Hearing date, if you know it</label>
-  <input id="date" name="hearing_date" type="text" placeholder="e.g. November 12, or not sure">
-
-  <label for="details">Tell us briefly</label>
-  <textarea id="details" name="details"></textarea>
-
-  <label class="check" for="consent">
-    <input id="consent" name="consent" type="checkbox" value="yes" required>
-    <span>I authorize my information to be sent to a licensed immigration law firm so they can contact me by phone, WhatsApp or email. I understand this site is not a law firm and that submitting this form does not create an attorney-client relationship.</span>
-  </label>
-
-  <button class="btn btn-primary" type="submit">Send my case</button>
-</form>
-
-<p style="margin-top:2rem"><strong>Do not put sensitive details here</strong> (document numbers, full criminal history). Save those for your conversation with the attorney.</p>
-
-<p>In the meantime, you can read <a href="/en/notice-to-appear/">what to do after a Notice to Appear</a>, <a href="/en/find-someone-detained-by-ice/">how to find a relative detained by ICE</a> or <a href="/en/immigration-court/">how immigration court works</a>.</p>
+<p>You can also read <a href="/en/notice-to-appear/">what to do after a Notice to Appear</a>, <a href="/en/find-someone-detained-by-ice/">how to find a relative detained by ICE</a> or <a href="/en/immigration-court/">how immigration court works</a>.</p>
