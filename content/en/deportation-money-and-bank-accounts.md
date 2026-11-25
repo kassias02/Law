@@ -1,11 +1,12 @@
 ---
-title: What happens to your money and accounts if you are deported
+title: What happens to your bank account if you are deported
+seo_title: What happens to your bank account if you are deported
 nav: Money and accounts
-description: What happens to accounts, 401(k)s and taxes if you are deported, per IRS and FDIC rules, and whether improper entry is a crime under 8 U.S.C. 1325 and 1326.
+description: What happens to your bank account if you are deported: whether you can keep it, FDIC insurance, 401(k) and IRA withholding, and tax steps (IRS).
 slug: deportation-money-and-bank-accounts
 mirror: deportacion-dinero-y-cuentas
 date: 2026-11-19
-updated: 2026-11-19
+updated: 2026-11-25
 summary:
   - The IRS describes a general 30% federal withholding on a retirement-plan distribution paid to a foreign person, unless valid documentation supports a different rate, plus an additional 10% tax on early withdrawals before age 59½ unless an exception applies.
   - The FDIC states that deposit insurance does not require U.S. citizenship or residency, but that insurance covers the failure of an insured bank, not a deportation.
@@ -27,6 +28,8 @@ sources:
   - 8 U.S.C. § 1326 – Reentry of removed aliens (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partVIII-sec1326.htm
   - 18 U.S.C. § 3559 – Sentencing classification of offenses (govinfo)|https://www.govinfo.gov/content/pkg/USCODE-2024-title18/html/USCODE-2024-title18-partII-chap227-subchapA-sec3559.htm
 faq:
+  - What happens to my bank account if I get deported?|I did not find an official IRS, FDIC, or CFPB rule stating that a deportation confiscates the balance. Whether you can keep and use the account depends on the bank's contract and on tax rules that may apply after you leave.
+  - Can I keep my bank account if I get deported?|There is no official rule I found that forces the account to close solely because of a removal order. Banks set their own terms; FDIC insurance, if the bank is insured, does not require U.S. citizenship or residency and covers a bank failure, not a deportation.
   - Does the IRS withhold 30% if a nonresident takes a 401(k) or IRA distribution?|Generally, yes. The IRS states that 30% is generally withheld from a plan distribution paid to a foreign payee under Internal Revenue Code section 1441(a), unless valid documentation establishes that the payee is a U.S. person or is entitled to a lower rate, for example on Form W-8BEN.
   - What is Form W-8BEN?|It is the Certificate of Foreign Status of Beneficial Owner for United States Tax Withholding and Reporting (Individuals). The IRS uses it to establish that you are not a U.S. person and, if applicable, to claim a reduced rate or a treaty exemption. It must be given to the withholding agent before you are paid.
   - Is there an extra tax if I withdraw retirement money before age 59½?|Generally, yes. The IRS states that amounts withdrawn from an IRA or retirement plan before age 59½ are early distributions and that an additional 10% tax applies unless an exception applies. That 10% is on top of regular income tax.
@@ -34,7 +37,7 @@ faq:
   - Does FDIC insurance require U.S. citizenship or residency?|No. The FDIC states that any person or entity can have coverage at an insured bank and that a person does not have to be a U.S. citizen or resident for deposits to be insured. That coverage applies if the insured bank fails, up to the standard limit, not because of a deportation.
   - Is illegal entry a crime or a felony?|Improper entry is a federal crime under 8 U.S.C. 1325(a): a first offense may be punished by a fine or imprisonment of not more than 6 months, or both. Under 18 U.S.C. 3559(a)(7), that maximum classifies the offense as a Class B misdemeanor. Reentry after removal under 8 U.S.C. 1326(a) may be punished by a fine or imprisonment of not more than 2 years, or both; 18 U.S.C. 3559(a)(5) classifies that maximum as a Class E felony. Higher maxima apply to a subsequent 1325(a) offense and under 1326(b).
 ---
-If you are deported, the IRS describes withholding that can apply to a 401(k) or IRA and, often, a departing-alien clearance (Form 1040-C). The FDIC says deposit insurance does not require citizenship, but it covers a bank failure. Improper entry can be a federal crime (8 U.S.C. 1325); reentry after removal can be too (8 U.S.C. 1326).
+A deportation does not, by itself, confiscate a U.S. bank-account balance: I found no IRS, FDIC, or CFPB rule that says so. You may be able to keep the account, but access, tax withholding, and a departing-alien clearance can still apply. FDIC insurance does not require citizenship; it covers a bank failure, not a deportation.
 
 **Disclaimer:** this page summarizes official sources as of 19 November 2026. It is not legal or tax advice. Tax questions about your situation should be reviewed with a licensed tax professional, and your immigration situation with an [immigration lawyer you can verify](/en/how-to-verify-an-immigration-lawyer/).
 
@@ -88,6 +91,14 @@ These criminal offenses are separate from the civil removal process in [immigrat
 | Reentry in the cases under 8 U.S.C. 1326(b) | Higher maxima: not more than 10 years, or not more than 20 years if there was an aggravated felony, as applicable | See the text of 1326(b) |
 
 ## Frequently asked questions
+
+### What happens to my bank account if I get deported?
+
+I did not find an official IRS, FDIC, or CFPB rule stating that a deportation confiscates the balance. Whether you can keep and use the account depends on the bank's contract and on tax rules that may apply after you leave.
+
+### Can I keep my bank account if I get deported?
+
+There is no official rule I found that forces the account to close solely because of a removal order. Banks set their own terms; FDIC insurance, if the bank is insured, does not require U.S. citizenship or residency and covers a bank failure, not a deportation.
 
 ### Does the IRS withhold 30% if a nonresident takes a 401(k) or IRA distribution?
 

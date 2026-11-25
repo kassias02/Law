@@ -1,11 +1,11 @@
 ---
-title: Who is not eligible for immigration bond?
-seo_title: Mandatory Detention: Who Is Not Eligible for Immigration Bond
-description: Who is not eligible for immigration bond: mandatory detention under INA 236(c) and 235(b), the Laken Riley Act, and the case now before the Supreme Court.
+title: Mandatory detention: who is not eligible for immigration bond
+seo_title: Mandatory detention: who is not eligible for immigration bond
+description: Who is not eligible for immigration bond: mandatory detention without bond under INA § 236(c) and § 235(b), the Laken Riley Act, and the Supreme Court case.
 slug: mandatory-detention-no-bond
 mirror: detencion-obligatoria-sin-fianza
 date: 2026-10-28
-updated: 2026-11-04
+updated: 2026-11-25
 summary:
   - The statute allows bond for people held under INA § 236(a). People in mandatory detention cannot get bond from an immigration judge.
   - Crime-based mandatory detention (§ 236(c)): certain convictions and, since the 2025 Laken Riley Act, certain charges or arrests for theft, burglary, shoplifting or assaulting an officer, among others.
@@ -25,6 +25,8 @@ sources:
   - Fifth Circuit – Sosnava Rodriguez v. Vergara (en banc), Oct. 23, 2026|https://www.ca5.uscourts.gov/opinions/pub/26/26-50183-CV1.pdf
   - Eighth Circuit – Avila v. Bondi, March 25, 2026|https://ecf.ca8.uscourts.gov/opndir/26/03/253248P.pdf
   - Supreme Court – Docket No. 26-104 and question presented|https://www.supremecourt.gov/docket/docketfiles/html/public/26-104.html
+  - ICE – FOIA FAQ (Form I-286, Notice of Custody Determination)|https://www.ice.gov/foia/faq
+  - ICE – Detention standard, Transfer of Detainees (Form I-286)|https://www.ice.gov/doclib/dro/detention-standards/pdf/transfer_of_detainees.pdf
 faq:
   - Who is not eligible for immigration bond?|People in mandatory detention. Under the statute, that includes people with certain criminal convictions or charges (INA § 236(c)) and certain applicants for admission (INA § 235(b)). Since 2025 the government also places people who entered without admission in this group, which is being litigated.
   - What is mandatory immigration detention?|It is detention required by statute, where the immigration judge cannot grant bond. The court regulations list the groups whose custody the judge cannot review, including "arriving aliens" and people subject to INA § 236(c)(1).
@@ -32,6 +34,8 @@ faq:
   - Can someone who entered without papers years ago get bond?|As of October 28, 2026, it depends on where they are held, and it is being litigated. The BIA says immigration judges cannot grant them bond. Several federal appeals courts have disagreed, while others have sided with the government. The Supreme Court will decide.
   - What should I do if ICE says my relative is in mandatory detention?|Ask which provision ICE is relying on and talk to a lawyer. If ICE relies on § 236(c), the regulation lets the person ask the judge to decide whether they really fall in that category. In some cases, a lawyer can file a habeas corpus petition in federal court.
   - Does mandatory detention mean the person will be deported?|No. Detention and the removal case are separate. The person still has their case in immigration court and can raise the defenses available to them, such as asylum or cancellation of removal, while detained.
+  - What is immigrant detention without bond?|It is mandatory detention: the statute requires the person to be held, and the immigration judge cannot grant bond. The usual categories are INA § 236(c) (certain criminal grounds) and § 235(b) (certain applicants for admission).
+  - What is Form I-286?|ICE lists Form I-286 as the Notice of Custody Determination, an ICE-issued document typically kept in the A-file. Official ICE detention standards describe it as the notification of the custody decision, served with other charging documents.
 ---
 People in mandatory detention cannot get bond from an immigration judge: those with certain criminal convictions or charges (INA § 236(c)) and certain applicants for admission (INA § 235(b)). As of October 28, 2026, whether this covers people who entered without admission is being litigated, and the Supreme Court will decide it.
 
@@ -94,7 +98,7 @@ Yes, in some cases. For people ICE treats as subject to § 236(c)(1) or to secur
 
 So when ICE says "mandatory detention," it helps to:
 
-1. Ask for the custody paperwork and write down the provision ICE cites.
+1. Ask for the custody paperwork, including Form I-286 (Notice of Custody Determination, as [ICE lists it](https://www.ice.gov/foia/faq)), and write down the provision ICE cites.
 2. Gather the complete criminal records (charges, sentence, final disposition) and any entry documents.
 3. Ask a lawyer whether to seek that review from the judge or file a *habeas corpus* petition.
 
@@ -128,5 +132,13 @@ Ask which provision ICE is relying on and talk to a lawyer. If ICE relies on § 
 ### Does mandatory detention mean the person will be deported?
 
 No. Detention and the removal case are separate. The person still has their case in immigration court and can raise the defenses available to them, such as asylum or cancellation of removal, while detained.
+
+### What is immigrant detention without bond?
+
+It is mandatory detention: the statute requires the person to be held, and the immigration judge cannot grant bond. The usual categories are INA § 236(c) (certain criminal grounds) and § 235(b) (certain applicants for admission).
+
+### What is Form I-286?
+
+ICE lists Form I-286 as the Notice of Custody Determination, an ICE-issued document typically kept in the A-file. Official ICE detention standards describe it as the notification of the custody decision, served with other charging documents.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>
