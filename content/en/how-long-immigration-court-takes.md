@@ -1,11 +1,12 @@
 ---
-title: How long does an immigration court case take?
+title: How long does an immigration court case take or last?
+seo_title: How long does an immigration court case take or last?
 nav: How long a case takes
-description: Realistic timelines for a removal case — detained versus non-detained, waits between hearings, what makes a case longer, and how to check your own date.
+description: How long an immigration court case takes or lasts: if the person is detained or not, the wait between hearings, and how to check your date (EOIR).
 slug: how-long-immigration-court-takes
 mirror: cuanto-tarda-un-caso-en-la-corte-de-inmigracion
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-25
 summary:
   - If the person is detained, the case moves fast: weeks to a few months from start to finish.
   - If not detained, expect years between the first hearing and a final decision.
@@ -15,19 +16,30 @@ sources:
   - EOIR – Workload and adjudication statistics|https://www.justice.gov/eoir/workload-and-adjudication-statistics
   - EOIR – Automated Case Information System|https://acis.eoir.justice.gov/
   - EOIR – Immigration Court Practice Manual|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm
+  - EOIR – PM 25-47, court performance measures (09/12/2025)|https://www.justice.gov/eoir/media/1413981/dl?inline=
+  - 8 C.F.R. § 1003.15(d) – Change of address and Form EOIR-33|https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-C/section-1003.15
+  - EOIR – Form EOIR-33/IC (change of address)|https://www.justice.gov/eoir/media/1341856/dl?inline
   - TRAC, Syracuse University – Immigration court backlog data|https://tracreports.org/immigration/
 faq:
+  - How long does an immigration court case take in the United States?|There is no single deadline that applies to every case. It depends mainly on whether the person is detained, on the court, and on the type of proceeding. Check your date in ACIS (acis.eoir.justice.gov) or at 1-800-898-7180.
   - Why is my hearing scheduled two years out?|Because that court's calendar is full. The backlog is severe and some courts schedule individual hearings years ahead.
   - Can I ask for an earlier date?|Yes, with a motion to advance, but it is rarely granted without a concrete reason, such as already meeting every requirement for relief.
   - Does being detained speed things up?|Yes, substantially. Detained courts resolve cases in weeks or months — which also means far less time to prepare.
+  - How long do immigration court hearings last, not the whole case?|EOIR does not publish a fixed length in minutes for each hearing. The total time of a case is not the length of one appearance. Your next date appears in ACIS or on the 1-800-898-7180 line.
+  - How do I check how long until my hearing?|With your A-Number, in EOIR's ACIS system (acis.eoir.justice.gov) or by calling 1-800-898-7180. Dates can change; it is worth checking regularly.
+  - What if I move while waiting for court?|Under 8 C.F.R. § 1003.15(d)(2), you must give written notice on Form EOIR-33 within five days of any change of address. If you do not, the court may send notices to the old address.
 ---
-## It comes down to one thing: detention
+How long an immigration court case takes or lasts in the United States depends mainly on whether the person is detained. EOIR prioritizes detained cases and has set court-level completion goals, not guaranteed individual deadlines; times vary by court. Check your actual date in the [ACIS system](https://acis.eoir.justice.gov/) or at 1-800-898-7180.
+
+## How long does a case take if the person is detained?
 
 Whether the person is detained matters more than the court, the type of case or the judge assigned.
 
 **Detained.** Courts serving detention facilities run accelerated calendars. From first hearing to final decision is often a few weeks to a few months, because someone's liberty is at stake: the law pushes for a fast resolution when a person is held in custody.
 
-**Not detained.** Here the backlog governs. Months can pass between the filing of the [Notice to Appear](/en/notice-to-appear/) and the first hearing, and often years between the first hearing and the individual hearing. Two to five years for a full case is ordinary, longer in some courts.
+**Not detained.** Here the backlog governs. Months can pass between the filing of the [Notice to Appear](/en/notice-to-appear/) and the first hearing, and often years between the first hearing and the individual hearing. Two to five years for a full case is ordinary, longer in some courts. While you wait, you can check your next date as explained in the [immigration court](/en/immigration-court/) guide.
+
+Since September 12, 2025, [EOIR Policy Memorandum PM 25-47](https://www.justice.gov/eoir/media/1413981/dl?inline=) sets court-level goals, not individual deadlines. For non-status removal cases, the goal is to complete 95% of detained cases within 60 days of the filing of the [Notice to Appear](/en/notice-to-appear/), reopening, recalendaring, a BIA remand, or notification of detention; and 95% of non-detained cases within 365 days of those same events or notification of release from custody. Your date may be different: check it in ACIS.
 
 ## Why it takes so long
 
@@ -54,7 +66,7 @@ Observed ranges, not guarantees. Always check your actual date in the EOIR syste
 
 Call **1-800-898-7180** or use [acis.eoir.justice.gov](https://acis.eoir.justice.gov/) with your A-Number. You will see the next date, the assigned court and the status of the case. Do it at least monthly: **dates move and the court does not always reach you**.
 
-If you change address, file Form EOIR-33 within five days. It is the leading cause of [in absentia removal orders](/en/in-absentia-removal-order/).
+If you change address, file Form [EOIR-33/IC](https://www.justice.gov/eoir/media/1341856/dl?inline) within five days, as required by [8 C.F.R. § 1003.15(d)](https://www.ecfr.gov/current/title-8/chapter-V/subchapter-A/part-1003/subpart-C/section-1003.15). Not doing so is a frequent cause of [in absentia removal orders](/en/in-absentia-removal-order/).
 
 ## A long case is not always bad
 
@@ -78,6 +90,10 @@ What you should not do is wait passively. The record is built over those years, 
 
 ## Frequently asked questions
 
+### How long does an immigration court case take in the United States?
+
+There is no single deadline that applies to every case. It depends mainly on whether the person is detained, on the court, and on the type of proceeding. Check your date in ACIS (acis.eoir.justice.gov) or at 1-800-898-7180.
+
 ### Why is my hearing scheduled two years out?
 
 Because that court's calendar is full. The backlog is severe and some courts schedule individual hearings years ahead.
@@ -89,5 +105,17 @@ Yes, with a motion to advance, but it is rarely granted without a concrete reaso
 ### Does being detained speed things up?
 
 Yes, substantially. Detained courts resolve cases in weeks or months — which also means far less time to prepare.
+
+### How long do immigration court hearings last, not the whole case?
+
+EOIR does not publish a fixed length in minutes for each hearing. The total time of a case is not the length of one appearance. Your next date appears in ACIS or on the 1-800-898-7180 line.
+
+### How do I check how long until my hearing?
+
+With your A-Number, in EOIR's ACIS system (acis.eoir.justice.gov) or by calling 1-800-898-7180. Dates can change; it is worth checking regularly.
+
+### What if I move while waiting for court?
+
+Under 8 C.F.R. § 1003.15(d)(2), you must give written notice on Form EOIR-33 within five days of any change of address. If you do not, the court may send notices to the old address.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

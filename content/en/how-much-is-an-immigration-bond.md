@@ -1,11 +1,12 @@
 ---
-title: How much does an immigration bond cost in 2026?
+title: How much is an immigration bond? Cost in 2026
+seo_title: How much is an immigration bond? Cost in 2026
 nav: Immigration bond cost
-description: What an immigration bond costs, why judges set one amount over another, how it is paid, who can pay it, and when the money comes back.
+description: How much is an immigration bond: the $1,500 statutory minimum, typical amounts, how to pay ICE (CeBONDS), and when the deposit comes back.
 slug: how-much-is-an-immigration-bond
 mirror: cuanto-cuesta-una-fianza-de-inmigracion
 date: 2026-09-16
-updated: 2026-11-04
+updated: 2026-11-25
 summary:
   - The statutory minimum is $1,500. There is no statutory maximum.
   - Typical amounts run from $1,500 to over $20,000, based on flight risk and history.
@@ -20,11 +21,15 @@ sources:
   - 8 C.F.R. § 1003.19 – Custody redetermination|https://www.law.cornell.edu/cfr/text/8/1003.19
   - EOIR – Immigration Court Practice Manual, ch. 8.3 (bond)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-8-3
 faq:
+  - How much is an immigration bond usually?|There is no official schedule of amounts. The law sets a $1,500 minimum and no maximum; ICE or an immigration judge sets the figure case by case, mainly on flight risk and danger to the community.
   - What is the minimum immigration bond?|$1,500 by statute. No judge can set a lower amount.
+  - Is an immigration bond the same as a criminal bail bond?|No. A criminal bail bond is often posted by paying a bondsman a percentage that is not refunded. An immigration bond is a full cash deposit with ICE, which ICE refunds with interest if it later cancels the bond on Form I-391 and the person complied.
   - Can an immigration bond be paid in installments?|Not to ICE, which requires the full amount. Private bond companies offer payment plans but charge a non-refundable premium and usually require collateral.
+  - Who can pay an immigration bond?|According to ICE, a U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization can pay, with a document from ICE's list. That person is the obligor.
   - When is the bond money returned?|When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a refund timeframe.
+  - How much is an immigration bail bond?|People often use "bail bond" for an immigration bond, but it is not criminal bail. ICE requires the full amount; private companies may charge a non-refundable premium if the family cannot deposit the full sum.
 ---
-There is no single price. The law sets a **$1,500 minimum** and no maximum: the rest is decided case by case by ICE or an immigration judge.
+How much is an immigration bond depends on the case. The statute sets a **$1,500 minimum** and no maximum; ICE or an immigration judge decides the amount. There is no official price list. The full amount is deposited with ICE, usually through **CeBONDS**, and is returned to the obligor if the person meets every condition.
 
 ## Amounts seen in practice
 
@@ -81,16 +86,32 @@ If the person fails to appear when ICE demands it or breaks the bond's condition
 
 ## Frequently asked questions
 
+### How much is an immigration bond usually?
+
+There is no official schedule of amounts. The law sets a $1,500 minimum and no maximum; ICE or an immigration judge sets the figure case by case, mainly on flight risk and danger to the community.
+
 ### What is the minimum immigration bond?
 
 $1,500 by statute. No judge can set a lower amount.
+
+### Is an immigration bond the same as a criminal bail bond?
+
+No. A criminal bail bond is often posted by paying a bondsman a percentage that is not refunded. An immigration bond is a full cash deposit with ICE, which ICE refunds with interest if it later cancels the bond on Form I-391 and the person complied.
 
 ### Can an immigration bond be paid in installments?
 
 Not to ICE, which requires the full amount. Private bond companies offer payment plans but charge a non-refundable premium and usually require collateral.
 
+### Who can pay an immigration bond?
+
+According to ICE, a U.S. citizen, a lawful permanent resident, a law firm or a non-profit organization can pay, with a document from ICE's list. That person is the obligor.
+
 ### When is the bond money returned?
 
 When ICE cancels the bond on Form I-391; it then refunds the deposit and interest to the obligor at the address on file. ICE does not publish a refund timeframe.
+
+### How much is an immigration bail bond?
+
+People often use "bail bond" for an immigration bond, but it is not criminal bail. ICE requires the full amount; private companies may charge a non-refundable premium if the family cannot deposit the full sum.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

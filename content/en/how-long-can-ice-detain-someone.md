@@ -1,11 +1,11 @@
 ---
 title: How long can ICE detain someone before a bond hearing?
 seo_title: How Long Can ICE Detain Someone? Bond Hearings in 2026
-description: How long ICE can hold someone before a bond hearing: what the statute says, mandatory detention, the 2026 circuit split and the Supreme Court case.
+description: How long ICE can hold someone before a bond hearing: INA § 236 and Form I-286, mandatory detention, the 2026 circuit split and the Supreme Court case.
 slug: how-long-can-ice-detain-someone
 mirror: cuanto-tiempo-puede-ice-detener-a-un-inmigrante
 date: 2026-10-28
-updated: 2026-11-18
+updated: 2026-11-25
 summary:
   - As of October 28, 2026, no statute or regulation sets a number of days within which a bond hearing must take place.
   - Someone detained under INA § 236(a) can ask an immigration judge for a bond hearing at any time before a final order.
@@ -25,6 +25,8 @@ sources:
   - Ninth Circuit – Rodriguez Vazquez v. Bostock, July 30, 2026|https://cdn.ca9.uscourts.gov/datastore/opinions/2026/07/30/25-6842.pdf
   - Supreme Court – Docket No. 26-104, Rhoney v. Barbosa da Cunha|https://www.supremecourt.gov/docket/docketfiles/html/public/26-104.html
   - Supreme Court – Johnson v. Arteaga-Martinez (2022)|https://www.supremecourt.gov/opinions/21pdf/596us2r40_2d93.pdf
+  - ICE – FOIA FAQ (Form I-286, Notice of Custody Determination)|https://www.ice.gov/foia/faq
+  - ICE – Detention standard, Transfer of Detainees (Form I-286)|https://www.ice.gov/doclib/dro/detention-standards/pdf/transfer_of_detainees.pdf
 faq:
   - How many days can ICE hold someone without a bond hearing?|No statute or regulation sets a number of days, as of October 28, 2026. If the person can seek bond under INA § 236(a), they ask the judge, and EOIR's manual says the court schedules the hearing "for the earliest possible date." If they are in mandatory detention, they can be held for the length of the case.
   - Is there a right to a bond hearing after 90 days?|Not as a general rule. In July 2026 a Fifth Circuit panel adopted a 90-day rule, but the full Fifth Circuit overruled it on October 23, 2026. The 90 days that do appear in the statute are something else: the removal period after a final order.
@@ -32,6 +34,8 @@ faq:
   - Who makes the first bond decision?|ICE. DHS makes the initial custody decision and can set a bond or deny one. If the person is not in mandatory detention, they can then ask an immigration judge to review it, in writing or orally, with no filing fee.
   - What will the Supreme Court decide in Rhoney v. Barbosa da Cunha?|Whether the statute requires detention, for the length of removal proceedings, of people present in the U.S. without having been admitted. The Court granted review on October 1, 2026. As of October 28, 2026, the docket shows no decision date.
   - How long can detention last after a removal order?|The statute gives the government 90 days to carry out removal, and detention is mandatory during that period. It can be extended in some cases. If removal is not reasonably foreseeable, there is a review process before DHS and, in some cases, before an immigration judge.
+  - What is Form I-286?|ICE lists Form I-286 as the Notice of Custody Determination, an ICE-issued document typically kept in the A-file. ICE detention standards also refer to it as the notification of the custody decision, served with other charging documents.
+  - What is INA section 236?|INA § 236 (8 U.S.C. § 1226) is the statute on detention during removal proceedings. Subsection (a) allows ICE to detain someone or release them on a bond of at least $1,500 or on conditional parole; subsection (c) requires detention in listed categories, without bond from the immigration judge.
 ---
 As of October 28, 2026, no law sets a maximum number of days before a bond hearing. It depends on the legal basis: under INA § 236(a), the person can ask a judge for bond at any time; in mandatory detention (§ 236(c) or § 235(b)), they can be held for the whole case. The Supreme Court is reviewing this.
 
@@ -45,7 +49,7 @@ The immigration statute does not set a number of days for detention while a case
 2. **Mandatory detention (INA § 236(c) and § 235(b)).** For certain people, the statute says the government "shall" detain them. Under § 235(b)(2)(A), the person "shall be detained" for a removal proceeding ([8 U.S.C. § 1225](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1225.htm)). See [who is not eligible for immigration bond](/en/mandatory-detention-no-bond/).
 3. **Detention after a final order (INA § 241).** The government has a 90-day "removal period," during which detention is mandatory ([8 U.S.C. § 1231(a)](https://www.govinfo.gov/content/pkg/USCODE-2024-title8/html/USCODE-2024-title8-chap12-subchapII-partIV-sec1231.htm)).
 
-That is why "how long?" has no single answer. The first step is to find out which provision the person is being held under. That usually appears in the papers ICE hands over and in the custody decision; a lawyer can review them.
+That is why "how long?" has no single answer. The first step is to find out which provision the person is being held under. That usually appears in the papers ICE hands over, including Form I-286 (Notice of Custody Determination), which [ICE](https://www.ice.gov/foia/faq) lists as an ICE-issued document typically kept in the A-file; a lawyer can review them.
 
 ## When can you ask for a bond hearing?
 
@@ -130,5 +134,13 @@ Whether the statute requires detention, for the length of removal proceedings, o
 ### How long can detention last after a removal order?
 
 The statute gives the government 90 days to carry out removal, and detention is mandatory during that period. It can be extended in some cases. If removal is not reasonably foreseeable, there is a review process before DHS and, in some cases, before an immigration judge.
+
+### What is Form I-286?
+
+ICE lists Form I-286 as the Notice of Custody Determination, an ICE-issued document typically kept in the A-file. ICE detention standards also refer to it as the notification of the custody decision, served with other charging documents.
+
+### What is INA section 236?
+
+INA § 236 (8 U.S.C. § 1226) is the statute on detention during removal proceedings. Subsection (a) allows ICE to detain someone or release them on a bond of at least $1,500 or on conditional parole; subsection (c) requires detention in listed categories, without bond from the immigration judge.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

@@ -1,11 +1,11 @@
 ---
 title: What happens after an ICE arrest? The first hours
 seo_title: What Happens After ICE Arrests Someone: First 48 Hours
-description: What happens after an ICE arrest: the 48-hour custody decision, jail detainers, what changes on a weekend, and a checklist for the family until Monday.
+description: What happens after an ICE arrest: the 48-hour custody decision, jail detainers, what changes on a Friday or weekend, and a checklist until Monday.
 slug: what-happens-after-an-ice-arrest
 mirror: que-pasa-despues-de-un-arresto-de-ice
 date: 2026-10-28
-updated: 2026-11-19
+updated: 2026-11-25
 summary:
   - After a warrantless arrest, the regulation requires a decision within 48 hours on whether the person stays in custody or is released on bond or recognizance, except in an emergency or other extraordinary circumstance.
   - If the person was in a local jail with an ICE detainer, the regulation refers to a maximum of 48 hours excluding Saturdays, Sundays and holidays. ICE's web page says "up to 48 hours."
@@ -30,6 +30,8 @@ faq:
   - Can you pay an ICE bond on a Saturday or Sunday?|According to ICE, no. Bond payments are processed Monday to Friday, 9 a.m. to 3 p.m. in the time zone where the person is detained, excluding holidays. Requests received after hours are processed the next business day.
   - What number do you call to ask about a detained person?|ICE's DRIL line, 1-888-351-4024. According to ICE, live operators answer Monday to Friday (excluding holidays) from 8 a.m. to 8 p.m. Eastern Time, with Spanish-language help. You can also call the ERO field office or the detention facility.
   - What should the family do over the weekend?|Search for the person in the ICE locator and write down the A-Number and facility. You can also gather evidence of ties and the documents of whoever would pay the bond, get the bank transfer ready, and contact a lawyer or a free legal service provider.
+  - What happens if ICE arrests someone on a Friday or a weekend?|The law does not change, but several official steps only operate on business days. According to ICE, bond payments and the DRIL line do not operate on weekends; the online detainee locator remains available.
+  - How long does ICE have to pick up someone held on a detainer?|The regulation says a local jail should not hold the person more than 48 hours, excluding Saturdays, Sundays and holidays. ICE's current page says "up to 48 hours" and that if ICE does not assume custody after 48 hours, the local agency must release the person.
 ---
 After an arrest, ICE records the person's information and decides whether to open a court case. If the arrest was warrantless, the regulation requires a decision within 48 hours on whether the person stays detained or is released on bond or recognizance, except in an emergency. A weekend delays steps such as paying a bond.
 
@@ -130,5 +132,13 @@ ICE's DRIL line, 1-888-351-4024. According to ICE, live operators answer Monday 
 ### What should the family do over the weekend?
 
 Search for the person in the ICE locator and write down the A-Number and facility. You can also gather evidence of ties and the documents of whoever would pay the bond, get the bank transfer ready, and contact a lawyer or a free legal service provider.
+
+### What happens if ICE arrests someone on a Friday or a weekend?
+
+The law does not change, but several official steps only operate on business days. According to ICE, bond payments and the DRIL line do not operate on weekends; the online detainee locator remains available.
+
+### How long does ICE have to pick up someone held on a detainer?
+
+The regulation says a local jail should not hold the person more than 48 hours, excluding Saturdays, Sundays and holidays. ICE's current page says "up to 48 hours" and that if ICE does not assume custody after 48 hours, the local agency must release the person.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>

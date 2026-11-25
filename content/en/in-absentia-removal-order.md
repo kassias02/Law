@@ -1,12 +1,12 @@
 ---
-title: Missed immigration court: in absentia orders and reopening
-seo_title: Missed immigration court: in absentia orders and reopening
+title: Missed immigration court: in absentia and motion to reopen
+seo_title: Missed immigration court: in absentia and motion to reopen
 nav: I missed my hearing
-description: What happens when you miss an immigration hearing, what an in absentia removal order means, and the limited grounds and deadlines for reopening the case.
+description: What happens if you miss immigration court: an in absentia removal order, and how a motion to reopen works (lack of notice or the 180-day deadline).
 slug: in-absentia-removal-order
 mirror: orden-de-deportacion-en-ausencia
 date: 2026-09-16
-updated: 2026-10-28
+updated: 2026-11-25
 summary:
   - If you fail to appear, the judge can order removal that same day without hearing your defense.
   - Reopening is possible by motion, but the grounds are narrow and the deadlines are short.
@@ -18,12 +18,15 @@ sources:
   - EOIR – Practice Manual, chapter 4 (motions)|https://www.justice.gov/eoir/policy-manual-eoir/part-II/icpm/chapter-4
   - EOIR – Automated Case Information System|https://acis.eoir.justice.gov/
 faq:
+  - What happens if you miss immigration court?|If you fail to appear and the government shows you were properly served, the judge can enter an in absentia removal order the same day. ICE can then execute that order, so confirm the record in ACIS or at 1-800-898-7180 before you act.
+  - What is a motion to reopen in immigration court?|It is a written request asking the immigration judge to rescind an in absentia order and put the case back on the calendar. The main statutory grounds are lack of proper notice (no deadline) and exceptional circumstances (180 days).
+  - What does "removed in absentia" mean?|It means a removal order was entered because the person did not appear at the hearing. For practical purposes the order is final: ICE can execute it, and it can bar certain relief for ten years, including voluntary departure and cancellation.
   - Can I reopen if I never received the hearing notice?|Yes. If you show you did not receive the notice the law requires, you can file a motion to reopen with no time limit. It is the strongest ground available.
   - How long do I have under exceptional circumstances?|180 days from the order. Serious illness or the death of an immediate relative qualify; forgetting the date or transport problems do not.
   - Does filing a motion stop my deportation?|Not automatically. You must separately request a stay of removal. Until then ICE can execute the order.
 ---
 <h2 id="what-happens-if-i-miss-court">What happens if I miss immigration court, and can the case be reopened?</h2>
-<p>If you fail to appear, the judge can order removal that same day without hearing your defense. You can ask to reopen by motion: with no time limit for lack of proper notice, and within 180 days for exceptional circumstances. Act immediately.</p>
+<p>If you miss immigration court, the judge can enter an in absentia removal order that same day without hearing your defense. You can file a motion to reopen: with no time limit for lack of proper notice, and within 180 days for exceptional circumstances. Act immediately.</p>
 
 ## What happened in the courtroom
 
@@ -80,6 +83,18 @@ With an outstanding in absentia order you appear in ICE systems as having a fina
 3. Speak to a lawyer now, not next month. On the 180-day track, days literally count.
 
 ## Frequently asked questions
+
+### What happens if you miss immigration court?
+
+If you fail to appear and the government shows you were properly served, the judge can enter an in absentia removal order the same day. ICE can then execute that order, so confirm the record in ACIS or at 1-800-898-7180 before you act.
+
+### What is a motion to reopen in immigration court?
+
+It is a written request asking the immigration judge to rescind an in absentia order and put the case back on the calendar. The main statutory grounds are lack of proper notice (no deadline) and exceptional circumstances (180 days).
+
+### What does "removed in absentia" mean?
+
+It means a removal order was entered because the person did not appear at the hearing. For practical purposes the order is final: ICE can execute it, and it can bar certain relief for ten years, including voluntary departure and cancellation.
 
 ### Can I reopen if I never received the hearing notice?
 
