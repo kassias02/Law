@@ -5,7 +5,7 @@ description: Qué pasa después de un arresto de ICE: la decisión de custodia e
 slug: que-pasa-despues-de-un-arresto-de-ice
 mirror: what-happens-after-an-ice-arrest
 date: 2026-10-28
-updated: 2026-11-19
+updated: 2026-11-25
 summary:
   - Tras un arresto sin orden judicial, el reglamento exige que ICE decida en 48 horas si la persona sigue detenida o sale con fianza o bajo palabra, salvo emergencia o circunstancia extraordinaria.
   - Si la persona estaba en una cárcel local con un detainer de ICE, el reglamento habla de un máximo de 48 horas sin contar sábados, domingos ni feriados. La página de ICE dice "hasta 48 horas".
@@ -30,6 +30,7 @@ faq:
   - ¿Se puede pagar una fianza de ICE un sábado o un domingo?|Según ICE, no. Los pagos de fianza se procesan de lunes a viernes, de 9 a. m. a 3 p. m. en la zona horaria del lugar de detención, salvo feriados. Lo que llega fuera de ese horario se procesa el siguiente día hábil.
   - ¿A qué número se llama para preguntar por un detenido?|A la línea DRIL de ICE, 1-888-351-4024. Según ICE, tiene operadores de lunes a viernes (salvo feriados) de 8 a. m. a 8 p. m., hora del Este, con asistencia en español. También puede llamar a la oficina de campo de ERO o al centro de detención.
   - ¿Qué debe hacer la familia durante el fin de semana?|Buscar a la persona en el localizador de ICE y anotar el A-Number y el centro de detención. También puede reunir pruebas de arraigo y los documentos de quien pagaría la fianza, preparar el pago por transferencia y contactar a un abogado o a un proveedor de servicios legales gratuitos.
+  - ¿Qué pasa si ICE lo arresta un viernes o un fin de semana?|La ley no cambia, pero varios trámites oficiales solo operan en días hábiles. Según ICE, el pago de fianza y la línea DRIL no atienden el fin de semana; el localizador en línea sí está disponible.
 ---
 Después de un arresto, ICE registra a la persona y decide si abre un caso ante la corte. Si el arresto fue sin orden judicial, el reglamento exige decidir en 48 horas si sigue detenida o sale con fianza o bajo palabra, salvo emergencia. Un fin de semana retrasa trámites como el pago de la fianza.
 
@@ -130,5 +131,10 @@ A la línea DRIL de ICE, 1-888-351-4024. Según ICE, tiene operadores de lunes a
 ### ¿Qué debe hacer la familia durante el fin de semana?
 
 Buscar a la persona en el localizador de ICE y anotar el A-Number y el centro de detención. También puede reunir pruebas de arraigo y los documentos de quien pagaría la fianza, preparar el pago por transferencia y contactar a un abogado o a un proveedor de servicios legales gratuitos.
+
+
+### ¿Qué pasa si ICE lo arresta un viernes o un fin de semana?
+
+La ley no cambia, pero varios trámites oficiales solo operan en días hábiles. Según ICE, el pago de fianza y la línea DRIL no atienden el fin de semana; el localizador en línea sí está disponible.
 
 <div class="btn-row">{{CONTACT_BUTTONS}}</div>
